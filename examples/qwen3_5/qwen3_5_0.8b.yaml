@@ -1,0 +1,40 @@
+model:
+  model_type: "qwen3_5"
+
+training:
+  micro_batch_size: 2
+  bf16: True
+  learning_rate: 2e-5
+  max_seq_len: 2048
+  gradient_accumulation_steps: 1
+  seed: 42
+  lr_decay_style: cosine
+  lr_warmup_ratio: 0.1
+  weight_decay: 0.01
+  train_iters: 8000
+  clip_grad: 1.0
+  init_model_with_meta_device: true
+  optimizer: adamw
+  adam_fused: true
+  save_interval: 2000
+  # 权重加载路径（服务器上修改为真实DCP权重目录）
+  load: /workspace/mnt/share/weights/Qwen3.5-0.8B-VL-dcp/
+  # 微调模型输出目录
+  save: /workspace/output/qwen3_5_ecommerce_vl/
+
+data:
+  dataset: &DATASET_PATH ../../data/ecommerce_multimodal/train.json
+  preprocess_parameters:
+    use_fast_tokenizer: true
+    split_special_tokens: false
+    image_max_pixels: 262144
+    image_min_pixels: 1024
+
+fsdp:
+  sharding_strategy: "FULL_SHARD"
+  activation_checkpointing: True
+
+plugin:
+  - mindspeed_mm/fsdp/models/qwen3_5
+  - mindspeed_mm/fsdp/data/datasets/huggingface
+  -

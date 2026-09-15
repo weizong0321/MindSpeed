@@ -2238,7 +2238,7 @@ class Qwen3_5ForConditionalGeneration(Qwen3_5PreTrainedModel, GenerationMixin):
         input_ids: torch.LongTensor | None = None,
         **model_kwargs,
     ) -> tuple[torch.LongTensor, dict[str, Any]]:
-        # Overwritten -- Qwen3_5 use timestamps and remove second_per_grid_ts
+            # Overwritten -- Qwen3_5 use timestamps and remove second_per_grid_ts
         # Support for expanding tensors without a batch size dimension
         # e.g., pixel_values, image_grid_thw, pixel_values_videos, video_grid_thw
         # pixel_values.shape[0] is sum(seqlen_images for samples)
@@ -2335,3 +2335,121 @@ __all__ = [
     "Qwen3_5ForConditionalGeneration",
     "Qwen3_5PreTrainedModel",
 ]
+import torch
+import torch.nn as nn
+from transformers import PreTrainedModel
+from .qwen3_5_config import Qwen3_5Config
+
+# ==================== 基础文本模型（原有纯文本主干） ====================
+class Qwen3_5RMSNorm(nn.Module):
+    def __init__(self, hidden_size, eps=1e-6):
+        super().__init__()
+        self.weight = nn.Parameter(torch.ones(hidden_size))
+        self.variance_epsilon = eps
+
+    def forward(self, hidden_states):
+        input_dtype = hidden_states.dtype
+        hidden_states = hidden_states.to(torch.float32)
+        variance = hidden_states.pow(2).mean(-1, keepdim=True)
+        hidden_states = hidden_states * torch.rsqrt(variance + self.variance_epsilon)
+        return self.weight * hidden_states.to(input_dtype)
+
+class Qwen3_5ForCausalLM(PreTrainedModel):
+    config_class = Qwen3_5Config
+    def __init__(self, config: Qwen3_5Config):
+        super().__init__(config)
+        self.config = config
+        self.embed_tokens = nn.Embedding(config.vocab_size, config.hidden_size)
+        self.layers = nn.ModuleList([nn.Identity() for _ in range(config.num_hidden_layers)])
+        self.norm = Qwen3_5RMSNorm(config.hidden_size, config.rms_norm_eps)
+        self.lm_head = nn.Linear(config.hidden_size, config.vocab_size, bias=False)
+
+    def forward(self, input_ids=None, attention_mask=None, labels=None, hidden_states=None, **kwargs):
+        if hidden_states is None:
+            hidden_states = self.embed_tokens(input_ids)
+        for layer in self.layers:
+            hidden_states = layer(hidden_states)
+        hidden_states = self.norm(hidden_states)
+        logits = self.lm_head(hidden_states)
+        loss = None
+        if labels is not None:
+            loss_fct = nn.CrossEntropyLoss()
+            loss = loss_fct(logits.view(-1, self.config.vocab_size), labels.view(-1))
+        return {"loss": loss, "logits": logits} if loss is not None else {"logits": logits}
+
+# ==================== 新增：视觉编码器 ====================
+class VisionTransformer(nn.Module):
+    def __init__(self, config: Qwen3_5Config):
+        super().__init__()
+        self.config = config
+        self.patch_embed = nn.Conv2d(
+            in_channels=3,
+            out_channels=config.vision_hidden_size,
+            kernel_size=config.patch_size,
+            stride=config.patch_size,
+            bias=False
+        )
+        self.vision_layers = nn.ModuleList(
+            [nn.Identity() for _ in range(config.vision_num_hidden_layers)]
+        )
+        self.post_layernorm = nn.LayerNorm(config.vision_hidden_size)
+
+    def forward(self, pixel_values):
+        hidden_states = self.patch_embed(pixel_values)
+        batch_size, channels, h, w = hidden_states.shape
+        hidden_states = hidden_states.flatten(2).transpose(1, 2)
+        for layer in self.vision_layers:
+            hidden_states = layer(hidden_states)
+        hidden_states = self.post_layernorm(hidden_states)
+        return hidden_states
+
+# ==================== 新增：视觉特征投影层（对齐文本维度） ====================
+class VisionProjection(nn.Module):
+    def __init__(self, config: Qwen3_5Config):
+        super().__init__()
+        self.linear_1 = nn.Linear(config.vision_hidden_size, config.hidden_size)
+        self.act = nn.GELU()
+        self.linear_2 = nn.Linear(config.hidden_size, config.hidden_size)
+
+    def forward(self, image_features):
+        hidden_states = self.linear_1(image_features)
+        hidden_states = self.act(hidden_states)
+        hidden_states = self.linear_2(hidden_states)
+        return hidden_states
+
+# ==================== 多模态主模型：图文融合 ====================
+class Qwen3_5VLForCausalLM(Qwen3_5ForCausalLM):
+    def __init__(self, config: Qwen3_5Config):
+        super().__init__(config)
+        self.vision_encoder = VisionTransformer(config)
+        self.vision_proj = VisionProjection(config)
+        self.image_token_index = config.image_token_index
+
+    def encode_images(self, pixel_values):
+        """图片编码：视觉编码器提取特征 → 投影到文本维度"""
+        image_features = self.vision_encoder(pixel_values)
+        image_embeds = self.vision_proj(image_features)
+        return image_embeds
+
+    def forward(self, input_ids=None, pixel_values=None, attention_mask=None, labels=None, **kwargs):
+        # 1. 文本token转embedding
+        hidden_states = self.embed_tokens(input_ids)
+        batch_size, seq_len, hidden_dim = hidden_states.shape
+
+        # 2. 有图片输入时，图文特征融合
+        if pixel_values is not None:
+            image_embeds = self.encode_images(pixel_values)
+            # 找到<image>占位符位置，替换为图片特征
+            image_mask = (input_ids == self.image_token_index)
+            num_image_tokens = image_mask.sum().item()
+            # 按位置填充图片embedding
+            if num_image_tokens > 0:
+                hidden_states[image_mask] = image_embeds.reshape(-1, hidden_dim)[:num_image_tokens]
+
+        # 3. 走文本主干推理
+        return super().forward(
+            attention_mask=attention_mask,
+            hidden_states=hidden_states,
+            labels=labels,
+            **kwargs
+        )

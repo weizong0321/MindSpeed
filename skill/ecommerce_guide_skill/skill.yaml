@@ -1,0 +1,4 @@
+skill_name: ecommerce_guide_skill
+model_type: qwen3_5_vl
+task_type: multimodal_dialogue
+description: 多模态电商智能导购助手，支持图文联合咨询、多条件商品筛选

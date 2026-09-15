@@ -1,19 +1,28 @@
-sharding_size: auto
-reshard_after_forward: True
-param_dtype: "bf16"
-reduce_dtype: "fp32"
-cast_forward_inputs: True
-num_to_forward_prefetch: 1
-num_to_backward_prefetch: 1
-offload_to_cpu: False
-
-# If True, each FSDP parameter group within a block contains only Linear layer parameters,
-# enabling aligned sharding for improved communication efficiency. Set to False to disable this optimization.
-align_fsdp_param_groups: True
-
-# Mixture of Experts Parallelism (EP) configuration
-# Experimental feature, only support expert_parallel_size = 1
-expert_parallel_size: 1
-reshard_local_experts: True
-moe_modules:
-  - model.language_model.layers.{*}.mlp.experts
+model:
+  model_type: "qwen3_5"
+training:
+  micro_batch_size: 2
+  gradient_accumulation_steps: 1
+  seed: 42
+  lr: 2.0e-5
+  lr_decay_style: cosine
+  lr_warmup_ratio: 0.1
+  weight_decay: 0.01
+  train_iters: 8000
+  clip_grad: 1.0
+  init_model_with_meta_device: true
+  optimizer: adamw
+  adam_fused: true
+  save_interval: 2000
+  # 后续在平台运行时修改为服务器权重路径
+  load: /workspace/mnt/share/weights/Qwen3.5-0.8B-dcp/
+  save: /workspace/output/qwen3_5_campus_qa/
+data:
+  # 平台运行时修改为数据集真实路径
+  dataset: &DATASET_PATH /workspace/mnt/share/data/campus_qa.json
+fsdp:
+  sharding_strategy: "FULL_SHARD"
+  activation_checkpointing: True
+plugin:
+  - mindspeed_mm/fsdp/models/qwen3_5
+  - mindspeed_mm/fsdp/data/datasets/huggingface
