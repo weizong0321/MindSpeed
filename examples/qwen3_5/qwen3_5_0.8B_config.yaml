@@ -71,8 +71,7 @@ data:
       #
       # ===== 切换到电商导购数据（data/ecommerce_multimodal/）=====
       # 该 json 为 sharegpt 格式：
-      #   {"conversations": [{"from": "user", "value": "<image>
-..."},
+      #   {"conversations": [{"from": "user", "value": "<image> 加问题"},
       #                      {"from": "assistant", "value": "..."}],
       #    "image": "images/000000000086.jpg"}
       # 需要把上面的 dataset_dir / dataset 以及 attr 改成：
