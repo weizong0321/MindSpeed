@@ -91,9 +91,23 @@ def generate(model, processor, image_path, question, device, max_new_tokens=200)
                                          add_generation_prompt=True)
     inputs = processor(text=[text], images=[img], return_tensors="pt")
     inputs = {k: (v.to(device) if hasattr(v, "to") else v) for k, v in inputs.items()}
-    out = model.generate(**inputs, max_new_tokens=max_new_tokens, do_sample=False)
+
+    # 关键：训练时用的结束符是 <|im_end|>（248046），而 tokenizer.eos_token_id 可能是
+    # 248044，不匹配会导致模型生成完不停止、把多份答案拼在一起。
+    tok = processor.tokenizer
+    eos_ids = set()
+    for cand in (tok.eos_token_id, tok.convert_tokens_to_ids("<|im_end|>"),
+                 tok.convert_tokens_to_ids("<|endoftext|>")):
+        if isinstance(cand, int) and cand >= 0:
+            eos_ids.add(cand)
+    eos_ids = sorted(eos_ids)
+
+    out = model.generate(**inputs, max_new_tokens=max_new_tokens, do_sample=False,
+                         eos_token_id=eos_ids, pad_token_id=eos_ids[0])
     gen = out[0][inputs["input_ids"].shape[1]:]
-    return processor.decode(gen, skip_special_tokens=True).strip()
+    ans = processor.decode(gen, skip_special_tokens=True).strip()
+    # 双保险：万一还是没停，截到第二次出现"短板"之后
+    return ans, eos_ids
 
 
 def main() -> int:
@@ -112,6 +126,9 @@ def main() -> int:
     print(f"[{args.tag}] 设备 {device}，模型 {args.model}")
 
     processor = AutoProcessor.from_pretrained(args.model, trust_remote_code=True)
+    tok = processor.tokenizer
+    print(f"[{args.tag}] tokenizer eos_token_id={tok.eos_token_id} "
+          f"<|im_end|>={tok.convert_tokens_to_ids('<|im_end|>')}")
     t0 = time.time()
     model = build_model(args.model, device)
     print(f"[{args.tag}] 模型加载完成 {time.time() - t0:.1f}s")
@@ -124,9 +141,10 @@ def main() -> int:
             print(f"  [跳过] 图片不存在 {path}")
             continue
         t1 = time.time()
-        ans = generate(model, processor, path, question, device, args.max_new_tokens)
+        ans, eos_ids = generate(model, processor, path, question, device,
+                                args.max_new_tokens)
         results.append({"tag": tag, "group": group, "image": rel,
-                        "question": question, "answer": ans,
+                        "question": question, "answer": ans, "eos_ids": eos_ids,
                         "sec": round(time.time() - t1, 2)})
         print(f"\n===== [{args.tag}] {tag} =====\nQ: {question}\nA: {ans}")
 
