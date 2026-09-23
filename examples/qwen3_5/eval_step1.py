@@ -100,8 +100,17 @@ def main() -> int:
 
     evalset = json.loads(Path(f"{DATA}/eval.json").read_text(encoding="utf-8"))
     answers = json.loads(Path(f"{DATA}/answers.json").read_text(encoding="utf-8"))
+    questions = json.loads(Path(f"{DATA}/questions.json").read_text(encoding="utf-8"))
 
-    # 每个子样式的参考答案（按 question id 取；评测时问句与参考答案一起用）
+    # 问句文本 -> 问法 id（归属判断必须同问法比较，否则拿 outdoor 的答案去比 daily 的参考）
+    qid_of = {}
+    for cat, spec in questions.items():
+        if cat.startswith("_"):
+            continue
+        for q in spec["questions"]:
+            qid_of[q["user"]] = (cat, q["id"])
+
+    # 每个子样式的参考答案
     refs = {}
     for key, meta in answers.items():
         if key.startswith("_"):
@@ -167,12 +176,15 @@ def main() -> int:
         if bad:
             contam.append({"sku": r["sku"], "words": bad, "answer": r["answer"][:80]})
 
-    # D：归属准确率
+    # D：归属准确率（只在同一问法内比较）
     correct = 0
     conf = defaultdict(int)
     for r in results:
+        cat, qid = qid_of.get(r["question"], (r["sku"].split("/")[0], None))
         best, best_s = None, -1.0
-        for (key, qid), txt in refs.items():
+        for (key, q), txt in refs.items():
+            if q != qid:
+                continue
             sc = sim(r["answer"], txt)
             if sc > best_s:
                 best_s, best = sc, key
