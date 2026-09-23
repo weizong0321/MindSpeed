@@ -1,0 +1,2613 @@
+{
+  "root": "C:\\Users\\wqy\\Downloads\\MindSpeed-MM\\data\\ecommerce_multimodal\\images",
+  "backbone": "resnet50",
+  "k": 200,
+  "total": 141931,
+  "clustered": 141931,
+  "failed": 0,
+  "max_cluster": 1452,
+  "min_cluster": 167,
+  "median_cluster": 693,
+  "clusters": [
+    {
+      "rank": 1,
+      "cluster": 131,
+      "size": 1452,
+      "purity": 0.7174,
+      "samples": [
+        "116.jpg",
+        "139.jpg",
+        "181.jpg",
+        "323.jpg",
+        "324.jpg"
+      ]
+    },
+    {
+      "rank": 2,
+      "cluster": 31,
+      "size": 1418,
+      "purity": 0.7981,
+      "samples": [
+        "36.jpg",
+        "473.jpg",
+        "496.jpg",
+        "723.jpg",
+        "958.jpg"
+      ]
+    },
+    {
+      "rank": 3,
+      "cluster": 136,
+      "size": 1303,
+      "purity": 0.7756,
+      "samples": [
+        "15352.jpg",
+        "15354.jpg",
+        "15358.jpg",
+        "15360.jpg",
+        "15364.jpg"
+      ]
+    },
+    {
+      "rank": 4,
+      "cluster": 185,
+      "size": 1267,
+      "purity": 0.7641,
+      "samples": [
+        "26.jpg",
+        "50.jpg",
+        "51.jpg",
+        "52.jpg",
+        "54.jpg"
+      ]
+    },
+    {
+      "rank": 5,
+      "cluster": 115,
+      "size": 1225,
+      "purity": 0.8548,
+      "samples": [
+        "43080.jpg",
+        "43083.jpg",
+        "44686.jpg",
+        "44687.jpg",
+        "44689.jpg"
+      ]
+    },
+    {
+      "rank": 6,
+      "cluster": 17,
+      "size": 1204,
+      "purity": 0.7377,
+      "samples": [
+        "41952.jpg",
+        "43076.jpg",
+        "43078.jpg",
+        "44688.jpg",
+        "44700.jpg"
+      ]
+    },
+    {
+      "rank": 7,
+      "cluster": 46,
+      "size": 1161,
+      "purity": 0.7168,
+      "samples": [
+        "4182.jpg",
+        "11653.jpg",
+        "19832.jpg",
+        "37645.jpg",
+        "38324.jpg"
+      ]
+    },
+    {
+      "rank": 8,
+      "cluster": 48,
+      "size": 1124,
+      "purity": 0.6954,
+      "samples": [
+        "48.jpg",
+        "488.jpg",
+        "1170.jpg",
+        "1348.jpg",
+        "1353.jpg"
+      ]
+    },
+    {
+      "rank": 9,
+      "cluster": 157,
+      "size": 1108,
+      "purity": 0.6791,
+      "samples": [
+        "2882.jpg",
+        "2888.jpg",
+        "16649.jpg",
+        "17090.jpg",
+        "17197.jpg"
+      ]
+    },
+    {
+      "rank": 10,
+      "cluster": 7,
+      "size": 1099,
+      "purity": 0.7605,
+      "samples": [
+        "4116.jpg",
+        "44243.jpg",
+        "44244.jpg",
+        "44245.jpg",
+        "44246.jpg"
+      ]
+    },
+    {
+      "rank": 11,
+      "cluster": 127,
+      "size": 1096,
+      "purity": 0.7572,
+      "samples": [
+        "67037.jpg",
+        "83749.jpg",
+        "83750.jpg",
+        "83751.jpg",
+        "83753.jpg"
+      ]
+    },
+    {
+      "rank": 12,
+      "cluster": 138,
+      "size": 1061,
+      "purity": 0.6522,
+      "samples": [
+        "42786.jpg",
+        "43233.jpg",
+        "53474.jpg",
+        "53481.jpg",
+        "55302.jpg"
+      ]
+    },
+    {
+      "rank": 13,
+      "cluster": 64,
+      "size": 1058,
+      "purity": 0.8098,
+      "samples": [
+        "15363.jpg",
+        "15381.jpg",
+        "15404.jpg",
+        "15411.jpg",
+        "15422.jpg"
+      ]
+    },
+    {
+      "rank": 14,
+      "cluster": 173,
+      "size": 1039,
+      "purity": 0.6633,
+      "samples": [
+        "475.jpg",
+        "1172.jpg",
+        "1379.jpg",
+        "3020.jpg",
+        "40222.jpg"
+      ]
+    },
+    {
+      "rank": 15,
+      "cluster": 188,
+      "size": 1016,
+      "purity": 0.6026,
+      "samples": [
+        "1963.jpg",
+        "3221.jpg",
+        "8037.jpg",
+        "17930.jpg",
+        "19030.jpg"
+      ]
+    },
+    {
+      "rank": 16,
+      "cluster": 97,
+      "size": 1011,
+      "purity": 0.7707,
+      "samples": [
+        "1033.jpg",
+        "2038.jpg",
+        "3131.jpg",
+        "3136.jpg",
+        "3890.jpg"
+      ]
+    },
+    {
+      "rank": 17,
+      "cluster": 24,
+      "size": 987,
+      "purity": 0.7206,
+      "samples": [
+        "15309.jpg",
+        "15310.jpg",
+        "15326.jpg",
+        "15335.jpg",
+        "15366.jpg"
+      ]
+    },
+    {
+      "rank": 18,
+      "cluster": 4,
+      "size": 985,
+      "purity": 0.7015,
+      "samples": [
+        "1868.jpg",
+        "15300.jpg",
+        "15301.jpg",
+        "28277.jpg",
+        "28281.jpg"
+      ]
+    },
+    {
+      "rank": 19,
+      "cluster": 125,
+      "size": 980,
+      "purity": 0.662,
+      "samples": [
+        "938.jpg",
+        "40554.jpg",
+        "45204.jpg",
+        "50473.jpg",
+        "52079.jpg"
+      ]
+    },
+    {
+      "rank": 20,
+      "cluster": 137,
+      "size": 976,
+      "purity": 0.7027,
+      "samples": [
+        "48601.jpg",
+        "48607.jpg",
+        "48611.jpg",
+        "51093.jpg",
+        "51252.jpg"
+      ]
+    },
+    {
+      "rank": 21,
+      "cluster": 26,
+      "size": 972,
+      "purity": 0.5613,
+      "samples": [
+        "231.jpg",
+        "245.jpg",
+        "486.jpg",
+        "501.jpg",
+        "1130.jpg"
+      ]
+    },
+    {
+      "rank": 22,
+      "cluster": 190,
+      "size": 972,
+      "purity": 0.755,
+      "samples": [
+        "15426.jpg",
+        "15428.jpg",
+        "15429.jpg",
+        "15430.jpg",
+        "15431.jpg"
+      ]
+    },
+    {
+      "rank": 23,
+      "cluster": 100,
+      "size": 970,
+      "purity": 0.7181,
+      "samples": [
+        "580.jpg",
+        "708.jpg",
+        "1156.jpg",
+        "2692.jpg",
+        "15975.jpg"
+      ]
+    },
+    {
+      "rank": 24,
+      "cluster": 160,
+      "size": 964,
+      "purity": 0.6288,
+      "samples": [
+        "178.jpg",
+        "519.jpg",
+        "863.jpg",
+        "1165.jpg",
+        "1167.jpg"
+      ]
+    },
+    {
+      "rank": 25,
+      "cluster": 122,
+      "size": 951,
+      "purity": 0.6956,
+      "samples": [
+        "1620.jpg",
+        "21409.jpg",
+        "33559.jpg",
+        "37407.jpg",
+        "39538.jpg"
+      ]
+    },
+    {
+      "rank": 26,
+      "cluster": 22,
+      "size": 948,
+      "purity": 0.61,
+      "samples": [
+        "167.jpg",
+        "168.jpg",
+        "353.jpg",
+        "583.jpg",
+        "1141.jpg"
+      ]
+    },
+    {
+      "rank": 27,
+      "cluster": 161,
+      "size": 944,
+      "purity": 0.6988,
+      "samples": [
+        "40602.jpg",
+        "40605.jpg",
+        "44755.jpg",
+        "51360.jpg",
+        "51739.jpg"
+      ]
+    },
+    {
+      "rank": 28,
+      "cluster": 52,
+      "size": 938,
+      "purity": 0.6528,
+      "samples": [
+        "25.jpg",
+        "27.jpg",
+        "117.jpg",
+        "156.jpg",
+        "179.jpg"
+      ]
+    },
+    {
+      "rank": 29,
+      "cluster": 116,
+      "size": 936,
+      "purity": 0.6464,
+      "samples": [
+        "2993.jpg",
+        "3700.jpg",
+        "4853.jpg",
+        "4858.jpg",
+        "5413.jpg"
+      ]
+    },
+    {
+      "rank": 30,
+      "cluster": 65,
+      "size": 935,
+      "purity": 0.6718,
+      "samples": [
+        "20.jpg",
+        "87.jpg",
+        "546.jpg",
+        "554.jpg",
+        "694.jpg"
+      ]
+    },
+    {
+      "rank": 31,
+      "cluster": 36,
+      "size": 912,
+      "purity": 0.6281,
+      "samples": [
+        "2792.jpg",
+        "4694.jpg",
+        "16089.jpg",
+        "45111.jpg",
+        "50327.jpg"
+      ]
+    },
+    {
+      "rank": 32,
+      "cluster": 117,
+      "size": 909,
+      "purity": 0.6112,
+      "samples": [
+        "683.jpg",
+        "4494.jpg",
+        "20381.jpg",
+        "28653.jpg",
+        "31297.jpg"
+      ]
+    },
+    {
+      "rank": 33,
+      "cluster": 62,
+      "size": 886,
+      "purity": 0.6675,
+      "samples": [
+        "2816.jpg",
+        "3132.jpg",
+        "4993.jpg",
+        "5912.jpg",
+        "16085.jpg"
+      ]
+    },
+    {
+      "rank": 34,
+      "cluster": 94,
+      "size": 878,
+      "purity": 0.8148,
+      "samples": [
+        "19535.jpg",
+        "28239.jpg",
+        "28242.jpg",
+        "28243.jpg",
+        "28249.jpg"
+      ]
+    },
+    {
+      "rank": 35,
+      "cluster": 45,
+      "size": 874,
+      "purity": 0.7512,
+      "samples": [
+        "1168.jpg",
+        "15327.jpg",
+        "15343.jpg",
+        "15346.jpg",
+        "15356.jpg"
+      ]
+    },
+    {
+      "rank": 36,
+      "cluster": 84,
+      "size": 874,
+      "purity": 0.5939,
+      "samples": [
+        "1984.jpg",
+        "2016.jpg",
+        "2258.jpg",
+        "2357.jpg",
+        "3989.jpg"
+      ]
+    },
+    {
+      "rank": 37,
+      "cluster": 146,
+      "size": 871,
+      "purity": 0.6931,
+      "samples": [
+        "16078.jpg",
+        "44242.jpg",
+        "44248.jpg",
+        "44632.jpg",
+        "44633.jpg"
+      ]
+    },
+    {
+      "rank": 38,
+      "cluster": 124,
+      "size": 870,
+      "purity": 0.6081,
+      "samples": [
+        "277.jpg",
+        "278.jpg",
+        "283.jpg",
+        "579.jpg",
+        "584.jpg"
+      ]
+    },
+    {
+      "rank": 39,
+      "cluster": 199,
+      "size": 870,
+      "purity": 0.582,
+      "samples": [
+        "1819.jpg",
+        "2075.jpg",
+        "2214.jpg",
+        "2979.jpg",
+        "5795.jpg"
+      ]
+    },
+    {
+      "rank": 40,
+      "cluster": 49,
+      "size": 870,
+      "purity": 0.6602,
+      "samples": [
+        "5910.jpg",
+        "16084.jpg",
+        "44208.jpg",
+        "44641.jpg",
+        "44644.jpg"
+      ]
+    },
+    {
+      "rank": 41,
+      "cluster": 108,
+      "size": 867,
+      "purity": 0.7899,
+      "samples": [
+        "15337.jpg",
+        "15338.jpg",
+        "15339.jpg",
+        "15340.jpg",
+        "15347.jpg"
+      ]
+    },
+    {
+      "rank": 42,
+      "cluster": 171,
+      "size": 866,
+      "purity": 0.5854,
+      "samples": [
+        "1192.jpg",
+        "1230.jpg",
+        "5947.jpg",
+        "15165.jpg",
+        "33154.jpg"
+      ]
+    },
+    {
+      "rank": 43,
+      "cluster": 177,
+      "size": 861,
+      "purity": 0.7742,
+      "samples": [
+        "99.jpg",
+        "169.jpg",
+        "171.jpg",
+        "222.jpg",
+        "223.jpg"
+      ]
+    },
+    {
+      "rank": 44,
+      "cluster": 80,
+      "size": 859,
+      "purity": 0.6503,
+      "samples": [
+        "915.jpg",
+        "20594.jpg",
+        "22351.jpg",
+        "28436.jpg",
+        "32694.jpg"
+      ]
+    },
+    {
+      "rank": 45,
+      "cluster": 3,
+      "size": 849,
+      "purity": 0.6731,
+      "samples": [
+        "4.jpg",
+        "6.jpg",
+        "16.jpg",
+        "18.jpg",
+        "68.jpg"
+      ]
+    },
+    {
+      "rank": 46,
+      "cluster": 63,
+      "size": 849,
+      "purity": 0.5608,
+      "samples": [
+        "163.jpg",
+        "176.jpg",
+        "274.jpg",
+        "515.jpg",
+        "835.jpg"
+      ]
+    },
+    {
+      "rank": 47,
+      "cluster": 42,
+      "size": 846,
+      "purity": 0.8038,
+      "samples": [
+        "41957.jpg",
+        "43060.jpg",
+        "43064.jpg",
+        "44691.jpg",
+        "44692.jpg"
+      ]
+    },
+    {
+      "rank": 48,
+      "cluster": 102,
+      "size": 843,
+      "purity": 0.5641,
+      "samples": [
+        "11825.jpg",
+        "16832.jpg",
+        "17415.jpg",
+        "20037.jpg",
+        "22983.jpg"
+      ]
+    },
+    {
+      "rank": 49,
+      "cluster": 35,
+      "size": 837,
+      "purity": 0.5933,
+      "samples": [
+        "1205.jpg",
+        "1907.jpg",
+        "2592.jpg",
+        "4814.jpg",
+        "6536.jpg"
+      ]
+    },
+    {
+      "rank": 50,
+      "cluster": 54,
+      "size": 828,
+      "purity": 0.4641,
+      "samples": [
+        "67.jpg",
+        "182.jpg",
+        "228.jpg",
+        "280.jpg",
+        "651.jpg"
+      ]
+    },
+    {
+      "rank": 51,
+      "cluster": 0,
+      "size": 827,
+      "purity": 0.6251,
+      "samples": [
+        "4088.jpg",
+        "4236.jpg",
+        "5052.jpg",
+        "6546.jpg",
+        "8397.jpg"
+      ]
+    },
+    {
+      "rank": 52,
+      "cluster": 77,
+      "size": 823,
+      "purity": 0.7276,
+      "samples": [
+        "1.jpg",
+        "3.jpg",
+        "5.jpg",
+        "7.jpg",
+        "8.jpg"
+      ]
+    },
+    {
+      "rank": 53,
+      "cluster": 168,
+      "size": 823,
+      "purity": 0.6085,
+      "samples": [
+        "495.jpg",
+        "499.jpg",
+        "500.jpg",
+        "601.jpg",
+        "711.jpg"
+      ]
+    },
+    {
+      "rank": 54,
+      "cluster": 132,
+      "size": 821,
+      "purity": 0.6812,
+      "samples": [
+        "1190.jpg",
+        "1229.jpg",
+        "1621.jpg",
+        "1910.jpg",
+        "2975.jpg"
+      ]
+    },
+    {
+      "rank": 55,
+      "cluster": 91,
+      "size": 821,
+      "purity": 0.8048,
+      "samples": [
+        "83776.jpg",
+        "83777.jpg",
+        "83778.jpg",
+        "83781.jpg",
+        "83783.jpg"
+      ]
+    },
+    {
+      "rank": 56,
+      "cluster": 189,
+      "size": 820,
+      "purity": 0.7328,
+      "samples": [
+        "6906.jpg",
+        "6920.jpg",
+        "7164.jpg",
+        "7172.jpg",
+        "7173.jpg"
+      ]
+    },
+    {
+      "rank": 57,
+      "cluster": 12,
+      "size": 816,
+      "purity": 0.7225,
+      "samples": [
+        "49085.jpg",
+        "51089.jpg",
+        "51090.jpg",
+        "51099.jpg",
+        "51101.jpg"
+      ]
+    },
+    {
+      "rank": 58,
+      "cluster": 142,
+      "size": 811,
+      "purity": 0.6628,
+      "samples": [
+        "886.jpg",
+        "46559.jpg",
+        "46570.jpg",
+        "46571.jpg",
+        "46574.jpg"
+      ]
+    },
+    {
+      "rank": 59,
+      "cluster": 23,
+      "size": 807,
+      "purity": 0.693,
+      "samples": [
+        "53.jpg",
+        "532.jpg",
+        "619.jpg",
+        "802.jpg",
+        "1605.jpg"
+      ]
+    },
+    {
+      "rank": 60,
+      "cluster": 119,
+      "size": 806,
+      "purity": 0.5648,
+      "samples": [
+        "150.jpg",
+        "157.jpg",
+        "159.jpg",
+        "161.jpg",
+        "162.jpg"
+      ]
+    },
+    {
+      "rank": 61,
+      "cluster": 101,
+      "size": 804,
+      "purity": 0.7546,
+      "samples": [
+        "2982.jpg",
+        "3801.jpg",
+        "6790.jpg",
+        "6861.jpg",
+        "7015.jpg"
+      ]
+    },
+    {
+      "rank": 62,
+      "cluster": 1,
+      "size": 791,
+      "purity": 0.6515,
+      "samples": [
+        "5426.jpg",
+        "7772.jpg",
+        "34087.jpg",
+        "37396.jpg",
+        "43120.jpg"
+      ]
+    },
+    {
+      "rank": 63,
+      "cluster": 18,
+      "size": 788,
+      "purity": 0.6145,
+      "samples": [
+        "23.jpg",
+        "24.jpg",
+        "62.jpg",
+        "65.jpg",
+        "96.jpg"
+      ]
+    },
+    {
+      "rank": 64,
+      "cluster": 90,
+      "size": 785,
+      "purity": 0.7027,
+      "samples": [
+        "451.jpg",
+        "634.jpg",
+        "968.jpg",
+        "1300.jpg",
+        "2777.jpg"
+      ]
+    },
+    {
+      "rank": 65,
+      "cluster": 95,
+      "size": 783,
+      "purity": 0.6576,
+      "samples": [
+        "1225.jpg",
+        "3704.jpg",
+        "5361.jpg",
+        "5366.jpg",
+        "33180.jpg"
+      ]
+    },
+    {
+      "rank": 66,
+      "cluster": 96,
+      "size": 782,
+      "purity": 0.5933,
+      "samples": [
+        "17878.jpg",
+        "31904.jpg",
+        "33187.jpg",
+        "33189.jpg",
+        "33196.jpg"
+      ]
+    },
+    {
+      "rank": 67,
+      "cluster": 184,
+      "size": 781,
+      "purity": 0.7669,
+      "samples": [
+        "46.jpg",
+        "101.jpg",
+        "333.jpg",
+        "337.jpg",
+        "429.jpg"
+      ]
+    },
+    {
+      "rank": 68,
+      "cluster": 139,
+      "size": 774,
+      "purity": 0.6665,
+      "samples": [
+        "42982.jpg",
+        "68715.jpg",
+        "77067.jpg",
+        "83793.jpg",
+        "83795.jpg"
+      ]
+    },
+    {
+      "rank": 69,
+      "cluster": 9,
+      "size": 767,
+      "purity": 0.6679,
+      "samples": [
+        "3491.jpg",
+        "14659.jpg",
+        "33957.jpg",
+        "36741.jpg",
+        "40929.jpg"
+      ]
+    },
+    {
+      "rank": 70,
+      "cluster": 187,
+      "size": 765,
+      "purity": 0.8386,
+      "samples": [
+        "15312.jpg",
+        "15353.jpg",
+        "15355.jpg",
+        "15370.jpg",
+        "15377.jpg"
+      ]
+    },
+    {
+      "rank": 71,
+      "cluster": 89,
+      "size": 762,
+      "purity": 0.6608,
+      "samples": [
+        "44.jpg",
+        "66.jpg",
+        "232.jpg",
+        "233.jpg",
+        "234.jpg"
+      ]
+    },
+    {
+      "rank": 72,
+      "cluster": 130,
+      "size": 757,
+      "purity": 0.6915,
+      "samples": [
+        "416.jpg",
+        "1461.jpg",
+        "2884.jpg",
+        "2885.jpg",
+        "3190.jpg"
+      ]
+    },
+    {
+      "rank": 73,
+      "cluster": 105,
+      "size": 755,
+      "purity": 0.6428,
+      "samples": [
+        "243.jpg",
+        "1227.jpg",
+        "2990.jpg",
+        "2992.jpg",
+        "3169.jpg"
+      ]
+    },
+    {
+      "rank": 74,
+      "cluster": 186,
+      "size": 753,
+      "purity": 0.6884,
+      "samples": [
+        "16087.jpg",
+        "27953.jpg",
+        "43987.jpg",
+        "43989.jpg",
+        "43991.jpg"
+      ]
+    },
+    {
+      "rank": 75,
+      "cluster": 99,
+      "size": 751,
+      "purity": 0.6081,
+      "samples": [
+        "28.jpg",
+        "37.jpg",
+        "39.jpg",
+        "115.jpg",
+        "249.jpg"
+      ]
+    },
+    {
+      "rank": 76,
+      "cluster": 34,
+      "size": 751,
+      "purity": 0.6153,
+      "samples": [
+        "15768.jpg",
+        "20091.jpg",
+        "24515.jpg",
+        "28085.jpg",
+        "29943.jpg"
+      ]
+    },
+    {
+      "rank": 77,
+      "cluster": 148,
+      "size": 751,
+      "purity": 0.6118,
+      "samples": [
+        "32829.jpg",
+        "41273.jpg",
+        "41963.jpg",
+        "43671.jpg",
+        "43672.jpg"
+      ]
+    },
+    {
+      "rank": 78,
+      "cluster": 71,
+      "size": 742,
+      "purity": 0.6611,
+      "samples": [
+        "17.jpg",
+        "29.jpg",
+        "30.jpg",
+        "31.jpg",
+        "32.jpg"
+      ]
+    },
+    {
+      "rank": 79,
+      "cluster": 123,
+      "size": 741,
+      "purity": 0.6681,
+      "samples": [
+        "5905.jpg",
+        "37399.jpg",
+        "37400.jpg",
+        "37401.jpg",
+        "37402.jpg"
+      ]
+    },
+    {
+      "rank": 80,
+      "cluster": 196,
+      "size": 741,
+      "purity": 0.6591,
+      "samples": [
+        "35809.jpg",
+        "44618.jpg",
+        "46185.jpg",
+        "47841.jpg",
+        "51083.jpg"
+      ]
+    },
+    {
+      "rank": 81,
+      "cluster": 158,
+      "size": 740,
+      "purity": 0.5058,
+      "samples": [
+        "1150.jpg",
+        "4546.jpg",
+        "12266.jpg",
+        "13488.jpg",
+        "15592.jpg"
+      ]
+    },
+    {
+      "rank": 82,
+      "cluster": 133,
+      "size": 740,
+      "purity": 0.5183,
+      "samples": [
+        "1682.jpg",
+        "16395.jpg",
+        "17059.jpg",
+        "21760.jpg",
+        "21764.jpg"
+      ]
+    },
+    {
+      "rank": 83,
+      "cluster": 13,
+      "size": 739,
+      "purity": 0.4669,
+      "samples": [
+        "1187.jpg",
+        "1560.jpg",
+        "2122.jpg",
+        "2419.jpg",
+        "2951.jpg"
+      ]
+    },
+    {
+      "rank": 84,
+      "cluster": 118,
+      "size": 737,
+      "purity": 0.7049,
+      "samples": [
+        "44645.jpg",
+        "46562.jpg",
+        "46577.jpg",
+        "48404.jpg",
+        "48600.jpg"
+      ]
+    },
+    {
+      "rank": 85,
+      "cluster": 81,
+      "size": 735,
+      "purity": 0.6692,
+      "samples": [
+        "4118.jpg",
+        "16080.jpg",
+        "16090.jpg",
+        "16091.jpg",
+        "44639.jpg"
+      ]
+    },
+    {
+      "rank": 86,
+      "cluster": 147,
+      "size": 728,
+      "purity": 0.6924,
+      "samples": [
+        "16032.jpg",
+        "29339.jpg",
+        "32160.jpg",
+        "42274.jpg",
+        "42300.jpg"
+      ]
+    },
+    {
+      "rank": 87,
+      "cluster": 21,
+      "size": 725,
+      "purity": 0.6183,
+      "samples": [
+        "5364.jpg",
+        "5909.jpg",
+        "6129.jpg",
+        "6255.jpg",
+        "42577.jpg"
+      ]
+    },
+    {
+      "rank": 88,
+      "cluster": 140,
+      "size": 723,
+      "purity": 0.584,
+      "samples": [
+        "121.jpg",
+        "125.jpg",
+        "160.jpg",
+        "164.jpg",
+        "173.jpg"
+      ]
+    },
+    {
+      "rank": 89,
+      "cluster": 74,
+      "size": 722,
+      "purity": 0.593,
+      "samples": [
+        "1068.jpg",
+        "1191.jpg",
+        "1250.jpg",
+        "1970.jpg",
+        "2388.jpg"
+      ]
+    },
+    {
+      "rank": 90,
+      "cluster": 174,
+      "size": 712,
+      "purity": 0.6909,
+      "samples": [
+        "10420.jpg",
+        "10621.jpg",
+        "15203.jpg",
+        "28300.jpg",
+        "28301.jpg"
+      ]
+    },
+    {
+      "rank": 91,
+      "cluster": 110,
+      "size": 712,
+      "purity": 0.6326,
+      "samples": [
+        "18547.jpg",
+        "24508.jpg",
+        "25094.jpg",
+        "28834.jpg",
+        "34656.jpg"
+      ]
+    },
+    {
+      "rank": 92,
+      "cluster": 16,
+      "size": 711,
+      "purity": 0.6015,
+      "samples": [
+        "3882.jpg",
+        "19426.jpg",
+        "25866.jpg",
+        "28428.jpg",
+        "28657.jpg"
+      ]
+    },
+    {
+      "rank": 93,
+      "cluster": 182,
+      "size": 711,
+      "purity": 0.6864,
+      "samples": [
+        "31320.jpg",
+        "36063.jpg",
+        "41668.jpg",
+        "41669.jpg",
+        "41670.jpg"
+      ]
+    },
+    {
+      "rank": 94,
+      "cluster": 195,
+      "size": 708,
+      "purity": 0.6254,
+      "samples": [
+        "30772.jpg",
+        "31794.jpg",
+        "32606.jpg",
+        "32607.jpg",
+        "32608.jpg"
+      ]
+    },
+    {
+      "rank": 95,
+      "cluster": 28,
+      "size": 708,
+      "purity": 0.6413,
+      "samples": [
+        "42531.jpg",
+        "42532.jpg",
+        "42533.jpg",
+        "42534.jpg",
+        "42535.jpg"
+      ]
+    },
+    {
+      "rank": 96,
+      "cluster": 128,
+      "size": 707,
+      "purity": 0.7437,
+      "samples": [
+        "16834.jpg",
+        "22228.jpg",
+        "30768.jpg",
+        "30770.jpg",
+        "32000.jpg"
+      ]
+    },
+    {
+      "rank": 97,
+      "cluster": 112,
+      "size": 703,
+      "purity": 0.5538,
+      "samples": [
+        "880.jpg",
+        "3496.jpg",
+        "4248.jpg",
+        "9551.jpg",
+        "13845.jpg"
+      ]
+    },
+    {
+      "rank": 98,
+      "cluster": 44,
+      "size": 703,
+      "purity": 0.7806,
+      "samples": [
+        "15311.jpg",
+        "15316.jpg",
+        "15320.jpg",
+        "15322.jpg",
+        "15324.jpg"
+      ]
+    },
+    {
+      "rank": 99,
+      "cluster": 51,
+      "size": 696,
+      "purity": 0.7203,
+      "samples": [
+        "6353.jpg",
+        "11774.jpg",
+        "14202.jpg",
+        "29114.jpg",
+        "29935.jpg"
+      ]
+    },
+    {
+      "rank": 100,
+      "cluster": 126,
+      "size": 693,
+      "purity": 0.7266,
+      "samples": [
+        "1137.jpg",
+        "31501.jpg",
+        "32193.jpg",
+        "41820.jpg",
+        "41908.jpg"
+      ]
+    },
+    {
+      "rank": 101,
+      "cluster": 175,
+      "size": 693,
+      "purity": 0.5549,
+      "samples": [
+        "2691.jpg",
+        "15285.jpg",
+        "28421.jpg",
+        "28720.jpg",
+        "30810.jpg"
+      ]
+    },
+    {
+      "rank": 102,
+      "cluster": 10,
+      "size": 692,
+      "purity": 0.5204,
+      "samples": [
+        "229.jpg",
+        "1672.jpg",
+        "6702.jpg",
+        "6704.jpg",
+        "6776.jpg"
+      ]
+    },
+    {
+      "rank": 103,
+      "cluster": 144,
+      "size": 690,
+      "purity": 0.6324,
+      "samples": [
+        "1189.jpg",
+        "1433.jpg",
+        "1434.jpg",
+        "1439.jpg",
+        "1442.jpg"
+      ]
+    },
+    {
+      "rank": 104,
+      "cluster": 143,
+      "size": 686,
+      "purity": 0.6169,
+      "samples": [
+        "5665.jpg",
+        "24409.jpg",
+        "24435.jpg",
+        "33151.jpg",
+        "34077.jpg"
+      ]
+    },
+    {
+      "rank": 105,
+      "cluster": 159,
+      "size": 686,
+      "purity": 0.7965,
+      "samples": [
+        "109830.jpg",
+        "109832.jpg",
+        "109833.jpg",
+        "109834.jpg",
+        "109835.jpg"
+      ]
+    },
+    {
+      "rank": 106,
+      "cluster": 15,
+      "size": 685,
+      "purity": 0.6702,
+      "samples": [
+        "70.jpg",
+        "174.jpg",
+        "175.jpg",
+        "227.jpg",
+        "304.jpg"
+      ]
+    },
+    {
+      "rank": 107,
+      "cluster": 55,
+      "size": 684,
+      "purity": 0.5893,
+      "samples": [
+        "1438.jpg",
+        "1619.jpg",
+        "1622.jpg",
+        "2171.jpg",
+        "2590.jpg"
+      ]
+    },
+    {
+      "rank": 108,
+      "cluster": 120,
+      "size": 677,
+      "purity": 0.4808,
+      "samples": [
+        "698.jpg",
+        "811.jpg",
+        "1143.jpg",
+        "1151.jpg",
+        "1211.jpg"
+      ]
+    },
+    {
+      "rank": 109,
+      "cluster": 176,
+      "size": 671,
+      "purity": 0.5446,
+      "samples": [
+        "3439.jpg",
+        "4453.jpg",
+        "5580.jpg",
+        "5588.jpg",
+        "6346.jpg"
+      ]
+    },
+    {
+      "rank": 110,
+      "cluster": 53,
+      "size": 667,
+      "purity": 0.6633,
+      "samples": [
+        "35654.jpg",
+        "42312.jpg",
+        "47471.jpg",
+        "49883.jpg",
+        "49913.jpg"
+      ]
+    },
+    {
+      "rank": 111,
+      "cluster": 109,
+      "size": 666,
+      "purity": 0.5778,
+      "samples": [
+        "5044.jpg",
+        "20438.jpg",
+        "28503.jpg",
+        "28575.jpg",
+        "28576.jpg"
+      ]
+    },
+    {
+      "rank": 112,
+      "cluster": 129,
+      "size": 665,
+      "purity": 0.7512,
+      "samples": [
+        "29096.jpg",
+        "29098.jpg",
+        "29099.jpg",
+        "29100.jpg",
+        "29102.jpg"
+      ]
+    },
+    {
+      "rank": 113,
+      "cluster": 39,
+      "size": 662,
+      "purity": 0.7946,
+      "samples": [
+        "103.jpg",
+        "248.jpg",
+        "430.jpg",
+        "528.jpg",
+        "540.jpg"
+      ]
+    },
+    {
+      "rank": 114,
+      "cluster": 166,
+      "size": 661,
+      "purity": 0.6725,
+      "samples": [
+        "33926.jpg",
+        "35883.jpg",
+        "42671.jpg",
+        "42874.jpg",
+        "42945.jpg"
+      ]
+    },
+    {
+      "rank": 115,
+      "cluster": 104,
+      "size": 660,
+      "purity": 0.6536,
+      "samples": [
+        "43.jpg",
+        "59.jpg",
+        "64.jpg",
+        "73.jpg",
+        "91.jpg"
+      ]
+    },
+    {
+      "rank": 116,
+      "cluster": 150,
+      "size": 659,
+      "purity": 0.518,
+      "samples": [
+        "315.jpg",
+        "509.jpg",
+        "1200.jpg",
+        "1785.jpg",
+        "2717.jpg"
+      ]
+    },
+    {
+      "rank": 117,
+      "cluster": 87,
+      "size": 659,
+      "purity": 0.6741,
+      "samples": [
+        "888.jpg",
+        "889.jpg",
+        "892.jpg",
+        "895.jpg",
+        "33204.jpg"
+      ]
+    },
+    {
+      "rank": 118,
+      "cluster": 40,
+      "size": 659,
+      "purity": 0.6385,
+      "samples": [
+        "16077.jpg",
+        "16083.jpg",
+        "16086.jpg",
+        "43980.jpg",
+        "43985.jpg"
+      ]
+    },
+    {
+      "rank": 119,
+      "cluster": 79,
+      "size": 657,
+      "purity": 0.6926,
+      "samples": [
+        "10585.jpg",
+        "10942.jpg",
+        "13632.jpg",
+        "16263.jpg",
+        "18860.jpg"
+      ]
+    },
+    {
+      "rank": 120,
+      "cluster": 193,
+      "size": 652,
+      "purity": 0.6062,
+      "samples": [
+        "3437.jpg",
+        "3891.jpg",
+        "4976.jpg",
+        "7300.jpg",
+        "10302.jpg"
+      ]
+    },
+    {
+      "rank": 121,
+      "cluster": 37,
+      "size": 650,
+      "purity": 0.5815,
+      "samples": [
+        "890.jpg",
+        "2454.jpg",
+        "19029.jpg",
+        "21160.jpg",
+        "28006.jpg"
+      ]
+    },
+    {
+      "rank": 122,
+      "cluster": 170,
+      "size": 649,
+      "purity": 0.6313,
+      "samples": [
+        "15313.jpg",
+        "15314.jpg",
+        "15319.jpg",
+        "15321.jpg",
+        "15323.jpg"
+      ]
+    },
+    {
+      "rank": 123,
+      "cluster": 92,
+      "size": 648,
+      "purity": 0.7307,
+      "samples": [
+        "6338.jpg",
+        "8072.jpg",
+        "28244.jpg",
+        "28271.jpg",
+        "28325.jpg"
+      ]
+    },
+    {
+      "rank": 124,
+      "cluster": 70,
+      "size": 647,
+      "purity": 0.5512,
+      "samples": [
+        "3078.jpg",
+        "3886.jpg",
+        "4912.jpg",
+        "5518.jpg",
+        "5659.jpg"
+      ]
+    },
+    {
+      "rank": 125,
+      "cluster": 153,
+      "size": 644,
+      "purity": 0.7087,
+      "samples": [
+        "15334.jpg",
+        "15351.jpg",
+        "15412.jpg",
+        "15498.jpg",
+        "15513.jpg"
+      ]
+    },
+    {
+      "rank": 126,
+      "cluster": 67,
+      "size": 640,
+      "purity": 0.6027,
+      "samples": [
+        "1985.jpg",
+        "2988.jpg",
+        "4500.jpg",
+        "4501.jpg",
+        "4527.jpg"
+      ]
+    },
+    {
+      "rank": 127,
+      "cluster": 192,
+      "size": 638,
+      "purity": 0.6414,
+      "samples": [
+        "155.jpg",
+        "158.jpg",
+        "198.jpg",
+        "860.jpg",
+        "862.jpg"
+      ]
+    },
+    {
+      "rank": 128,
+      "cluster": 172,
+      "size": 638,
+      "purity": 0.6056,
+      "samples": [
+        "29189.jpg",
+        "29269.jpg",
+        "30311.jpg",
+        "30518.jpg",
+        "31906.jpg"
+      ]
+    },
+    {
+      "rank": 129,
+      "cluster": 19,
+      "size": 636,
+      "purity": 0.6063,
+      "samples": [
+        "2828.jpg",
+        "6029.jpg",
+        "16737.jpg",
+        "22816.jpg",
+        "36000.jpg"
+      ]
+    },
+    {
+      "rank": 130,
+      "cluster": 111,
+      "size": 635,
+      "purity": 0.6053,
+      "samples": [
+        "2946.jpg",
+        "28489.jpg",
+        "28899.jpg",
+        "30891.jpg",
+        "30896.jpg"
+      ]
+    },
+    {
+      "rank": 131,
+      "cluster": 58,
+      "size": 634,
+      "purity": 0.6547,
+      "samples": [
+        "2270.jpg",
+        "14345.jpg",
+        "30052.jpg",
+        "36726.jpg",
+        "40056.jpg"
+      ]
+    },
+    {
+      "rank": 132,
+      "cluster": 76,
+      "size": 624,
+      "purity": 0.5474,
+      "samples": [
+        "5901.jpg",
+        "34201.jpg",
+        "36087.jpg",
+        "40764.jpg",
+        "40767.jpg"
+      ]
+    },
+    {
+      "rank": 133,
+      "cluster": 29,
+      "size": 621,
+      "purity": 0.8175,
+      "samples": [
+        "453.jpg",
+        "593.jpg",
+        "594.jpg",
+        "799.jpg",
+        "837.jpg"
+      ]
+    },
+    {
+      "rank": 134,
+      "cluster": 66,
+      "size": 619,
+      "purity": 0.7021,
+      "samples": [
+        "27312.jpg",
+        "41696.jpg",
+        "41704.jpg",
+        "42180.jpg",
+        "42183.jpg"
+      ]
+    },
+    {
+      "rank": 135,
+      "cluster": 179,
+      "size": 611,
+      "purity": 0.6268,
+      "samples": [
+        "5655.jpg",
+        "16088.jpg",
+        "43462.jpg",
+        "43471.jpg",
+        "45991.jpg"
+      ]
+    },
+    {
+      "rank": 136,
+      "cluster": 154,
+      "size": 601,
+      "purity": 0.6544,
+      "samples": [
+        "4362.jpg",
+        "12899.jpg",
+        "12903.jpg",
+        "28652.jpg",
+        "28715.jpg"
+      ]
+    },
+    {
+      "rank": 137,
+      "cluster": 103,
+      "size": 601,
+      "purity": 0.6906,
+      "samples": [
+        "17407.jpg",
+        "25373.jpg",
+        "26157.jpg",
+        "28974.jpg",
+        "28979.jpg"
+      ]
+    },
+    {
+      "rank": 138,
+      "cluster": 169,
+      "size": 601,
+      "purity": 0.6058,
+      "samples": [
+        "27887.jpg",
+        "32683.jpg",
+        "32687.jpg",
+        "38317.jpg",
+        "38323.jpg"
+      ]
+    },
+    {
+      "rank": 139,
+      "cluster": 141,
+      "size": 597,
+      "purity": 0.704,
+      "samples": [
+        "3239.jpg",
+        "30339.jpg",
+        "31770.jpg",
+        "31778.jpg",
+        "36685.jpg"
+      ]
+    },
+    {
+      "rank": 140,
+      "cluster": 60,
+      "size": 597,
+      "purity": 0.6745,
+      "samples": [
+        "12519.jpg",
+        "48297.jpg",
+        "53895.jpg",
+        "53906.jpg",
+        "58575.jpg"
+      ]
+    },
+    {
+      "rank": 141,
+      "cluster": 149,
+      "size": 597,
+      "purity": 0.5945,
+      "samples": [
+        "28504.jpg",
+        "28507.jpg",
+        "28508.jpg",
+        "28509.jpg",
+        "28510.jpg"
+      ]
+    },
+    {
+      "rank": 142,
+      "cluster": 134,
+      "size": 596,
+      "purity": 0.7085,
+      "samples": [
+        "29687.jpg",
+        "33460.jpg",
+        "35963.jpg",
+        "36721.jpg",
+        "39784.jpg"
+      ]
+    },
+    {
+      "rank": 143,
+      "cluster": 135,
+      "size": 595,
+      "purity": 0.5712,
+      "samples": [
+        "20962.jpg",
+        "20980.jpg",
+        "29984.jpg",
+        "29993.jpg",
+        "30002.jpg"
+      ]
+    },
+    {
+      "rank": 144,
+      "cluster": 194,
+      "size": 594,
+      "purity": 0.6035,
+      "samples": [
+        "883.jpg",
+        "17677.jpg",
+        "18467.jpg",
+        "31158.jpg",
+        "34965.jpg"
+      ]
+    },
+    {
+      "rank": 145,
+      "cluster": 68,
+      "size": 592,
+      "purity": 0.7919,
+      "samples": [
+        "28226.jpg",
+        "28228.jpg",
+        "28304.jpg",
+        "28526.jpg",
+        "28538.jpg"
+      ]
+    },
+    {
+      "rank": 146,
+      "cluster": 25,
+      "size": 591,
+      "purity": 0.6877,
+      "samples": [
+        "2.jpg",
+        "38.jpg",
+        "71.jpg",
+        "74.jpg",
+        "76.jpg"
+      ]
+    },
+    {
+      "rank": 147,
+      "cluster": 73,
+      "size": 589,
+      "purity": 0.7475,
+      "samples": [
+        "19.jpg",
+        "21.jpg",
+        "22.jpg",
+        "144.jpg",
+        "146.jpg"
+      ]
+    },
+    {
+      "rank": 148,
+      "cluster": 47,
+      "size": 589,
+      "purity": 0.5459,
+      "samples": [
+        "1226.jpg",
+        "1228.jpg",
+        "1437.jpg",
+        "2974.jpg",
+        "5422.jpg"
+      ]
+    },
+    {
+      "rank": 149,
+      "cluster": 41,
+      "size": 588,
+      "purity": 0.6411,
+      "samples": [
+        "28574.jpg",
+        "28593.jpg",
+        "28597.jpg",
+        "30058.jpg",
+        "30059.jpg"
+      ]
+    },
+    {
+      "rank": 150,
+      "cluster": 145,
+      "size": 588,
+      "purity": 0.7028,
+      "samples": [
+        "30042.jpg",
+        "33192.jpg",
+        "33206.jpg",
+        "41977.jpg",
+        "43631.jpg"
+      ]
+    },
+    {
+      "rank": 151,
+      "cluster": 5,
+      "size": 587,
+      "purity": 0.5277,
+      "samples": [
+        "275.jpg",
+        "351.jpg",
+        "702.jpg",
+        "1247.jpg",
+        "1615.jpg"
+      ]
+    },
+    {
+      "rank": 152,
+      "cluster": 114,
+      "size": 587,
+      "purity": 0.817,
+      "samples": [
+        "39150.jpg",
+        "41852.jpg",
+        "42493.jpg",
+        "42494.jpg",
+        "42495.jpg"
+      ]
+    },
+    {
+      "rank": 153,
+      "cluster": 75,
+      "size": 579,
+      "purity": 0.6031,
+      "samples": [
+        "201.jpg",
+        "2030.jpg",
+        "4591.jpg",
+        "5045.jpg",
+        "5592.jpg"
+      ]
+    },
+    {
+      "rank": 154,
+      "cluster": 181,
+      "size": 568,
+      "purity": 0.5534,
+      "samples": [
+        "9557.jpg",
+        "11192.jpg",
+        "11196.jpg",
+        "11483.jpg",
+        "11615.jpg"
+      ]
+    },
+    {
+      "rank": 155,
+      "cluster": 167,
+      "size": 568,
+      "purity": 0.6853,
+      "samples": [
+        "35511.jpg",
+        "48998.jpg",
+        "49001.jpg",
+        "49002.jpg",
+        "69326.jpg"
+      ]
+    },
+    {
+      "rank": 156,
+      "cluster": 88,
+      "size": 563,
+      "purity": 0.6058,
+      "samples": [
+        "23055.jpg",
+        "23056.jpg",
+        "23959.jpg",
+        "26387.jpg",
+        "28164.jpg"
+      ]
+    },
+    {
+      "rank": 157,
+      "cluster": 155,
+      "size": 561,
+      "purity": 0.6394,
+      "samples": [
+        "30295.jpg",
+        "30296.jpg",
+        "30297.jpg",
+        "30299.jpg",
+        "30326.jpg"
+      ]
+    },
+    {
+      "rank": 158,
+      "cluster": 61,
+      "size": 551,
+      "purity": 0.8195,
+      "samples": [
+        "43016.jpg",
+        "43018.jpg",
+        "43019.jpg",
+        "43020.jpg",
+        "43021.jpg"
+      ]
+    },
+    {
+      "rank": 159,
+      "cluster": 106,
+      "size": 536,
+      "purity": 0.6503,
+      "samples": [
+        "2479.jpg",
+        "10323.jpg",
+        "10324.jpg",
+        "10370.jpg",
+        "11647.jpg"
+      ]
+    },
+    {
+      "rank": 160,
+      "cluster": 85,
+      "size": 535,
+      "purity": 0.7088,
+      "samples": [
+        "18515.jpg",
+        "29656.jpg",
+        "45069.jpg",
+        "45082.jpg",
+        "46084.jpg"
+      ]
+    },
+    {
+      "rank": 161,
+      "cluster": 178,
+      "size": 531,
+      "purity": 0.5198,
+      "samples": [
+        "260.jpg",
+        "271.jpg",
+        "272.jpg",
+        "276.jpg",
+        "279.jpg"
+      ]
+    },
+    {
+      "rank": 162,
+      "cluster": 72,
+      "size": 524,
+      "purity": 0.6071,
+      "samples": [
+        "1441.jpg",
+        "1443.jpg",
+        "1444.jpg",
+        "1922.jpg",
+        "2076.jpg"
+      ]
+    },
+    {
+      "rank": 163,
+      "cluster": 162,
+      "size": 523,
+      "purity": 0.6603,
+      "samples": [
+        "419.jpg",
+        "530.jpg",
+        "703.jpg",
+        "1089.jpg",
+        "2835.jpg"
+      ]
+    },
+    {
+      "rank": 164,
+      "cluster": 11,
+      "size": 519,
+      "purity": 0.6253,
+      "samples": [
+        "4397.jpg",
+        "8057.jpg",
+        "8247.jpg",
+        "8331.jpg",
+        "12195.jpg"
+      ]
+    },
+    {
+      "rank": 165,
+      "cluster": 57,
+      "size": 519,
+      "purity": 0.6844,
+      "samples": [
+        "29710.jpg",
+        "30322.jpg",
+        "42114.jpg",
+        "42115.jpg",
+        "42116.jpg"
+      ]
+    },
+    {
+      "rank": 166,
+      "cluster": 98,
+      "size": 518,
+      "purity": 0.6168,
+      "samples": [
+        "2694.jpg",
+        "7690.jpg",
+        "19797.jpg",
+        "23698.jpg",
+        "24330.jpg"
+      ]
+    },
+    {
+      "rank": 167,
+      "cluster": 20,
+      "size": 514,
+      "purity": 0.6628,
+      "samples": [
+        "16081.jpg",
+        "16082.jpg",
+        "28234.jpg",
+        "33195.jpg",
+        "33202.jpg"
+      ]
+    },
+    {
+      "rank": 168,
+      "cluster": 156,
+      "size": 514,
+      "purity": 0.705,
+      "samples": [
+        "41806.jpg",
+        "42177.jpg",
+        "42446.jpg",
+        "42449.jpg",
+        "42450.jpg"
+      ]
+    },
+    {
+      "rank": 169,
+      "cluster": 82,
+      "size": 512,
+      "purity": 0.5803,
+      "samples": [
+        "1896.jpg",
+        "2643.jpg",
+        "2668.jpg",
+        "3236.jpg",
+        "3631.jpg"
+      ]
+    },
+    {
+      "rank": 170,
+      "cluster": 2,
+      "size": 501,
+      "purity": 0.7233,
+      "samples": [
+        "6962.jpg",
+        "6998.jpg",
+        "8107.jpg",
+        "8793.jpg",
+        "9236.jpg"
+      ]
+    },
+    {
+      "rank": 171,
+      "cluster": 14,
+      "size": 499,
+      "purity": 0.7008,
+      "samples": [
+        "2173.jpg",
+        "2705.jpg",
+        "3130.jpg",
+        "3706.jpg",
+        "10145.jpg"
+      ]
+    },
+    {
+      "rank": 172,
+      "cluster": 38,
+      "size": 499,
+      "purity": 0.5644,
+      "samples": [
+        "15329.jpg",
+        "15947.jpg",
+        "16507.jpg",
+        "17258.jpg",
+        "17801.jpg"
+      ]
+    },
+    {
+      "rank": 173,
+      "cluster": 6,
+      "size": 488,
+      "purity": 0.5934,
+      "samples": [
+        "28797.jpg",
+        "38320.jpg",
+        "41718.jpg",
+        "41723.jpg",
+        "41724.jpg"
+      ]
+    },
+    {
+      "rank": 174,
+      "cluster": 43,
+      "size": 485,
+      "purity": 0.5413,
+      "samples": [
+        "148.jpg",
+        "149.jpg",
+        "151.jpg",
+        "152.jpg",
+        "153.jpg"
+      ]
+    },
+    {
+      "rank": 175,
+      "cluster": 93,
+      "size": 479,
+      "purity": 0.6917,
+      "samples": [
+        "207.jpg",
+        "1980.jpg",
+        "2427.jpg",
+        "5540.jpg",
+        "5542.jpg"
+      ]
+    },
+    {
+      "rank": 176,
+      "cluster": 27,
+      "size": 477,
+      "purity": 0.6124,
+      "samples": [
+        "30300.jpg",
+        "32706.jpg",
+        "38980.jpg",
+        "38982.jpg",
+        "38984.jpg"
+      ]
+    },
+    {
+      "rank": 177,
+      "cluster": 59,
+      "size": 469,
+      "purity": 0.6614,
+      "samples": [
+        "673.jpg",
+        "1098.jpg",
+        "3810.jpg",
+        "6601.jpg",
+        "6716.jpg"
+      ]
+    },
+    {
+      "rank": 178,
+      "cluster": 113,
+      "size": 468,
+      "purity": 0.5759,
+      "samples": [
+        "4908.jpg",
+        "28591.jpg",
+        "32682.jpg",
+        "32692.jpg",
+        "36829.jpg"
+      ]
+    },
+    {
+      "rank": 179,
+      "cluster": 164,
+      "size": 466,
+      "purity": 0.5772,
+      "samples": [
+        "700.jpg",
+        "1016.jpg",
+        "2119.jpg",
+        "2939.jpg",
+        "3527.jpg"
+      ]
+    },
+    {
+      "rank": 180,
+      "cluster": 83,
+      "size": 460,
+      "purity": 0.5362,
+      "samples": [
+        "18942.jpg",
+        "19094.jpg",
+        "26077.jpg",
+        "38741.jpg",
+        "39033.jpg"
+      ]
+    },
+    {
+      "rank": 181,
+      "cluster": 32,
+      "size": 457,
+      "purity": 0.6573,
+      "samples": [
+        "2908.jpg",
+        "4284.jpg",
+        "5492.jpg",
+        "11646.jpg",
+        "11912.jpg"
+      ]
+    },
+    {
+      "rank": 182,
+      "cluster": 107,
+      "size": 450,
+      "purity": 0.7177,
+      "samples": [
+        "20454.jpg",
+        "39972.jpg",
+        "42448.jpg",
+        "42451.jpg",
+        "42452.jpg"
+      ]
+    },
+    {
+      "rank": 183,
+      "cluster": 197,
+      "size": 435,
+      "purity": 0.7342,
+      "samples": [
+        "29097.jpg",
+        "29106.jpg",
+        "29315.jpg",
+        "34456.jpg",
+        "36699.jpg"
+      ]
+    },
+    {
+      "rank": 184,
+      "cluster": 33,
+      "size": 433,
+      "purity": 0.7466,
+      "samples": [
+        "29355.jpg",
+        "38731.jpg",
+        "40366.jpg",
+        "41409.jpg",
+        "41823.jpg"
+      ]
+    },
+    {
+      "rank": 185,
+      "cluster": 151,
+      "size": 423,
+      "purity": 0.7526,
+      "samples": [
+        "26272.jpg",
+        "28110.jpg",
+        "29966.jpg",
+        "29970.jpg",
+        "31301.jpg"
+      ]
+    },
+    {
+      "rank": 186,
+      "cluster": 50,
+      "size": 416,
+      "purity": 0.8619,
+      "samples": [
+        "31287.jpg",
+        "33758.jpg",
+        "34255.jpg",
+        "34256.jpg",
+        "39870.jpg"
+      ]
+    },
+    {
+      "rank": 187,
+      "cluster": 152,
+      "size": 413,
+      "purity": 0.5322,
+      "samples": [
+        "177.jpg",
+        "1581.jpg",
+        "3126.jpg",
+        "4205.jpg",
+        "4904.jpg"
+      ]
+    },
+    {
+      "rank": 188,
+      "cluster": 191,
+      "size": 413,
+      "purity": 0.6257,
+      "samples": [
+        "29113.jpg",
+        "29121.jpg",
+        "29321.jpg",
+        "29325.jpg",
+        "29328.jpg"
+      ]
+    },
+    {
+      "rank": 189,
+      "cluster": 165,
+      "size": 404,
+      "purity": 0.6208,
+      "samples": [
+        "3438.jpg",
+        "3923.jpg",
+        "5652.jpg",
+        "16376.jpg",
+        "18289.jpg"
+      ]
+    },
+    {
+      "rank": 190,
+      "cluster": 56,
+      "size": 403,
+      "purity": 0.5886,
+      "samples": [
+        "23714.jpg",
+        "28590.jpg",
+        "33916.jpg",
+        "41622.jpg",
+        "41623.jpg"
+      ]
+    },
+    {
+      "rank": 191,
+      "cluster": 86,
+      "size": 376,
+      "purity": 0.7206,
+      "samples": [
+        "4282.jpg",
+        "6417.jpg",
+        "19194.jpg",
+        "20455.jpg",
+        "25604.jpg"
+      ]
+    },
+    {
+      "rank": 192,
+      "cluster": 69,
+      "size": 353,
+      "purity": 0.7751,
+      "samples": [
+        "20487.jpg",
+        "42605.jpg",
+        "42607.jpg",
+        "42608.jpg",
+        "43232.jpg"
+      ]
+    },
+    {
+      "rank": 193,
+      "cluster": 78,
+      "size": 346,
+      "purity": 0.7016,
+      "samples": [
+        "27486.jpg",
+        "33915.jpg",
+        "42875.jpg",
+        "42876.jpg",
+        "42877.jpg"
+      ]
+    },
+    {
+      "rank": 194,
+      "cluster": 163,
+      "size": 335,
+      "purity": 0.7006,
+      "samples": [
+        "30323.jpg",
+        "38979.jpg",
+        "41719.jpg",
+        "41722.jpg",
+        "41730.jpg"
+      ]
+    },
+    {
+      "rank": 195,
+      "cluster": 198,
+      "size": 330,
+      "purity": 0.6894,
+      "samples": [
+        "16079.jpg",
+        "41279.jpg",
+        "43636.jpg",
+        "43992.jpg",
+        "44017.jpg"
+      ]
+    },
+    {
+      "rank": 196,
+      "cluster": 8,
+      "size": 308,
+      "purity": 0.5522,
+      "samples": [
+        "879.jpg",
+        "882.jpg",
+        "884.jpg",
+        "893.jpg",
+        "4114.jpg"
+      ]
+    },
+    {
+      "rank": 197,
+      "cluster": 121,
+      "size": 281,
+      "purity": 0.7699,
+      "samples": [
+        "30986.jpg",
+        "41631.jpg",
+        "41641.jpg",
+        "41649.jpg",
+        "41653.jpg"
+      ]
+    },
+    {
+      "rank": 198,
+      "cluster": 183,
+      "size": 253,
+      "purity": 0.7034,
+      "samples": [
+        "1897.jpg",
+        "14540.jpg",
+        "26137.jpg",
+        "33963.jpg",
+        "40912.jpg"
+      ]
+    },
+    {
+      "rank": 199,
+      "cluster": 180,
+      "size": 183,
+      "purity": 0.712,
+      "samples": [
+        "45020.jpg",
+        "45021.jpg",
+        "45030.jpg",
+        "45032.jpg",
+        "45036.jpg"
+      ]
+    },
+    {
+      "rank": 200,
+      "cluster": 30,
+      "size": 167,
+      "purity": 0.7333,
+      "samples": [
+        "508.jpg",
+        "831.jpg",
+        "833.jpg",
+        "834.jpg",
+        "924.jpg"
+      ]
+    }
+  ]
+}

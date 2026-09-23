@@ -158,3 +158,11 @@ mindspeed
 /tests/st/run_logs/
 
 fusion_result.json
+# data pipeline: ignore large files (see data/ecommerce_multimodal/PIPELINE.md)
+data/ecommerce_multimodal/images/
+data/ecommerce_multimodal/*.npy
+data/ecommerce_multimodal/image_sizes.csv
+data/ecommerce_multimodal/assignments.csv
+data/ecommerce_multimodal/montages/
+data/ecommerce_multimodal/sku_montages/
+data/ecommerce_multimodal/*.bak

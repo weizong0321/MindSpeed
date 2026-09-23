@@ -1,0 +1,80 @@
+{
+  "_readme": [
+    "保留清单：决定哪些品类进入训练集。由人工确认后固定下来。",
+    "keep  要保留的品类键（与 cluster_labels.json 的 cat 一致）",
+    "drop  丢弃的品类键。这些是“杂项桶”，内部混了十几种不同商品，写不出统一问法",
+    "notes 各品类的备注，含内部是否还混着不同商品",
+    "改完后跑：python select_dataset.py --manifest kept_images.csv"
+  ],
+
+  "keep": [
+    "shoes_sneaker",
+    "personal_care",
+    "food_snack",
+    "toy_vehicle",
+    "cosmetics",
+    "apparel_pants",
+    "bag_handbag",
+    "household_detergent",
+    "watch",
+    "health_medicine",
+    "bag_backpack",
+    "apparel_top",
+    "purse_wallet",
+    "appliance_large",
+    "shoes_leather",
+    "home_textile",
+    "health_supplement",
+    "jewelry",
+    "accessories",
+    "shoes_other",
+    "apparel_shorts",
+    "feminine_hygiene",
+    "household_tissue",
+    "shoes_kids",
+    "baby_products",
+    "luggage"
+  ],
+
+  "drop": [
+    "home_goods",
+    "computer_office",
+    "appliance_small",
+    "phone_electronics",
+    "food_other",
+    "apparel_other",
+    "toy_other"
+  ],
+
+  "drop_unclear": true,
+  "drop_low_confidence": 0.0,
+
+  "notes": {
+    "shoes_sneaker": "干净：运动鞋/帆布鞋，7 个簇",
+    "personal_care": "干净：洗护/口腔护理/个护小工具",
+    "food_snack": "干净：零食饼干",
+    "toy_vehicle": "干净：玩具车模/工程车/火车轨道",
+    "cosmetics": "干净：美妆/护肤/口红（上一版回复漏了这个品类，实际有 4203 张）",
+    "apparel_pants": "干净：裤子/运动裤",
+    "bag_handbag": "干净：女包",
+    "household_detergent": "干净：洗衣粉/洗洁精/清洁用具",
+    "watch": "干净：手表，4 个簇",
+    "health_medicine": "干净：药品/膏药",
+    "bag_backpack": "干净：背包",
+    "apparel_top": "干净：上衣/西装/卫衣/羽绒服（同属上装，可接受）",
+    "purse_wallet": "干净：钱包",
+    "appliance_large": "干净：冰箱/电视/空调/洗衣机（同属大家电，可接受）",
+    "shoes_leather": "干净：皮鞋",
+    "home_textile": "干净：家纺床品",
+    "health_supplement": "干净：保健品/益生菌",
+    "jewelry": "干净：珠宝首饰",
+    "accessories": "⚠️ 半杂：手套(723)+皮带(601)+眼镜(535)，是 3 种不同商品。要更干净可移入 drop",
+    "shoes_other": "⚠️ 半杂：凉鞋/高跟鞋(644)+靴子(519)+其他鞋(501)。要更干净可移入 drop",
+    "apparel_shorts": "干净：短裤，1 个簇",
+    "feminine_hygiene": "干净：卫生巾",
+    "household_tissue": "干净：纸巾湿巾",
+    "shoes_kids": "干净：童鞋",
+    "baby_products": "⚠️ 半杂：母婴用品(514)+婴儿奶瓶(330)。要更干净可移入 drop",
+    "luggage": "干净：行李箱"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "root": "C:\\Users\\wqy\\Downloads\\MindSpeed-MM\\data\\ecommerce_multimodal\\images",
+  "total": 141931,
+  "readable": 141931,
+  "errors": 0,
+  "size_bytes": 15584212575,
+  "per_ext": {
+    ".jpg": 141931
+  },
+  "short_side": {
+    "224": 871,
+    "336": 7509,
+    "448": 12687,
+    "512": 17018
+  },
+  "area_gt_max": 129754,
+  "keep_short_ge_336": 134422,
+  "usable_after_dedup": 133174,
+  "dup_groups": 1148,
+  "dup_images": 2535,
+  "dup_reclaim_bytes": 83529745,
+  "quantiles": {
+    "short": {
+      "0.01": 237,
+      "0.05": 306,
+      "0.25": 720,
+      "0.5": 800,
+      "0.75": 1000,
+      "0.95": 1350,
+      "0.99": 1656
+    },
+    "area": {
+      "0.01": 90000,
+      "0.05": 141000,
+      "0.25": 640000,
+      "0.5": 921600,
+      "0.75": 1334000,
+      "0.95": 2527200,
+      "0.99": 3656448
+    }
+  }
+}

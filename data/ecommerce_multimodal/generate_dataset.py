@@ -1,181 +1,399 @@
-import os
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+电商导购多模态 SFT 数据集生成器 v2（按类别/款配对，杜绝图文错配）
+
+目录约定
+    data/ecommerce_multimodal/
+    ├── images/<category>/<sku>/xxx.jpg   图片：类别 → 款
+    ├── questions.json                    问法库：按【类别】
+    ├── answers.json                      答案库：按【款】
+    └── generate_dataset.py
+
+用法
+    python generate_dataset.py --check        # 只质检，不写文件
+    python generate_dataset.py                # 生成 train.json / eval.json
+    python generate_dataset.py --root <dir>   # 指定数据根目录（默认脚本所在目录）
+
+与 v1 的区别（v1 见 generate_dataset_v1_legacy.py）
+    v1: random.choice(TEMPLATE_LIBRARY) —— 每张图随机配一个类别模板，
+        图文类别不匹配，答案里的参数（65W / 20000mAh / 579元）图里根本看不到，
+        模型只能学“忽略图片、背模板”。
+    v2: 答案由图片所在目录（类别/款）唯一确定，一图一答严格对应。
+"""
+
+import argparse
 import json
-import random
+import re
+import shutil
+import sys
+from collections import OrderedDict
+from pathlib import Path
 
-# ========== 配置 ==========
-IMAGE_DIR = "./images"
-OUTPUT_FILE = "./train.json"
+# Windows 控制台默认 GBK，中文/符号会抛 UnicodeEncodeError，这里强制 UTF-8
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
-# 12品类模板库（单轮+多轮混合，复杂度拉满）
-TEMPLATE_LIBRARY = [
-    # 智能手表 - 单轮多约束
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n我夏天经常徒步登山，预算600以内，要续航至少3天、支持心率血氧监测、50米防水、能离线存运动数据，不要娱乐功能，这款合适吗有什么短板？",
-            "<image>\n学生党跑步用，预算不超500，要GPS定位、睡眠监测、表带透气不闷汗，这款符合要求吗？"
-        ],
-        "assistant": [
-            "这款完全适配户外徒步场景。5ATM 50米防水，淋雨涉水都没问题；24小时心率血氧实时监测；标准模式续航4.5天，GPS运动模式32小时，满足3天以上要求。支持离线存20条运动记录，无娱乐应用，轻量化设计。售价579元在预算内。短板是强光下屏幕亮度一般，正午户外查看需要遮挡。",
-            "很适合学生跑步党。独立GPS不用带手机也能记轨迹；睡眠监测支持深睡浅睡REM分期；多孔硅胶表带夏天透气不致敏。日常续航5天，纯运动28小时。售价469元性价比高。短板是没有NFC公交卡功能。"
-        ]
-    },
-    # 蓝牙耳机 - 两轮对话
-    {
-        "rounds": 2,
-        "user": [
-            ["<image>\n每天地铁通勤1小时，偶尔上网课，预算350以内，要降噪好、续航久、戴着不累，这款怎么样？", "戴久了耳朵疼吗，支持双设备连接吗，质保多久？"]
-        ],
-        "assistant": [
-            ["350元价位降噪第一梯队。35dB降噪深度抑制地铁低频噪音效果明显，网课人声清晰无延迟。单次续航7小时，总续航36小时，一周通勤充两次就行。4.2g半入耳设计长时间佩戴压力小。售价319元符合预算。", "半入耳比入耳式不容易胀痛，连续戴2-3小时基本没压迫感。蓝牙5.3支持双设备连接，手机平板切换不用反复配对。全国联保1年，7天无理由退换，15天换新，1年免费维修。"]
-        ]
-    },
-    # 充电宝 - 单轮参数
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n20000mAh这款支持笔记本PD快充吗最高多少瓦，飞机能带吗，夏天放包里会发热鼓包吗？",
-            "<image>\n出差用，能给电脑应急充电，不超民航规定，多口同时输出，这款参数符合吗？"
-        ],
-        "assistant": [
-            "额定20000mAh符合民航规定，可直接带上飞机。65W PD双向快充能给轻薄本应急供电，支持小功率智能调压。三重温控保护，夏季室温下放背包不会异常发热，满负荷快充仅有温热感，正规品牌不会鼓包。2C1A三口可同时充三台设备。",
-            "完全符合差旅需求。65W输出可给绝大多数轻薄本补电；20000mAh刚好卡在民航上限可随身带。三口同时输出支持电脑手机耳机一起充，小电流模式给手表耳机充电不跳断。金属外壳散热好，夏季出差稳定性强。"
-        ]
-    },
-    # 机械键盘 - 两轮售后
-    {
-        "rounds": 2,
-        "user": [
-            ["<image>\n宿舍用怕吵室友，要段落手感、不要RGB、三模87键、预算450以内，静音段落轴噪音大吗？", "键帽打油快吗，支持热插拔换轴吗，保修多久？"]
-        ],
-        "assistant": [
-            ["静音段落轴比普通青轴噪音低40%，夜间打字不会吵到室友，同时保留段落确认感。无RGB仅白色状态指示灯，符合要求。蓝牙/2.4G/有线三模，87键紧凑省空间。售价429元在预算内。", "PBT双色注塑键帽比ABS抗打油强很多，正常用半年不会明显打油。全键热插拔不用焊锡就能换轴，可玩性高。两年全国联保，轴体主板第一年换新第二年维修，键帽线材保半年。"]
-        ]
-    },
-    # 户外背包 - 单轮多条件
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n周末短途露营，要防水、能装15.6寸游戏本、有水壶仓、背负舒服，30L左右，这款符合吗？",
-            "<image>\n通勤加短途旅行两用，要电脑夹层、侧放水杯、背部透气夏天不闷汗，这款怎么样？"
-        ],
-        "assistant": [
-            "32L容量适合1-2天短途露营。防泼水面料短时小雨没问题，暴雨建议配防雨罩。防震电脑仓兼容15.6寸游戏本。两侧弹性水壶仓可放1L水杯。蜂窝透气背负带支撑龙骨，3-5kg负重长时间背不累，夏天也透气。",
-            "通勤旅行两用很合适。独立防震电脑仓放15.6寸笔记本，两侧放水杯雨伞都方便。透气海绵背板不贴背，夏天不闷汗，支撑性好。主仓可扩容装换洗衣物，适合2-3天短途出差。简约设计日常通勤不突兀。"
-        ]
-    },
-    # 运动相机 - 单轮性能
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n骑行拍vlog，防抖要好，支持4K30帧，冬天零下会不会死机，最大支持多大内存卡？",
-            "<image>\n潜水骑行都能用，防水多少米，防抖效果怎么样，续航多久？"
-        ],
-        "assistant": [
-            "第三代电子防抖平坦公路骑行画面很稳，颠簸山路建议配减震支架。支持4K30fps录制，开防抖有小幅裁切。锂电池0℃以下续航缩水30%，长时间零下有自动关机风险，建议外接充电宝。最大支持1TB U3高速卡，4K可录8小时。原生10米防水不用壳。",
-            "原生10米防水浮潜浅潜直接用，深潜需专用防水壳。电子防抖优化骑行场景，手持车把拍摄都稳。单块电池1080P约2小时，4K约1小时，建议备两块。配件齐全含头盔车把支架，多场景适配。"
-        ]
-    },
-    # 桌面风扇 - 两轮宿舍场景
-    {
-        "rounds": 2,
-        "user": [
-            ["<image>\n宿舍床上用，要静音、可定时、Type-C供电，一档噪音多大，整夜开费电吗？", "可以夹床头吗，高度能调吗，清洗方便吗？"]
-        ],
-        "assistant": [
-            ["一档睡眠模式仅24dB，比图书馆还安静，夜间睡觉基本听不到。支持2/4/8小时定时，睡着了不会吹感冒。Type-C供电可插充电宝，宿舍断电也能用。一档3W功率，整夜8小时不到0.03度电，非常省电。", "标配夹子底座可夹床头桌面，最大夹5cm。风扇头可手动调上下角度，整体高度不能伸缩。前网罩徒手可拆，扇叶用湿巾擦就行，不用工具拆洗很方便，适合学生宿舍。"]
-        ]
-    },
-    # 太阳镜 - 单轮功能
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n骑行钓鱼用，防紫外线等级多少，偏光效果怎么样，可以配近视镜片吗，容易刮花吗？",
-            "<image>\n开车戴，防眩光吗，镜架重不重，长时间戴鼻子会不会压印？"
-        ],
-        "assistant": [
-            "UV400等级100%阻挡紫外线，户外防晒完全够用。偏光镜片过滤水面路面反光，看东西清晰不刺眼。镜架支持线下配内嵌近视镜片，不能换一体近视片。基础防刮镀层，接触沙石钥匙还是会刮花，不用时放镜盒。",
-            "偏光镜片过滤车灯路面反光效果好，白天开车视线柔和不易疲劳。TR90轻量化镜架仅18g，鼻梁压力很小，连续戴3-4小时基本没有压痕。镜腿防滑，出汗也不往下滑，夏天开车户外都适用。"
-        ]
-    },
-    # 游戏鼠标 - 单轮对比
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n打FPS游戏，DPI最高多少，延迟低吗，重量多少，手长18cm抓握合适吗？",
-            "<image>\n办公游戏两用，要无线、续航久、静音按键，这款符合吗同价位有什么优势？"
-        ],
-        "assistant": [
-            "最高DPI 26000，支持100单位精细调节，FPS完全够用。2.4G无线1000Hz回报率，延迟低于1ms，感觉不到滞后感。65g超轻量化，18cm手长抓握非常适配，长时间打游戏手腕不累。欧姆龙微动5000万次点击寿命，耐用性强。",
-            "办公游戏两用合适。蓝牙+2.4G双无线，办公切蓝牙省电，游戏切2.4G低延迟。静音微动点击声音小，办公室用不吵人。充一次电续航60小时，轻度办公能用两周。同价位优势是轻量化和续航突出，劣势是无RGB，适合实用党。"
-        ]
-    },
-    # 便携显示器 - 单轮办公
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n笔记本外接扩展屏，15.6英寸1080P60Hz，Type-C一线通，轻便好带，这款符合吗？",
-            "<image>\n出差外接办公，要护眼低蓝光，能竖屏看代码，支架可调角度，这款怎么样？"
-        ],
-        "assistant": [
-            "15.6寸完全适配笔记本扩展。1080P 60Hz办公看视频都够用。全功能Type-C一线通，一根线传视频加供电不用额外电源。720g重量6mm厚度，放电脑包基本不占地方，出差携带方便。自带磁吸保护套可折叠当支架。",
-            "很适合程序员出差办公。低蓝光认证，长时间看代码眼睛不累。支持自动旋转，竖屏看长代码写文档效率高。支架0-180度可调，站坐都能找到舒服角度。Type-C一线通不用带充电器，桌面整洁。重量轻出差无压力。"
-        ]
-    },
-    # 运动水杯 - 单轮材质
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n健身用，要Tritan材质无异味，能装热水，防漏吸管款，700ml左右，这款符合吗？",
-            "<image>\n骑行放水壶架，容量多大，防摔吗，单手能开吗？"
-        ],
-        "assistant": [
-            "食品级Tritan材质不含BPA，新装也没塑料味。耐温-10℃到96℃，可以装温水不建议装沸水。密封硅胶圈防漏效果好，放包里倒过来不漏水。吸管款健身不用仰头喝很方便。750ml刚好满足一次健身补水。杯身防滑纹路出汗不滑手。",
-            "700ml容量标准自行车水壶架刚好能放。加厚PC材质正常摔落不容易裂。弹盖设计骑行单手按一下就能开，不用双手拧盖子更安全。硅胶吸嘴咬着喝水方便，运动不用减速。轻量化设计装满水也不重。"
-        ]
-    },
-    # 户外跑鞋 - 单轮适配
-    {
-        "rounds": 1,
-        "user": [
-            "<image>\n每天夜跑5公里，要缓震好、透气、不磨脚，体重70kg正常足弓，这款适合吗？",
-            "<image>\n学生体测加日常穿，要轻、抓地力好、耐穿，预算300以内，性价比怎么样？"
-        ],
-        "assistant": [
-            "很适合你的体重和跑量。发泡中底缓震反馈明显，70kg落地冲击力吸收充分，膝盖压力小。飞织网面透气性好，夜跑出脚汗不闷。鞋楦偏宽正常足弓不挤脚，后跟加固不磨脚后跟。5公里日常慢跑够用，10公里也能支撑。",
-            "性价比很高适合学生党。单鞋230g非常轻，体测1000米没有累赘感。橡胶大底抓地力强，塑胶跑道水泥地都不滑。做工扎实正常穿一年没问题。售价279元在预算内，上课跑步都能穿，百搭实用性强。"
-        ]
-    }
-]
+IMG_EXTS = (".jpg", ".jpeg", ".png")
 
-def build_sample(img_name):
-    template = random.choice(TEMPLATE_LIBRARY)
-    conversations = []
-    if template["rounds"] == 1:
-        u = random.choice(template["user"])
-        a = random.choice(template["assistant"])
-        conversations.append({"from": "user", "value": u})
-        conversations.append({"from": "assistant", "value": a})
-    else:
-        idx = random.randint(0, len(template["user"]) - 1)
-        for u, a in zip(template["user"][idx], template["assistant"][idx]):
-            conversations.append({"from": "user", "value": u})
-            conversations.append({"from": "assistant", "value": a})
-    return {"conversations": conversations, "image": f"images/{img_name}"}
+# ---- 质检阈值 ---------------------------------------------------------------
+MIN_IMAGES_PER_CATEGORY = 20   # 每类图片数建议下限
+MIN_IMAGES_PER_SKU = 2         # 每款图片数建议下限
+SHORT_SIDE_MIN = 336           # 短边低于此值会被预处理放大（配置上限 262144 像素）
+SHORT_SIDE_GOOD = 512          # 建议值
+AREA_MAX = 262144              # = image_max_pixels，超过会被等比压回
 
-def main():
-    images = [f for f in os.listdir(IMAGE_DIR) if f.lower().endswith(('.jpg','.jpeg','.png'))]
-    if not images:
-        print("❌ 未检测到图片，请把图片放入images文件夹")
+NUM_RE = re.compile(r"\d+(?:\.\d+)?")
+
+ERRORS: list = []
+WARNINGS: list = []
+INFOS: list = []
+
+
+def err(msg: str) -> None:
+    ERRORS.append(msg)
+
+
+def warn(msg: str) -> None:
+    WARNINGS.append(msg)
+
+
+def info(msg: str) -> None:
+    INFOS.append(msg)
+
+
+# ---- 载入 -------------------------------------------------------------------
+def load_json(path: Path):
+    if not path.is_file():
+        err(f"缺少文件：{path}")
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError as e:
+        err(f"{path.name} 不是合法 JSON：{e}")
+        return {}
+
+
+def public_keys(d: dict):
+    """去掉下划线开头的说明性键"""
+    return [k for k in d if not k.startswith("_")]
+
+
+# ---- 扫描图片目录 -----------------------------------------------------------
+def scan_images(root: Path) -> "OrderedDict[str, OrderedDict[str, list]]":
+    """返回 {category: {sku: [Path, ...]}}"""
+    tree: "OrderedDict[str, OrderedDict[str, list]]" = OrderedDict()
+    img_root = root / "images"
+    if not img_root.is_dir():
+        err(f"找不到图片根目录：{img_root}")
+        return tree
+
+    for cat_dir in sorted(p for p in img_root.iterdir() if p.is_dir()):
+        skus: "OrderedDict[str, list]" = OrderedDict()
+        loose = []
+        for entry in sorted(cat_dir.iterdir()):
+            if entry.is_dir():
+                imgs = sorted(
+                    f for f in entry.iterdir()
+                    if f.is_file() and f.suffix.lower() in IMG_EXTS
+                )
+                skus[entry.name] = imgs
+            elif entry.is_file() and entry.suffix.lower() in IMG_EXTS:
+                loose.append(entry)
+        if loose:
+            warn(f"images/{cat_dir.name}/ 下有 {len(loose)} 张图未放进款目录，已忽略"
+                 f"（示例：{loose[0].name}）")
+        tree[cat_dir.name] = skus
+
+    # images/ 根目录下直接平铺的图片（尚未归类）——最常见的起步状态，必须明确报出来
+    flat_root = [p for p in img_root.iterdir()
+                 if p.is_file() and p.suffix.lower() in IMG_EXTS]
+    if flat_root:
+        warn(f"images/ 下有 {len(flat_root)} 张图片是平铺的，没有按 "
+             f"images/<category>/<sku>/ 分层，本次全部忽略"
+             f"（示例：{flat_root[0].name}）。请先按 DATA_SPEC.md 第 3 节归类。")
+    return tree
+
+
+# ---- 校验 -------------------------------------------------------------------
+def validate_questions(questions: dict) -> dict:
+    """返回 {category: {qid: question_dict}}"""
+    index = {}
+    for cat in public_keys(questions):
+        spec = questions[cat]
+        if "questions" not in spec or not spec["questions"]:
+            err(f"questions.json: 类别 {cat} 没有 questions 列表")
+            continue
+        per_cat = {}
+        for q in spec["questions"]:
+            qid = q.get("id")
+            if not qid:
+                err(f"questions.json: 类别 {cat} 下有问法缺 id")
+                continue
+            if qid in per_cat:
+                err(f"questions.json: 类别 {cat} 下问法 id 重复：{qid}")
+                continue
+            user = q.get("user")
+            turns = [user] if isinstance(user, str) else list(user or [])
+            if not turns:
+                err(f"questions.json: {cat}/{qid} 的 user 为空")
+                continue
+            rounds = q.get("rounds", len(turns))
+            if rounds != len(turns):
+                err(f"questions.json: {cat}/{qid} rounds={rounds} 与 user 轮数 {len(turns)} 不一致")
+            if not turns[0].lstrip().startswith("<image>"):
+                warn(f"questions.json: {cat}/{qid} 第 1 轮缺 <image> 前缀，该样本不会真正喂图"
+                     f"（多轮问法只有第 1 轮需要贴图）")
+            per_cat[qid] = {"rounds": rounds, "user": turns, "desc": q.get("desc", "")}
+        index[cat] = per_cat
+    return index
+
+
+def validate_and_collect(tree, q_index, answers, root: Path):
+    """边校验边收集待生成样本，返回 (train, eval, stats)"""
+    train, evalset = [], []
+    stats = []
+
+    # 1) questions.json 里定义了但 images/ 下还没有图片的类别（允许分批次备数据）
+    missing_cats = [cat for cat in q_index if cat not in tree]
+    if missing_cats:
+        info(f"以下类别暂无 images/<category>/ 目录，本次跳过：{', '.join(missing_cats)}")
+
+    for cat, skus in tree.items():
+        if cat not in q_index:
+            n = sum(len(v) for v in skus.values())
+            err(f"images/{cat}/ 有 {n} 张图，但 questions.json 里没有该类别（请补问法）")
+            continue
+
+        n_cat_imgs = 0
+        n_cat_samples = 0
+        n_cat_skus_ok = 0
+
+        for sku, imgs in skus.items():
+            key = f"{cat}/{sku}"
+            if not imgs:
+                warn(f"images/{key}/ 是空目录，已跳过")
+                continue
+            n_cat_imgs += len(imgs)
+
+            if key not in answers:
+                err(f"images/{key}/ 有 {len(imgs)} 张图，但 answers.json 里没有该款")
+                continue
+
+            meta = answers[key]
+            if len(imgs) < MIN_IMAGES_PER_SKU:
+                warn(f"{key} 只有 {len(imgs)} 张图（建议 ≥ {MIN_IMAGES_PER_SKU}）")
+
+            split = str(meta.get("split", "train")).lower()
+            if split not in ("train", "eval"):
+                err(f"{key} 的 split={split!r} 非法，只能是 train / eval")
+                continue
+
+            qa = meta.get("qa") or {}
+            if not qa:
+                err(f"{key} 的 qa 为空，没有可生成的问答对")
+                continue
+
+            visible = " ".join(meta.get("visible") or [])
+            caveat = str(meta.get("caveat") or "")
+            if not visible:
+                warn(f"{key} 没有写 visible（图上可见特征），无法核对答案是否有编造")
+
+            pairs = []
+            n_err_before = len(ERRORS)
+            for qid, answer in qa.items():
+                if qid not in q_index[cat]:
+                    err(f"{key} 的 qa 引用了 {cat} 下不存在的问法 id：{qid}")
+                    continue
+                q = q_index[cat][qid]
+                ans_turns = [answer] if isinstance(answer, str) else list(answer)
+                if len(ans_turns) != len(q["user"]):
+                    err(f"{key} 的问法 {qid} 有 {len(q['user'])} 轮，"
+                        f"但给了 {len(ans_turns)} 段回答，轮数必须一致")
+                    continue
+                pairs.append((qid, q, ans_turns))
+                check_answer_numbers(key, qid, ans_turns, visible, caveat,
+                                     " ".join(q["user"]))
+
+            if not pairs:
+                continue
+            if len(ERRORS) > n_err_before:
+                # 该款的问答对有问题，不产出样本（具体错误已在上面的检查中记录）
+                continue
+
+            n_cat_skus_ok += 1
+            for img in imgs:
+                rel = img.relative_to(root).as_posix()   # images/<cat>/<sku>/xxx.jpg
+                for qid, q, ans_turns in pairs:
+                    convs = []
+                    for u, a in zip(q["user"], ans_turns):
+                        convs.append({"from": "user", "value": u})
+                        convs.append({"from": "assistant", "value": a})
+                    sample = {"conversations": convs, "image": rel}
+                    (evalset if split == "eval" else train).append(sample)
+                    n_cat_samples += 1
+
+        if n_cat_imgs < MIN_IMAGES_PER_CATEGORY:
+            warn(f"类别 {cat} 只有 {n_cat_imgs} 张图（建议 ≥ {MIN_IMAGES_PER_CATEGORY}）")
+
+        stats.append((cat, len(skus), n_cat_skus_ok, n_cat_imgs, n_cat_samples))
+
+    # 2) answers.json 里有、但 images/ 下没图的孤儿款
+    for key in public_keys(answers):
+        cat, _, sku = key.partition("/")
+        if not sku:
+            err(f"answers.json 的键 {key!r} 不是 <category>/<sku> 格式")
+            continue
+        if sku not in tree.get(cat, {}):
+            warn(f"answers.json 里的 {key} 在 images/{cat}/{sku}/ 下没有对应目录或图片")
+
+    return train, evalset, stats
+
+
+def check_answer_numbers(key, qid, ans_turns, visible, caveat, q_text=""):
+    """答案里的数字若在 visible 里找不到证据，就要靠 caveat 声明“以商品页标注为准”。
+
+    用户问句里出现过的数字是用户的约束条件（"15.6寸电脑"、"预算300以内"），
+    答案复述它们不算编造，所以要从待核对集合里剔除，否则会产生大量假阳性。
+    """
+    ans_text = " ".join(ans_turns)
+    unseen = sorted(set(NUM_RE.findall(ans_text))
+                    - set(NUM_RE.findall(visible))
+                    - set(NUM_RE.findall(q_text)),
+                    key=len, reverse=True)
+    if not unseen:
         return
-    print(f"检测到 {len(images)} 张图片，正在生成数据集...")
-    dataset = [build_sample(img) for img in images]
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(dataset, f, ensure_ascii=False, indent=2)
-    multi_round = sum(1 for s in dataset if len(s["conversations"]) > 2)
-    print(f"✅ 生成完成！共 {len(dataset)} 条样本")
-    print(f"   多轮对话样本：{multi_round} 条 ({int(multi_round/len(dataset)*100)}%)")
-    print(f"   文件保存至：{OUTPUT_FILE}")
+    if not caveat:
+        err(f"{key} 的问法 {qid}：答案里出现图中无法核对的数字 {unseen}，"
+            f"但该款没写 caveat（图上不可见参数声明）")
+    else:
+        warn(f"{key} 的问法 {qid}：数字 {unseen} 不在 visible 中，"
+             f"已由 caveat 声明为“以商品页标注为准”，请人工确认")
+
+
+# ---- 图片尺寸检查（需要 PIL，缺失则跳过）------------------------------------
+def check_image_files(tree, root: Path):
+    try:
+        from PIL import Image
+    except ImportError:
+        warn("未安装 Pillow，跳过图片尺寸检查（pip install Pillow 可启用）")
+        return
+
+    checked = 0
+    for cat, skus in tree.items():
+        for sku, imgs in skus.items():
+            small, huge = [], []
+            for p in imgs:
+                try:
+                    with Image.open(p) as im:
+                        w, h = im.size
+                except Exception as e:                       # noqa: BLE001
+                    err(f"图片无法打开：{p.relative_to(root)}（{e}）")
+                    continue
+                if min(w, h) < SHORT_SIDE_MIN:
+                    small.append(f"{p.name}({w}x{h})")
+                if w * h > AREA_MAX:
+                    huge.append(f"{p.name}({w}x{h})")
+                checked += 1
+            if small:
+                warn(f"{cat}/{sku}: {len(small)} 张短边 < {SHORT_SIDE_MIN}，"
+                     f"会被预处理放大导致细节丢失：{small[:3]}")
+            if huge:
+                warn(f"{cat}/{sku}: {len(huge)} 张面积 > {AREA_MAX}(=512x512)，"
+                     f"会被等比压缩，多传的部分无效：{huge[:3]}")
+    print(f"  · 已检查 {checked} 张图片的尺寸")
+
+
+# ---- 输出 -------------------------------------------------------------------
+def write_json(path: Path, data) -> None:
+    if path.is_file():
+        bak = path.with_suffix(path.suffix + ".bak")
+        shutil.copy2(path, bak)
+        print(f"  ↳ 原 {path.name} 已备份为 {bak.name}")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def report(stats, train, evalset) -> None:
+    print("\n" + "=" * 74)
+    print(f"{'类别':<20}{'款数':>6}{'有效款':>8}{'图片':>8}{'样本':>8}")
+    print("-" * 74)
+    for cat, n_sku, n_ok, n_img, n_smp in stats:
+        print(f"{cat:<20}{n_sku:>6}{n_ok:>8}{n_img:>8}{n_smp:>8}")
+    print("-" * 74)
+    print(f"{'合计':<20}{'':>6}{'':>8}"
+          f"{sum(s[3] for s in stats):>8}{sum(s[4] for s in stats):>8}")
+    print("=" * 74)
+    print(f"训练集 {len(train)} 条 / 验证集 {len(evalset)} 条"
+          f"（验证集按款留出，与训练集无同款图片）")
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description="电商导购多模态数据集生成器 v2")
+    ap.add_argument("--root", default=str(Path(__file__).resolve().parent),
+                    help="数据根目录（默认脚本所在目录）")
+    ap.add_argument("--check", action="store_true", help="只质检，不写文件")
+    ap.add_argument("--no-size-check", action="store_true", help="跳过图片尺寸检查")
+    ap.add_argument("--out", default="train.json", help="训练集输出文件名")
+    ap.add_argument("--out-eval", default="eval.json", help="验证集输出文件名")
+    args = ap.parse_args()
+
+    root = Path(args.root).resolve()
+    print(f"数据根目录：{root}\n")
+
+    questions = load_json(root / "questions.json")
+    answers = load_json(root / "answers.json")
+    if ERRORS:
+        for e in ERRORS:
+            print(f"[错误] {e}")
+        return 1
+
+    q_index = validate_questions(questions)
+    tree = scan_images(root)
+    train, evalset, stats = validate_and_collect(tree, q_index, answers, root)
+
+    if not args.no_size_check and not args.check:
+        check_image_files(tree, root)
+
+    if stats:
+        report(stats, train, evalset)
+
+    print()
+    for i in INFOS:
+        print(f"[提示] {i}")
+    for w in WARNINGS:
+        print(f"[警告] {w}")
+    for e in ERRORS:
+        print(f"[错误] {e}")
+
+    if ERRORS:
+        print(f"\n发现 {len(ERRORS)} 个错误、{len(WARNINGS)} 个警告，未写文件。")
+        return 1
+
+    if args.check:
+        if not train and not evalset:
+            print(f"\n[警告] --check 未发现错误，但当前没有任何可生成的样本"
+                  f"（{len(WARNINGS)} 个警告），请先确认 images/ 已按 <category>/<sku>/ 分层。")
+        else:
+            print(f"\n[通过] --check 通过（{len(WARNINGS)} 个警告）："
+                  f"预计生成 train {len(train)} 条 / eval {len(evalset)} 条。")
+        return 0
+
+    if not train and not evalset:
+        print("\n[错误] 没有生成任何样本（大概率是 images/ 下还没有按 <category>/<sku>/ 放图），"
+              "为避免覆盖已有 train.json，本次不写文件。")
+        return 1
+
+    write_json(root / args.out, train)
+    write_json(root / args.out_eval, evalset)
+    print(f"\n[完成] 已写出 {args.out}（{len(train)} 条）、{args.out_eval}（{len(evalset)} 条）")
+    print(f"   警告 {len(WARNINGS)} 条，建议逐条确认后再训练。")
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
