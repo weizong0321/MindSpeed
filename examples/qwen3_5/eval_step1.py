@@ -95,8 +95,13 @@ def main() -> int:
     ap.add_argument("--model", required=True)
     ap.add_argument("--tag", required=True)
     ap.add_argument("--out", required=True)
+    ap.add_argument("--data", default="sample4",
+                    help="数据集目录名（在 /workspace/MindSpeed/data/ecommerce_multimodal/ 下）")
     ap.add_argument("--per-sku", type=int, default=3, help="每个子样式评测几张图")
     args = ap.parse_args()
+
+    DATA = f"/workspace/MindSpeed/data/ecommerce_multimodal/{args.data}"
+    print(f"[{args.tag}] 数据集 {DATA}")
 
     evalset = json.loads(Path(f"{DATA}/eval.json").read_text(encoding="utf-8"))
     answers = json.loads(Path(f"{DATA}/answers.json").read_text(encoding="utf-8"))
@@ -146,8 +151,9 @@ def main() -> int:
         picked = items[:args.per_sku * 2]
         for s in picked:
             q = s["conversations"][0]["value"]
-            path = os.path.join("/workspace/MindSpeed/data/ecommerce_multimodal/sample4",
-                                s["image"])
+            path = os.path.join(
+                f"/workspace/MindSpeed/data/ecommerce_multimodal/{args.data}",
+                s["image"])
             ans = generate(model, processor, eos_ids, path, q, device)
             results.append({"sku": sku, "question": q, "image": s["image"],
                             "answer": ans})
@@ -169,12 +175,35 @@ def main() -> int:
                 s = sim(a["answer"], b["answer"])
                 (within if a["sku"] == b["sku"] else across).append(s)
 
-    # C：串味
+    # C：串味（自动版，覆盖任意品类数量）
+    # 每个品类抽取"专属 2-gram"（只在本类及至多 1 个别的类里出现的短语），
+    # 若某条输出的内容大量命中**别的品类**的专属短语，即判为串味。
+    cat_grams, gram_cats = defaultdict(set), defaultdict(set)
+    for (key, _q), txt in refs.items():
+        c = key.split("/")[0]
+        gs = bigrams(txt)
+        cat_grams[c] |= gs
+        for g in gs:
+            gram_cats[g].add(c)
+    distinctive = {c: {g for g in gs if len(gram_cats[g]) <= 2}
+                   for c, gs in cat_grams.items()}
+
     contam = []
     for r in results:
-        bad = [w for w in FORBIDDEN.get(cat_of.get(r["sku"], ""), []) if w in r["answer"]]
-        if bad:
-            contam.append({"sku": r["sku"], "words": bad, "answer": r["answer"][:80]})
+        cat = r["sku"].split("/")[0]
+        own = distinctive.get(cat, set())
+        out_g = bigrams(r["answer"])
+        bad = []
+        for oc, gs in distinctive.items():
+            if oc == cat:
+                continue
+            if len((gs - own) & out_g) >= 3:
+                bad.append(oc)
+        # 旧的硬编码词表作为补充信号
+        hard = [w for w in FORBIDDEN.get(cat, []) if w in r["answer"]]
+        if bad or hard:
+            contam.append({"sku": r["sku"], "cats": sorted(set(bad + hard)),
+                           "answer": r["answer"][:90]})
 
     # D：归属准确率（只在同一问法内比较）
     correct = 0

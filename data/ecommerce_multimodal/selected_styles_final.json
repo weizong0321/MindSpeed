@@ -1,0 +1,251 @@
+{
+  "styles": [
+    {
+      "sku": "accessories_001",
+      "category": "accessories",
+      "n": 60
+    },
+    {
+      "sku": "accessories_002",
+      "category": "accessories",
+      "n": 55
+    },
+    {
+      "sku": "accessories_004",
+      "category": "accessories",
+      "n": 51
+    },
+    {
+      "sku": "accessories_005",
+      "category": "accessories",
+      "n": 47
+    },
+    {
+      "sku": "accessories_007",
+      "category": "accessories",
+      "n": 38
+    },
+    {
+      "sku": "apparel_pants_002",
+      "category": "apparel_pants",
+      "n": 65
+    },
+    {
+      "sku": "apparel_pants_008",
+      "category": "apparel_pants",
+      "n": 51
+    },
+    {
+      "sku": "apparel_shorts_001",
+      "category": "apparel_shorts",
+      "n": 47
+    },
+    {
+      "sku": "apparel_shorts_003",
+      "category": "apparel_shorts",
+      "n": 43
+    },
+    {
+      "sku": "apparel_top_002",
+      "category": "apparel_top",
+      "n": 54
+    },
+    {
+      "sku": "appliance_large_001",
+      "category": "appliance_large",
+      "n": 70
+    },
+    {
+      "sku": "appliance_large_002",
+      "category": "appliance_large",
+      "n": 58
+    },
+    {
+      "sku": "appliance_large_004",
+      "category": "appliance_large",
+      "n": 50
+    },
+    {
+      "sku": "appliance_large_007",
+      "category": "appliance_large",
+      "n": 47
+    },
+    {
+      "sku": "baby_products_004",
+      "category": "baby_products",
+      "n": 27
+    },
+    {
+      "sku": "baby_products_007",
+      "category": "baby_products",
+      "n": 24
+    },
+    {
+      "sku": "bag_backpack_001",
+      "category": "bag_backpack",
+      "n": 64
+    },
+    {
+      "sku": "bag_backpack_002",
+      "category": "bag_backpack",
+      "n": 54
+    },
+    {
+      "sku": "bag_backpack_004",
+      "category": "bag_backpack",
+      "n": 52
+    },
+    {
+      "sku": "bag_backpack_005",
+      "category": "bag_backpack",
+      "n": 49
+    },
+    {
+      "sku": "cosmetics_001",
+      "category": "cosmetics",
+      "n": 73
+    },
+    {
+      "sku": "health_supplement_005",
+      "category": "health_supplement",
+      "n": 40
+    },
+    {
+      "sku": "health_supplement_008",
+      "category": "health_supplement",
+      "n": 38
+    },
+    {
+      "sku": "household_detergent_008",
+      "category": "household_detergent",
+      "n": 50
+    },
+    {
+      "sku": "jewelry_005",
+      "category": "jewelry",
+      "n": 40
+    },
+    {
+      "sku": "jewelry_008",
+      "category": "jewelry",
+      "n": 36
+    },
+    {
+      "sku": "personal_care_006",
+      "category": "personal_care",
+      "n": 61
+    },
+    {
+      "sku": "personal_care_008",
+      "category": "personal_care",
+      "n": 60
+    },
+    {
+      "sku": "purse_wallet_001",
+      "category": "purse_wallet",
+      "n": 65
+    },
+    {
+      "sku": "purse_wallet_005",
+      "category": "purse_wallet",
+      "n": 45
+    },
+    {
+      "sku": "shoes_kids_003",
+      "category": "shoes_kids",
+      "n": 34
+    },
+    {
+      "sku": "shoes_kids_005",
+      "category": "shoes_kids",
+      "n": 33
+    },
+    {
+      "sku": "shoes_kids_006",
+      "category": "shoes_kids",
+      "n": 30
+    },
+    {
+      "sku": "shoes_kids_007",
+      "category": "shoes_kids",
+      "n": 30
+    },
+    {
+      "sku": "shoes_leather_002",
+      "category": "shoes_leather",
+      "n": 46
+    },
+    {
+      "sku": "shoes_leather_003",
+      "category": "shoes_leather",
+      "n": 41
+    },
+    {
+      "sku": "shoes_leather_005",
+      "category": "shoes_leather",
+      "n": 40
+    },
+    {
+      "sku": "shoes_other_002",
+      "category": "shoes_other",
+      "n": 48
+    },
+    {
+      "sku": "shoes_other_004",
+      "category": "shoes_other",
+      "n": 44
+    },
+    {
+      "sku": "shoes_other_005",
+      "category": "shoes_other",
+      "n": 38
+    },
+    {
+      "sku": "shoes_sneaker_003",
+      "category": "shoes_sneaker",
+      "n": 84
+    },
+    {
+      "sku": "shoes_sneaker_006",
+      "category": "shoes_sneaker",
+      "n": 76
+    },
+    {
+      "sku": "toy_vehicle_003",
+      "category": "toy_vehicle",
+      "n": 73
+    },
+    {
+      "sku": "watch_001",
+      "category": "watch",
+      "n": 63
+    },
+    {
+      "sku": "watch_002",
+      "category": "watch",
+      "n": 63
+    },
+    {
+      "sku": "watch_005",
+      "category": "watch",
+      "n": 54
+    },
+    {
+      "sku": "watch_008",
+      "category": "watch",
+      "n": 52
+    }
+  ],
+  "dropped_suspect": [
+    "bag_backpack/bag_backpack_007",
+    "bag_handbag/bag_handbag_007",
+    "purse_wallet/purse_wallet_008",
+    "shoes_leather/shoes_leather_006",
+    "shoes_leather/shoes_leather_007",
+    "shoes_leather/shoes_leather_008",
+    "watch/watch_004",
+    "luggage/luggage_007",
+    "cosmetics/cosmetics_006",
+    "health_supplement/health_supplement_007"
+  ]
+}
