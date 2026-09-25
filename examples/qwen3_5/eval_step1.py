@@ -246,7 +246,7 @@ def main() -> int:
     if contam:
         print("\n串味样例：")
         for c in contam[:6]:
-            print(f"  [{c['sku']}] 命中 {c['words']} → {c['answer']}")
+            print(f"  [{c['sku']}] 串到 {c.get('cats')} → {c['answer'][:70]}")
 
     Path(args.out).write_text(json.dumps(
         {"summary": summary, "results": results, "contamination": contam,
