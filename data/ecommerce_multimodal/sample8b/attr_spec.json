@@ -1,0 +1,40 @@
+{
+  "accessories": [
+    "type"
+  ],
+  "apparel_pants": [
+    "waist"
+  ],
+  "appliance_large": [
+    "display",
+    "loading",
+    "type"
+  ],
+  "baby_products": [
+    "handle"
+  ],
+  "bag_backpack": [
+    "side_pocket"
+  ],
+  "cosmetics": [
+    "package",
+    "type"
+  ],
+  "personal_care": [
+    "package"
+  ],
+  "purse_wallet": [
+    "closure",
+    "strap"
+  ],
+  "shoes_kids": [
+    "closure"
+  ],
+  "shoes_leather": [
+    "closure",
+    "sole"
+  ],
+  "watch": [
+    "strap_material"
+  ]
+}

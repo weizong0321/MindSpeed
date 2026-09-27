@@ -1,0 +1,155 @@
+{
+  "_note": "人工真值。color = 人看到这张图最先说出的主色（单一词）；color_alts = 同色系说法，任一出现即算命中；ambiguous=true 表示这张图本来就没有唯一主色（多件商品/印刷品/颜色不明确），统计时单独列出。parts = 肉眼确实看得见的结构特征，用最通用的中文名词。",
+  "_scoring": "命中判据与 eval_attrs.py 一致：子串匹配（alt in text）。parts 命中率 = 出现的部件数 / 部件总数。",
+  "items": [
+    {"id": "A01", "sku": "accessories/accessories_001", "truth_color": "银色",
+     "color_alts": ["银色", "银白", "银灰"], "ambiguous": false,
+     "parts": ["镜框", "镜片", "鼻托", "镜腿"],
+     "see": "飞行员太阳镜，银色金属细框 + 深灰镜片"},
+
+    {"id": "A02", "sku": "apparel_pants/apparel_pants_002", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["裤腰", "裤腿", "口袋", "抽绳"],
+     "see": "黑色长裤平铺在红色床品上（背景红不算）"},
+
+    {"id": "A03", "sku": "apparel_short/apparel_short_001", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["腰头", "口袋", "裤腿", "系带"],
+     "see": "黑色运动短裤，平铺"},
+
+    {"id": "A04", "sku": "apparel_trip/apparel_trip_002", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["立领", "拉链", "绗缝", "袖口"],
+     "see": "黑色绗缝羽绒马甲/外套，搭在椅背上，内衬深灰"},
+
+    {"id": "A05", "sku": "appliance_large/appliance_large_001", "truth_color": "白色",
+     "color_alts": ["白色", "白"], "ambiguous": false,
+     "parts": ["出风口", "面板", "显示屏", "机身"],
+     "see": "壁挂空调内机，白色，带能效标识贴纸"},
+
+    {"id": "A06", "sku": "baby_products/baby_products_004", "truth_color": "透明",
+     "color_alts": ["透明", "无色", "白色"], "ambiguous": true,
+     "parts": ["奶嘴", "瓶身", "手柄", "刻度"],
+     "see": "婴儿奶瓶（透明瓶身 + 卡通印花带 + 手柄），旁边另有一个粉色小袋。无唯一主色"},
+
+    {"id": "A07", "sku": "bag_backpack/bag_backpack_001", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["双肩带", "拉链", "提手", "前袋"],
+     "see": "黑色双肩包靠在白墙上，有侧袋和提手"},
+
+    {"id": "A08", "sku": "cosmetics/cosmetics_001", "truth_color": "红色",
+     "color_alts": ["红色", "正红", "红"], "ambiguous": false,
+     "parts": ["膏体", "管身", "盖子", "金色"],
+     "see": "上手试色：金色/玫瑰金管身的口红，膏体正红"},
+
+    {"id": "A09", "sku": "health_supplement/health_supplement_005", "truth_color": "白色",
+     "color_alts": ["白色", "白"], "ambiguous": false,
+     "parts": ["瓶盖", "瓶身", "标签", "条码"],
+     "see": "白色塑料保健品瓶，白底标签 + 黄黑文字"},
+
+    {"id": "A10", "sku": "household_detergent/household_detergent_008", "truth_color": "蓝色",
+     "color_alts": ["蓝色", "蓝", "深蓝"], "ambiguous": false,
+     "parts": ["包装袋", "标签", "撕口", "文字"],
+     "see": "4 袋同款洗衣凝珠/洗衣液平铺在地上（多件同款），包装蓝白红"},
+
+    {"id": "A11", "sku": "jewelry/jewelry_005", "truth_color": "银色",
+     "color_alts": ["银色", "银白", "银"], "ambiguous": false,
+     "parts": ["链条", "吊坠", "礼盒", "内衬"],
+     "see": "银色项链（圆牌吊坠）摆在深色礼盒里"},
+
+    {"id": "A12", "sku": "personal_care/personal_care_006", "truth_color": "蓝色",
+     "color_alts": ["蓝色", "蓝"], "ambiguous": true,
+     "parts": ["瓶身", "标签", "文字", "画面"],
+     "see": "拍的是一本印刷宣传册/折页，画面里印着一支蓝色瓶子。实物商品没直接出现"},
+
+    {"id": "A13", "sku": "purse_wallet/purse_wallet_001", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["翻盖", "金属扣", "口袋", "手"],
+     "see": "手持黑色皮质钱包，掀开翻盖，里面露出卡位"},
+
+    {"id": "A14", "sku": "shoes_kids/shoes_kids_003", "truth_color": "绿色",
+     "color_alts": ["绿色", "墨绿", "深绿", "青色", "蓝绿"], "ambiguous": true,
+     "parts": ["鞋面", "鞋带", "鞋底", "鞋盒"],
+     "see": "童鞋装在鞋盒里，深墨绿/青绿针织鞋面 + 白底 + 橙色小 logo。绿蓝边界模糊"},
+
+    {"id": "A15", "sku": "shoes_leather/shoes_leather_002", "truth_color": "棕色",
+     "color_alts": ["棕色", "褐色", "咖啡色", "深棕"], "ambiguous": false,
+     "parts": ["鞋面", "鞋带", "鞋底", "鞋头"],
+     "see": "棕色男士系带皮鞋穿在脚上，背景鞋架上有别的鞋（背景不算）"},
+
+    {"id": "A16", "sku": "shoes_other/shoes_other_002", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["鞋面", "鞋带", "鞋头", "鞋底"],
+     "see": "黑色系带皮鞋穿在脚上，配灰色裤子"},
+
+    {"id": "A17", "sku": "shoes_sneaker/shoes_sneaker_003", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["鞋面", "鞋底", "鞋盒", "白色"],
+     "see": "黑色一脚蹬/运动鞋放鞋盒里，白色厚底"},
+
+    {"id": "A18", "sku": "toy_vehicle/toy_vehicle_003", "truth_color": "黄色",
+     "color_alts": ["黄色", "黄"], "ambiguous": false,
+     "parts": ["车轮", "车身", "车斗", "轮胎"],
+     "see": "玩具卡车（黄色车身 + 绿色/黑色饰条 + 大轮子）放在地上"},
+
+    {"id": "A19", "sku": "watch/watch_001", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["表盘", "表带", "表冠", "刻度"],
+     "see": "男表，黑皮带 + 黑表盘 + 银壳，躺在白枕上"},
+
+    {"id": "A20", "sku": "accessories/accessories_002", "truth_color": "棕色",
+     "color_alts": ["棕色", "褐色", "咖啡色"], "ambiguous": false,
+     "parts": ["皮带", "金属扣", "打孔", "扣头"],
+     "see": "棕色皮质腰带 + 蓝色装饰织带 + 金属扣头，平铺"},
+
+    {"id": "A21", "sku": "apparel_pants/apparel_pants_008", "truth_color": "灰色",
+     "color_alts": ["灰色", "灰", "深灰"], "ambiguous": false,
+     "parts": ["裤腰", "裤腿", "口袋", "裤脚"],
+     "see": "灰色休闲裤搭在桌/椅上，有后袋"},
+
+    {"id": "A22", "sku": "apparel_short/apparel_short_003", "truth_color": "灰色",
+     "color_alts": ["灰色", "灰"], "ambiguous": false,
+     "parts": ["腰头", "抽绳", "口袋", "裤腿"],
+     "see": "灰绿色运动短裤平铺在床上，松紧腰 + 抽绳"},
+
+    {"id": "A23", "sku": "appliance_large/appliance_large_002", "truth_color": "灰色",
+     "color_alts": ["灰色", "灰", "银灰", "白色"], "ambiguous": false,
+     "parts": ["机盖", "控制面板", "机身", "底座"],
+     "see": "波轮洗衣机摆在房间里，机身银灰/灰白，上开盖"},
+
+    {"id": "A24", "sku": "baby_products/baby_products_007", "truth_color": "粉色",
+     "color_alts": ["粉色", "粉", "蓝色", "蓝"], "ambiguous": true,
+     "parts": ["奶嘴", "瓶身", "手柄", "刻度"],
+     "see": "奶瓶套装（两个：粉盖 + 蓝盖）带手柄，装在半透明袋里。两件不同色"},
+
+    {"id": "A25", "sku": "bag_backpack/bag_backpack_002", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["双肩带", "拉链", "提手", "前袋"],
+     "see": "黑色双肩包搭在座椅/深色物体上，有反光条和金属挂扣"},
+
+    {"id": "A26", "sku": "health_supplement/health_supplement_008", "truth_color": "白色",
+     "color_alts": ["白色", "白"], "ambiguous": false,
+     "parts": ["瓶盖", "瓶身", "标签", "文字"],
+     "see": "白色保健品瓶放玻璃桌上，标签有中英文文字"},
+
+    {"id": "A27", "sku": "jewelry/jewelry_008", "truth_color": "银色",
+     "color_alts": ["银色", "银白", "银"], "ambiguous": false,
+     "parts": ["链条", "吊坠", "脖子", "项链"],
+     "see": "银项链（异形吊坠）戴在人脖子上，配碎花裙（衣着是背景）"},
+
+    {"id": "A28", "sku": "personal_care/personal_care_008", "truth_color": "蓝色",
+     "color_alts": ["蓝色", "蓝", "深蓝"], "ambiguous": false,
+     "parts": ["管身", "翻盖", "标签", "手"],
+     "see": "手持蓝色软管装洁面（PROYA 珀莱雅），管身深蓝 + 白字"},
+
+    {"id": "A29", "sku": "purse_wallet/purse_wallet_005", "truth_color": "黑色",
+     "color_alts": ["黑色", "黑"], "ambiguous": false,
+     "parts": ["钱包", "拉链", "金属", "手"],
+     "see": "黑色长款钱包放在黑色包上，手扶着，有金属标"},
+
+    {"id": "A30", "sku": "shoes_kids/shoes_kids_005", "truth_color": "蓝色",
+     "color_alts": ["蓝色", "蓝", "深蓝"], "ambiguous": false,
+     "parts": ["鞋面", "鞋带", "鞋底", "三条纹"],
+     "see": "蓝色 Adidas 运动鞋穿在脚上（蓝面 + 白底 + 黑条纹）"}
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_readme": [
+    "sample5 问法库：57 个纯子样式 / 21 个品类，每类两套问法。",
+    "问句必须以 <image>\\n 开头；rounds=1 时 user 是字符串。"
+  ],
+  "accessories": {
+    "name_zh": "accessories",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "日常 / 耐用+好搭+实惠",
+        "rounds": 1,
+        "user": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "id": "gift",
+        "desc": "送人 / 质感+通用尺码+包装",
+        "rounds": 1,
+        "user": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      }
+    ]
+  },
+  "apparel_pants": {
+    "name_zh": "apparel_pants",
+    "questions": [
+      {
+        "id": "commute",
+        "desc": "通勤 / 版型+口袋+不掉色",
+        "rounds": 1,
+        "user": "<image>\n日常通勤穿，要版型不紧绷、口袋能放手机、洗后不掉色，这款怎么样？"
+      },
+      {
+        "id": "sport",
+        "desc": "运动 / 弹力+透气+蹲下不勒",
+        "rounds": 1,
+        "user": "<image>\n运动时穿，要弹力好、透气不闷、蹲下不勒，这款合适吗？"
+      }
+    ]
+  },
+  "apparel_shorts": {
+    "name_zh": "apparel_shorts",
+    "questions": [
+      {
+        "id": "summer",
+        "desc": "夏天 / 透气+长度+好搭",
+        "rounds": 1,
+        "user": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "id": "sport",
+        "desc": "运动 / 弹力+口袋+不粘腿",
+        "rounds": 1,
+        "user": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      }
+    ]
+  },
+  "apparel_top": {
+    "name_zh": "apparel_top",
+    "questions": [
+      {
+        "id": "winter",
+        "desc": "秋冬 / 保暖不臃肿+内外两穿+不起球",
+        "rounds": 1,
+        "user": "<image>\n秋冬穿，要保暖不臃肿、内搭外穿都行、洗后不起球，这款怎么样？"
+      },
+      {
+        "id": "daily",
+        "desc": "日常 / 版型正+领口不变形+好搭",
+        "rounds": 1,
+        "user": "<image>\n日常穿，要版型正、领口不变形、好搭配，这款合适吗？"
+      }
+    ]
+  },
+  "appliance_large": {
+    "name_zh": "appliance_large",
+    "questions": [
+      {
+        "id": "replace",
+        "desc": "换新 / 省电+噪音小+售后",
+        "rounds": 1,
+        "user": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "id": "small_space",
+        "desc": "小空间 / 占地小+好装+能效高",
+        "rounds": 1,
+        "user": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      }
+    ]
+  },
+  "baby_products": {
+    "name_zh": "baby_products",
+    "questions": [
+      {
+        "id": "newborn",
+        "desc": "新生儿 / 材质安全+好清洗+无刺激味",
+        "rounds": 1,
+        "user": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "id": "daily_care",
+        "desc": "带娃 / 好消毒+耐用+好带",
+        "rounds": 1,
+        "user": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      }
+    ]
+  },
+  "bag_backpack": {
+    "name_zh": "bag_backpack",
+    "questions": [
+      {
+        "id": "commute",
+        "desc": "通勤+出差 / 电脑+侧袋+背部透气",
+        "rounds": 1,
+        "user": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "id": "outing",
+        "desc": "一日徒步 / 轻+装外套水+肩带不勒",
+        "rounds": 1,
+        "user": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      }
+    ]
+  },
+  "cosmetics": {
+    "name_zh": "cosmetics",
+    "questions": [
+      {
+        "id": "dry_skin",
+        "desc": "干皮 / 保湿不刺激+不搓泥",
+        "rounds": 1,
+        "user": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "id": "gift",
+        "desc": "送人 / 包装体面+口碑+适合多数肤质",
+        "rounds": 1,
+        "user": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      }
+    ]
+  },
+  "health_supplement": {
+    "name_zh": "health_supplement",
+    "questions": [
+      {
+        "id": "elder",
+        "desc": "给长辈 / 成分清楚+好吞+正规厂家",
+        "rounds": 1,
+        "user": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "id": "daily",
+        "desc": "日常补充 / 吃法简单+无异味+能长期",
+        "rounds": 1,
+        "user": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      }
+    ]
+  },
+  "household_detergent": {
+    "name_zh": "household_detergent",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "日常 / 去污+气味+不伤手",
+        "rounds": 1,
+        "user": "<image>\n家里日常用，要去污力够、气味不刺鼻、不伤手，这款怎么样？"
+      },
+      {
+        "id": "stock",
+        "desc": "囤货 / 性价比+好冲+适合机洗",
+        "rounds": 1,
+        "user": "<image>\n囤货用，要性价比高、好冲洗、适合机洗，这款合适吗？"
+      }
+    ]
+  },
+  "jewelry": {
+    "name_zh": "jewelry",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "日常戴 / 不过敏+不勾衣+好搭",
+        "rounds": 1,
+        "user": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "id": "gift",
+        "desc": "送人 / 包装+款式经典+做工",
+        "rounds": 1,
+        "user": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      }
+    ]
+  },
+  "personal_care": {
+    "name_zh": "personal_care",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "日常 / 温和+好冲+气味不冲",
+        "rounds": 1,
+        "user": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "id": "family",
+        "desc": "全家 / 性价比+容量+放心",
+        "rounds": 1,
+        "user": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      }
+    ]
+  },
+  "purse_wallet": {
+    "name_zh": "purse_wallet",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "日常 / 卡位+现金+塞裤兜+耐刮",
+        "rounds": 1,
+        "user": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "id": "gift",
+        "desc": "送人 / 质感+做工+不显廉价",
+        "rounds": 1,
+        "user": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      }
+    ]
+  },
+  "shoes_kids": {
+    "name_zh": "shoes_kids",
+    "questions": [
+      {
+        "id": "daily",
+        "desc": "给孩子 / 鞋底软+好穿脱+不压脚背",
+        "rounds": 1,
+        "user": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "id": "school",
+        "desc": "上学 / 耐磨+防滑+配校服",
+        "rounds": 1,
+        "user": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      }
+    ]
+  },
+  "shoes_leather": {
+    "name_zh": "shoes_leather",
+    "questions": [
+      {
+        "id": "commute",
+        "desc": "上班通勤 / 不磨脚+防滑+配西裤",
+        "rounds": 1,
+        "user": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "id": "formal",
+        "desc": "正式场合 / 皮面光泽+鞋型挺+久站不累",
+        "rounds": 1,
+        "user": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      }
+    ]
+  },
+  "shoes_other": {
+    "name_zh": "shoes_other",
+    "questions": [
+      {
+        "id": "summer",
+        "desc": "夏天 / 透气+好走+好搭",
+        "rounds": 1,
+        "user": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "id": "daily",
+        "desc": "日常 / 鞋跟稳+不夹脚+久走不磨",
+        "rounds": 1,
+        "user": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      }
+    ]
+  },
+  "shoes_sneaker": {
+    "name_zh": "shoes_sneaker",
+    "questions": [
+      {
+        "id": "daily_run",
+        "desc": "夜跑5公里 / 缓震+透气+不磨脚",
+        "rounds": 1,
+        "user": "<image>\n每天夜跑5公里，体重70kg正常足弓，要缓震好、透气、不磨脚，这款适合吗？"
+      },
+      {
+        "id": "student",
+        "desc": "学生日常+体育课 / 百搭+耐穿+抓地",
+        "rounds": 1,
+        "user": "<image>\n学生日常穿加体育课，要百搭、耐穿、鞋底抓地，预算300以内，这款怎么样？"
+      }
+    ]
+  },
+  "toy_vehicle": {
+    "name_zh": "toy_vehicle",
+    "questions": [
+      {
+        "id": "kid5",
+        "desc": "5岁孩子 / 耐摔+无尖角+可玩性",
+        "rounds": 1,
+        "user": "<image>\n给5岁孩子买，要耐摔、无尖角、可玩性高，这款怎么样？"
+      },
+      {
+        "id": "gift",
+        "desc": "送人 / 包装完整+配件齐+耐玩",
+        "rounds": 1,
+        "user": "<image>\n送人用，要包装完整、配件齐全、能玩久一点，这款合适吗？"
+      }
+    ]
+  },
+  "watch": {
+    "name_zh": "watch",
+    "questions": [
+      {
+        "id": "outdoor",
+        "desc": "户外徒步跑步 / 防水+夜光+透气表带",
+        "rounds": 1,
+        "user": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "id": "daily",
+        "desc": "日常通勤 / 耐刮+轻+显示日期星期",
+        "rounds": 1,
+        "user": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      }
+    ]
+  }
+}

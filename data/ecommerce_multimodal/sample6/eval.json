@@ -1,0 +1,4118 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，风格偏经典的飞行员款。图中为黑太阳镜，大框、彩色镜片、镜腿，手持展示。是否耐用、镜框会不会掉色、价格多少图中都看不到，需要以商品页标注为准。短板是镜框细，图中看不到加固结构，日常频繁开合折叠容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观体面，但通用性取决于脸型。图中为黑太阳镜，大框、彩色镜片、镜腿，手持展示。尺码是否通用、包装是否体面、镜片防护等级图中看不到，需要以商品页标注为准。短板是图中没有礼盒或包装画面，送礼观感需另看商品页。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，风格偏经典的飞行员款。图中为红太阳镜，大框、深色镜片、镜腿、包装盒，带包装盒。是否耐用、镜框会不会掉色、价格多少图中都看不到，需要以商品页标注为准。短板是镜框细，图中看不到加固结构，日常频繁开合折叠容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观体面，但通用性取决于脸型。图中为红太阳镜，大框、深色镜片、镜腿、包装盒，带包装盒。尺码是否通用、包装是否体面、镜片防护等级图中看不到，需要以商品页标注为准。短板是图中没有礼盒或包装画面，送礼观感需另看商品页。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，风格偏经典的飞行员款。图中为黑太阳镜，深色镜片、金属镜框、镜腿、标签，白底商品图。是否耐用、镜框会不会掉色、价格多少图中都看不到，需要以商品页标注为准。短板是镜框细，图中看不到加固结构，日常频繁开合折叠容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观体面，但通用性取决于脸型。图中为黑太阳镜，深色镜片、金属镜框、镜腿、标签，白底商品图。尺码是否通用、包装是否体面、镜片防护等级图中看不到，需要以商品页标注为准。短板是图中没有礼盒或包装画面，送礼观感需另看商品页。"
+      }
+    ],
+    "image": "images/accessories/accessories_001/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑皮带，金属扣、皮带、编织纹理，实拍场景。日常用合适，样式很基础。图中是配金属针扣的皮带，带身为皮质，三张图里出现了黑色光面带和棕色压印花纹带两种，以手持和平面实拍呈现，配牛仔裤或休闲裤都好搭。是不是真皮、五金会不会掉色、长度够不够图中看不到，需要以商品页标注为准。短板是带身偏细，图中看不到加固层，长期承重容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑皮带，金属扣、皮带、编织纹理，实拍场景。送人一般，属于实用型。图中是金属针扣皮带，皮质带身，有黑色光面和棕色压印两种呈现，以手持与平面实拍展示，五金件是简单方扣，观感偏日常。尺码是否通用、能否裁剪、包装是否体面图中看不到，需要以商品页标注为准。短板是图中没有包装或礼盒画面，质感只能按商品页判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑皮带，金属扣、压花图案、皮革带身，实拍场景。日常用合适，样式很基础。图中是配金属针扣的皮带，带身为皮质，三张图里出现了黑色光面带和棕色压印花纹带两种，以手持和平面实拍呈现，配牛仔裤或休闲裤都好搭。是不是真皮、五金会不会掉色、长度够不够图中看不到，需要以商品页标注为准。短板是带身偏细，图中看不到加固层，长期承重容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑皮带，金属扣、压花图案、皮革带身，实拍场景。送人一般，属于实用型。图中是金属针扣皮带，皮质带身，有黑色光面和棕色压印两种呈现，以手持与平面实拍展示，五金件是简单方扣，观感偏日常。尺码是否通用、能否裁剪、包装是否体面图中看不到，需要以商品页标注为准。短板是图中没有包装或礼盒画面，质感只能按商品页判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为棕皮带，金属扣、皮质带身，实拍场景。日常用合适，样式很基础。图中是配金属针扣的皮带，带身为皮质，三张图里出现了黑色光面带和棕色压印花纹带两种，以手持和平面实拍呈现，配牛仔裤或休闲裤都好搭。是不是真皮、五金会不会掉色、长度够不够图中看不到，需要以商品页标注为准。短板是带身偏细，图中看不到加固层，长期承重容易变形。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为棕皮带，金属扣、皮质带身，实拍场景。送人一般，属于实用型。图中是金属针扣皮带，皮质带身，有黑色光面和棕色压印两种呈现，以手持与平面实拍展示，五金件是简单方扣，观感偏日常。尺码是否通用、能否裁剪、包装是否体面图中看不到，需要以商品页标注为准。短板是图中没有包装或礼盒画面，质感只能按商品页判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_002/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴没问题，偏低调的深色款。图中为黑太阳镜，大框、渐变镜片、金属镜腿，白底商品图。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是镜框与镜片颜色都偏深，图中看不到明显的防滑镜腿设计。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常送人可以用，但不算有仪式感的款式。图中为黑太阳镜，大框、渐变镜片、金属镜腿，白底商品图。白底图里另有一张带参数说明的拼版图，属于商品页素材。包装是否体面、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是图中没有独立礼盒画面。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴没问题，偏低调的深色款。图中为黑太阳镜，大框、深色镜片、金属镜腿、鼻托，实拍场景。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是镜框与镜片颜色都偏深，图中看不到明显的防滑镜腿设计。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常送人可以用，但不算有仪式感的款式。图中为黑太阳镜，大框、深色镜片、金属镜腿、鼻托，实拍场景。白底图里另有一张带参数说明的拼版图，属于商品页素材。包装是否体面、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是图中没有独立礼盒画面。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴没问题，偏低调的深色款。图中为银太阳镜，大框、深色镜片、金属镜腿、鼻托，实拍场景。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是镜框与镜片颜色都偏深，图中看不到明显的防滑镜腿设计。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常送人可以用，但不算有仪式感的款式。图中为银太阳镜，大框、深色镜片、金属镜腿、鼻托，实拍场景。白底图里另有一张带参数说明的拼版图，属于商品页素材。包装是否体面、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是图中没有独立礼盒画面。"
+      }
+    ],
+    "image": "images/accessories/accessories_004/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，是很基础的方形黑框。图中为黑太阳镜，大框、深色镜片、镜腿，实拍场景。是否耐刮、镜架会不会变形、度数如何配图中看不到，需要以商品页标注为准。短板是镜框偏细窄，图中看不到鼻托调节结构，久戴贴合度无法判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑太阳镜，大框、深色镜片、镜腿，实拍场景。送人比较一般，适合知道对方度数或只买镜架的情况。图中是黑色方框配透明镜片的光学眼镜，摆在键盘与书桌场景里实拍，样子是通用的基础黑框。是否含礼盒、能否配度数、镜架材质图中看不到，需要以商品页标注为准。短板是图中没有包装画面，且光度需求因人而异。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，是很基础的方形黑框。图中为黑太阳镜，大框、深色镜片、塑料镜腿，实拍场景。是否耐刮、镜架会不会变形、度数如何配图中看不到，需要以商品页标注为准。短板是镜框偏细窄，图中看不到鼻托调节结构，久戴贴合度无法判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑太阳镜，大框、深色镜片、塑料镜腿，实拍场景。送人比较一般，适合知道对方度数或只买镜架的情况。图中是黑色方框配透明镜片的光学眼镜，摆在键盘与书桌场景里实拍，样子是通用的基础黑框。是否含礼盒、能否配度数、镜架材质图中看不到，需要以商品页标注为准。短板是图中没有包装画面，且光度需求因人而异。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，是很基础的方形黑框。图中为黑太阳镜，金属边框、深色镜片、黑色镜腿、鼻托，实拍场景。是否耐刮、镜架会不会变形、度数如何配图中看不到，需要以商品页标注为准。短板是镜框偏细窄，图中看不到鼻托调节结构，久戴贴合度无法判断。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑太阳镜，金属边框、深色镜片、黑色镜腿、鼻托，实拍场景。送人比较一般，适合知道对方度数或只买镜架的情况。图中是黑色方框配透明镜片的光学眼镜，摆在键盘与书桌场景里实拍，样子是通用的基础黑框。是否含礼盒、能否配度数、镜架材质图中看不到，需要以商品页标注为准。短板是图中没有包装画面，且光度需求因人而异。"
+      }
+    ],
+    "image": "images/accessories/accessories_005/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，偏运动休闲的飞行员款。图中为黑太阳镜，大框、深色镜片、雕花镜腿，实拍场景。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是彩膜镜片偏亮眼，配正装或非常素的穿着会有点跳。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人可以，包装画面是加分项。图中为黑太阳镜，大框、深色镜片、雕花镜腿，实拍场景。是否附镜盒、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是彩膜色偏个性，不是所有人都能接受。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，偏运动休闲的飞行员款。图中为黑太阳镜，大框、深色镜片、金属镜腿、防尘袋，实拍场景。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是彩膜镜片偏亮眼，配正装或非常素的穿着会有点跳。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人可以，包装画面是加分项。图中为黑太阳镜，大框、深色镜片、金属镜腿、防尘袋，实拍场景。是否附镜盒、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是彩膜色偏个性，不是所有人都能接受。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要耐用好搭、不挑衣服、价格实惠，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴可以，偏运动休闲的飞行员款。图中为蓝太阳镜，深色镜片、金属镜腿、镜盒、吊牌，实拍场景。是否耐刮、镜框会不会掉色、价格多少图中看不到，需要以商品页标注为准。短板是彩膜镜片偏亮眼，配正装或非常素的穿着会有点跳。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、尺码通用、包装体面，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人可以，包装画面是加分项。图中为蓝太阳镜，深色镜片、金属镜腿、镜盒、吊牌，实拍场景。是否附镜盒、镜片防护等级、尺码是否通用图中看不到，需要以商品页标注为准。短板是彩膜色偏个性，不是所有人都能接受。"
+      }
+    ],
+    "image": "images/accessories/accessories_007/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤穿，要版型不紧绷、口袋能放手机、洗后不掉色，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤当休闲裤穿可以。图中为黑长裤，抽绳、侧边口袋、束脚口、胸前贴标，实拍场景。黑色与深蓝低调好搭。版型是否紧绷、口袋能否放手机、洗后会不会掉色图中看不到，需要以商品页标注为准。短板是侧条纹和印字偏运动，正式通勤场合不合适。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动时穿，要弹力好、透气不闷、蹲下不勒，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，本来就是运动裤型。图中为黑长裤，抽绳、侧边口袋、束脚口、胸前贴标，实拍场景。弹力、透气性和蹲下是否勒图中都看不到，需要以商品页标注为准。短板是图中看不到具体口袋数量，装手机是否稳妥无法判断。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/012.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤穿，要版型不紧绷、口袋能放手机、洗后不掉色，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤当休闲裤穿可以。图中为黑长裤，抽绳腰头、侧边条纹、束脚口，实拍场景。黑色与深蓝低调好搭。版型是否紧绷、口袋能否放手机、洗后会不会掉色图中看不到，需要以商品页标注为准。短板是侧条纹和印字偏运动，正式通勤场合不合适。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动时穿，要弹力好、透气不闷、蹲下不勒，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，本来就是运动裤型。图中为黑长裤，抽绳腰头、侧边条纹、束脚口，实拍场景。弹力、透气性和蹲下是否勒图中都看不到，需要以商品页标注为准。短板是图中看不到具体口袋数量，装手机是否稳妥无法判断。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/013.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤穿，要版型不紧绷、口袋能放手机、洗后不掉色，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤当休闲裤穿可以。图中为黑长裤，侧边口袋、松紧腰、裤脚收口，实拍场景。黑色与深蓝低调好搭。版型是否紧绷、口袋能否放手机、洗后会不会掉色图中看不到，需要以商品页标注为准。短板是侧条纹和印字偏运动，正式通勤场合不合适。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动时穿，要弹力好、透气不闷、蹲下不勒，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，本来就是运动裤型。图中为黑长裤，侧边口袋、松紧腰、裤脚收口，实拍场景。弹力、透气性和蹲下是否勒图中都看不到，需要以商品页标注为准。短板是图中看不到具体口袋数量，装手机是否稳妥无法判断。"
+      }
+    ],
+    "image": "images/apparel_pants/apparel_pants_008/014.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，长度偏保守。图中为蓝短裤，抽绳、拼接色块、侧边缝线，实拍场景。深色不挑上衣，配T恤好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏长，图上看不出透气网眼结构，盛夏穿可能偏热。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/012.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿可以，版型偏宽松。图中为蓝短裤，抽绳、拼接色块、侧边缝线，实拍场景。弹力够不够、出汗会不会粘腿、口袋有没有拉链图中看不到，需要以商品页标注为准。短板是图中看不到口袋拉链，运动时放置手机安全性有限。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/012.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，长度偏保守。图中为黑长裤，松紧腰、侧边拉链、亮色装饰线、左腿印花，实拍场景。深色不挑上衣，配T恤好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏长，图上看不出透气网眼结构，盛夏穿可能偏热。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/013.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿可以，版型偏宽松。图中为黑长裤，松紧腰、侧边拉链、亮色装饰线、左腿印花，实拍场景。弹力够不够、出汗会不会粘腿、口袋有没有拉链图中看不到，需要以商品页标注为准。短板是图中看不到口袋拉链，运动时放置手机安全性有限。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/013.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，长度偏保守。图中为黑短裤，松紧腰、侧边反光条、侧面透气孔，实拍场景。深色不挑上衣，配T恤好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏长，图上看不出透气网眼结构，盛夏穿可能偏热。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/014.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿可以，版型偏宽松。图中为黑短裤，松紧腰、侧边反光条、侧面透气孔，实拍场景。弹力够不够、出汗会不会粘腿、口袋有没有拉链图中看不到，需要以商品页标注为准。短板是图中看不到口袋拉链，运动时放置手机安全性有限。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_001/014.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，裤长偏短好散热。图中为黑短裤，松紧腰、侧边口袋、黄色标志，实拍场景。颜色好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏短，图中看不到内衬，大风或大幅度动作时安全感一般。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/012.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，属于轻量短裤。图中为黑短裤，松紧腰、侧边口袋、黄色标志，实拍场景。弹力、是否有口袋、出汗会不会粘腿图中都看不到，需要以商品页标注为准。短板是图中看不到口袋，装手机和钥匙不方便。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/012.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，裤长偏短好散热。图中为黑短裤，松紧腰、侧边口袋、裤脚收口，实拍场景。颜色好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏短，图中看不到内衬，大风或大幅度动作时安全感一般。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/013.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，属于轻量短裤。图中为黑短裤，松紧腰、侧边口袋、裤脚收口，实拍场景。弹力、是否有口袋、出汗会不会粘腿图中都看不到，需要以商品页标注为准。短板是图中看不到口袋，装手机和钥匙不方便。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/013.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气、长度合适、能配T恤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，裤长偏短好散热。图中为黑短裤，松紧腰、侧边拉链、宽松版型，实拍场景。颜色好搭。透气性和洗后是否掉色图中看不到，需要以商品页标注为准。短板是裤长偏短，图中看不到内衬，大风或大幅度动作时安全感一般。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/014.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n运动穿，要弹力好、有口袋、出汗不粘腿，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "运动穿合适，属于轻量短裤。图中为黑短裤，松紧腰、侧边拉链、宽松版型，实拍场景。弹力、是否有口袋、出汗会不会粘腿图中都看不到，需要以商品页标注为准。短板是图中看不到口袋，装手机和钥匙不方便。"
+      }
+    ],
+    "image": "images/apparel_shorts/apparel_shorts_003/014.jpg",
+    "qid": "sport"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n秋冬穿，要保暖不臃肿、内搭外穿都行、洗后不起球，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "秋冬穿合适，属于轻薄绗缝款。图中为黑羽绒服，连帽、拉链、绗缝、纽扣，实拍场景。内搭外穿都能用。保暖够不够、充绒量多少、洗后会不会起球跑绒图中看不到，需要以商品页标注为准。短板是绗缝格偏窄，图中看不出充绒厚度，严寒天可能不够。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/012.jpg",
+    "qid": "winter"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要版型正、领口不变形、好搭配，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿合适，版型偏合身的轻薄款。图中为黑羽绒服，连帽、拉链、绗缝、纽扣，实拍场景。版型正不正、领口会不会变形、洗后起不起球图中看不到，需要以商品页标注为准。短板是连帽款偏休闲，配正装衬衫打领带不协调。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n秋冬穿，要保暖不臃肿、内搭外穿都行、洗后不起球，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "秋冬穿合适，属于轻薄绗缝款。图中为黑羽绒服，拉链、绗缝、立领、粉色Logo，实拍场景。内搭外穿都能用。保暖够不够、充绒量多少、洗后会不会起球跑绒图中看不到，需要以商品页标注为准。短板是绗缝格偏窄，图中看不出充绒厚度，严寒天可能不够。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/013.jpg",
+    "qid": "winter"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要版型正、领口不变形、好搭配，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿合适，版型偏合身的轻薄款。图中为黑羽绒服，拉链、绗缝、立领、粉色Logo，实拍场景。版型正不正、领口会不会变形、洗后起不起球图中看不到，需要以商品页标注为准。短板是连帽款偏休闲，配正装衬衫打领带不协调。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n秋冬穿，要保暖不臃肿、内搭外穿都行、洗后不起球，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "秋冬穿合适，属于轻薄绗缝款。图中为黑羽绒服，绗缝格纹、长袖、立领、宽松版型，实拍场景。内搭外穿都能用。保暖够不够、充绒量多少、洗后会不会起球跑绒图中看不到，需要以商品页标注为准。短板是绗缝格偏窄，图中看不出充绒厚度，严寒天可能不够。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/014.jpg",
+    "qid": "winter"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要版型正、领口不变形、好搭配，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿合适，版型偏合身的轻薄款。图中为黑羽绒服，绗缝格纹、长袖、立领、宽松版型，实拍场景。版型正不正、领口会不会变形、洗后起不起球图中看不到，需要以商品页标注为准。短板是连帽款偏休闲，配正装衬衫打领带不协调。"
+      }
+    ],
+    "image": "images/apparel_top/apparel_top_002/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于常见壁挂机型。图中为白空调，出风口、能效标识、电源线、金属装饰条，实拍场景。是否省电、噪音多大、售后怎么保障图中都看不到，需要以商品页标注为准。短板是图中看不到能效等级的具体数字，省电与否只能按商品页标注判断。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/012.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，壁挂式不占地。图中为白空调，出风口、能效标识、电源线、金属装饰条，实拍场景。具体占地面积、安装难度、能效等级图中看不到，需要以商品页标注为准。短板是图中看不到管路和支架，是否便于安装需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/012.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于常见壁挂机型。图中为白空调，出风口、能效标识、控制面板、导风板，实拍场景。是否省电、噪音多大、售后怎么保障图中都看不到，需要以商品页标注为准。短板是图中看不到能效等级的具体数字，省电与否只能按商品页标注判断。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/013.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，壁挂式不占地。图中为白空调，出风口、能效标识、控制面板、导风板，实拍场景。具体占地面积、安装难度、能效等级图中看不到，需要以商品页标注为准。短板是图中看不到管路和支架，是否便于安装需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/013.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于常见壁挂机型。图中为白空调，导风板、能效标识、电源线、装饰线条，实拍场景。是否省电、噪音多大、售后怎么保障图中都看不到，需要以商品页标注为准。短板是图中看不到能效等级的具体数字，省电与否只能按商品页标注判断。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/014.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，壁挂式不占地。图中为白空调，导风板、能效标识、电源线、装饰线条，实拍场景。具体占地面积、安装难度、能效等级图中看不到，需要以商品页标注为准。短板是图中看不到管路和支架，是否便于安装需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_001/014.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，是常规波轮机型。图中为白洗衣机，控制面板、透明顶盖、能效标签，实拍场景。是否省电、噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是波轮结构上方需要开盖空间，图中看不到具体机身尺寸。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/012.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用合适，波轮机型占地不大。图中为白洗衣机，控制面板、透明顶盖、能效标签，实拍场景。具体容量、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖必须留出上方空间，叠放或塞进窄柜可能受限。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/012.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，是常规波轮机型。图中为白洗衣机，控制面板、透明视窗、顶部进水口、能效标识，实拍场景。是否省电、噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是波轮结构上方需要开盖空间，图中看不到具体机身尺寸。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/013.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用合适，波轮机型占地不大。图中为白洗衣机，控制面板、透明视窗、顶部进水口、能效标识，实拍场景。具体容量、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖必须留出上方空间，叠放或塞进窄柜可能受限。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/013.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，是常规波轮机型。图中为白洗衣机，控制面板、显示屏、旋钮、能效标识，实拍场景。是否省电、噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是波轮结构上方需要开盖空间，图中看不到具体机身尺寸。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/014.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用合适，波轮机型占地不大。图中为白洗衣机，控制面板、显示屏、旋钮、能效标识，实拍场景。具体容量、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖必须留出上方空间，叠放或塞进窄柜可能受限。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_002/014.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于带数显面板的波轮款。图中为白洗衣机，双缸、旋钮、透明盖板、竖条纹，实拍场景。是否省电、噪音多大、售后保障如何图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，家庭人口多是否够用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/012.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身较紧凑。图中为白洗衣机，双缸、旋钮、透明盖板、竖条纹，实拍场景。占地尺寸、安装是否简便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖需要上方空间，做嵌入式放置时受限制。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/012.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于带数显面板的波轮款。图中为白洗衣机，双桶、控制面板、波纹排水管、顶盖，实拍场景。是否省电、噪音多大、售后保障如何图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，家庭人口多是否够用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/013.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身较紧凑。图中为白洗衣机，双桶、控制面板、波纹排水管、顶盖，实拍场景。占地尺寸、安装是否简便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖需要上方空间，做嵌入式放置时受限制。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/013.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，属于带数显面板的波轮款。图中为白洗衣机，双缸、旋钮、透明盖板、竖条纹，实拍场景。是否省电、噪音多大、售后保障如何图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，家庭人口多是否够用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/014.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身较紧凑。图中为白洗衣机，双缸、旋钮、透明盖板、竖条纹，实拍场景。占地尺寸、安装是否简便、能效等级图中看不到，需要以商品页标注为准。短板是顶开盖需要上方空间，做嵌入式放置时受限制。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_004/014.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，滚筒机型对衣物更温和。图中为银洗衣机，圆形门、旋钮、显示屏、控制面板，实拍场景。是否省电、脱水噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是滚筒洗涤时间长，图上也看不到能效等级，省电与否需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/012.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身可以塞进柜体。图中为银洗衣机，圆形门、旋钮、显示屏、控制面板，实拍场景。前开门不需要上方翻盖空间。具体占地尺寸、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是前开门需要前方留开门空间，窄过道里取放衣物会有点挤。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/012.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，滚筒机型对衣物更温和。图中为银洗衣机，圆形玻璃门、数字显示屏、旋钮、顶部置物区，实拍场景。是否省电、脱水噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是滚筒洗涤时间长，图上也看不到能效等级，省电与否需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/013.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身可以塞进柜体。图中为银洗衣机，圆形玻璃门、数字显示屏、旋钮、顶部置物区，实拍场景。前开门不需要上方翻盖空间。具体占地尺寸、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是前开门需要前方留开门空间，窄过道里取放衣物会有点挤。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/013.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里换新，要省电、噪音小、售后有保障，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "换新可以考虑，滚筒机型对衣物更温和。图中为银洗衣机，圆形门、旋钮、显示屏、控制面板，实拍场景。是否省电、脱水噪音多大、售后如何图中看不到，需要以商品页标注为准。短板是滚筒洗涤时间长，图上也看不到能效等级，省电与否需以商品页标注为准。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/014.jpg",
+    "qid": "replace"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n空间有限，要占地小、安装方便、能效等级高，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "小空间用可以，机身可以塞进柜体。图中为银洗衣机，圆形门、旋钮、显示屏、控制面板，实拍场景。前开门不需要上方翻盖空间。具体占地尺寸、安装是否方便、能效等级图中看不到，需要以商品页标注为准。短板是前开门需要前方留开门空间，窄过道里取放衣物会有点挤。"
+      }
+    ],
+    "image": "images/appliance_large/appliance_large_007/014.jpg",
+    "qid": "small_space"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿用要看奶嘴和材质，图上只能看个大概。图中为透明婴儿用品，宽口径、硅胶奶嘴、黄色瓶盖、黄色底座，实拍场景。材质是否安全、有无刺激气味、能不能高温消毒图中看不到，需要以商品页标注为准。短板是把手款更适合大一点的宝宝自己抓握，新生儿阶段用处有限。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/012.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃用方便，把手好抓也好冲。图中为透明婴儿用品，宽口径、硅胶奶嘴、黄色瓶盖、黄色底座，实拍场景。容量够不够、能不能消毒柜/开水烫、耐不耐摔图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，出门带几次的量够不够需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/012.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿用要看奶嘴和材质，图上只能看个大概。图中为黄婴儿用品，刻度、宽口径、硅胶奶嘴、透明瓶身，白底商品图。材质是否安全、有无刺激气味、能不能高温消毒图中看不到，需要以商品页标注为准。短板是把手款更适合大一点的宝宝自己抓握，新生儿阶段用处有限。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/013.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃用方便，把手好抓也好冲。图中为黄婴儿用品，刻度、宽口径、硅胶奶嘴、透明瓶身，白底商品图。容量够不够、能不能消毒柜/开水烫、耐不耐摔图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，出门带几次的量够不够需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/013.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿用要看奶嘴和材质，图上只能看个大概。图中为透明婴儿用品，宽口径、刻度线、硅胶奶嘴、橙色底座，白底商品图。材质是否安全、有无刺激气味、能不能高温消毒图中看不到，需要以商品页标注为准。短板是把手款更适合大一点的宝宝自己抓握，新生儿阶段用处有限。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/014.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃用方便，把手好抓也好冲。图中为透明婴儿用品，宽口径、刻度线、硅胶奶嘴、橙色底座，白底商品图。容量够不够、能不能消毒柜/开水烫、耐不耐摔图中看不到，需要以商品页标注为准。短板是图中看不到容量标注，出门带几次的量够不够需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_004/014.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿阶段用不上，这类杯一般给添加辅食后的宝宝。图中为粉婴儿用品，双把手、吸管、透明杯身、硅胶配件，带包装盒。材质是否安全、有无刺激气味、能否蒸汽消毒图中看不到，需要以商品页标注为准。短板是把手和吸口结构偏大月龄，图中也看不到适用月龄标注。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/012.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃出门用方便。图中为粉婴儿用品，双把手、吸管、透明杯身、硅胶配件，带包装盒。把手设计便于宝宝自己捧着喝。是否防漏、容量多少、能不能消毒图中看不到，需要以商品页标注为准。短板是图中看不到密封结构，装满水放包里是否漏水需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/012.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿阶段用不上，这类杯一般给添加辅食后的宝宝。图中为粉婴儿用品，手柄、吸管、透明杯身、粉色盖子，手持展示。材质是否安全、有无刺激气味、能否蒸汽消毒图中看不到，需要以商品页标注为准。短板是把手和吸口结构偏大月龄，图中也看不到适用月龄标注。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/013.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃出门用方便。图中为粉婴儿用品，手柄、吸管、透明杯身、粉色盖子，手持展示。把手设计便于宝宝自己捧着喝。是否防漏、容量多少、能不能消毒图中看不到，需要以商品页标注为准。短板是图中看不到密封结构，装满水放包里是否漏水需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/013.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给新生儿用，要材质安全、好清洗、无刺激气味，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "新生儿阶段用不上，这类杯一般给添加辅食后的宝宝。图中为粉婴儿用品，双耳把手、吸管、透明杯身、硅胶盖，带包装盒。材质是否安全、有无刺激气味、能否蒸汽消毒图中看不到，需要以商品页标注为准。短板是把手和吸口结构偏大月龄，图中也看不到适用月龄标注。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/014.jpg",
+    "qid": "newborn"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常带娃用，要方便消毒、耐用、出门好带，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "带娃出门用方便。图中为粉婴儿用品，双耳把手、吸管、透明杯身、硅胶盖，带包装盒。把手设计便于宝宝自己捧着喝。是否防漏、容量多少、能不能消毒图中看不到，需要以商品页标注为准。短板是图中看不到密封结构，装满水放包里是否漏水需以商品页标注为准。"
+      }
+    ],
+    "image": "images/baby_products/baby_products_007/014.jpg",
+    "qid": "daily_care"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差能用。图中为黑双肩包，肩带、拉链、胸前口袋、侧袋，实拍场景。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中都看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷汗。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，肩带、拉链、胸前口袋、侧袋，实拍场景。实拍显示包体偏软，装少时能压扁。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带或胸扣固定结构。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/012.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差能用。图中为黑双肩包，瑞士十字标、胸前拉链袋、侧边网兜、金属拉链头，实拍场景。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中都看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷汗。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，瑞士十字标、胸前拉链袋、侧边网兜、金属拉链头，实拍场景。实拍显示包体偏软，装少时能压扁。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带或胸扣固定结构。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/013.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差能用。图中为黑双肩包，拉链、魔术贴、红色装饰、提手，实拍场景。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中都看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷汗。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，拉链、魔术贴、红色装饰、提手，实拍场景。实拍显示包体偏软，装少时能压扁。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带或胸扣固定结构。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_001/014.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差合适。图中为黑双肩包，拉链、肩带、侧袋、顶部提手，白底商品图。黑色包身好搭。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，拉链、肩带、侧袋、顶部提手，白底商品图。白底图能看清正面多隔层结构。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带，长时间负重时稳定性一般。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/012.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差合适。图中为黑双肩包，肩带、拉链、侧袋，实拍场景。黑色包身好搭。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，肩带、拉链、侧袋，实拍场景。白底图能看清正面多隔层结构。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带，长时间负重时稳定性一般。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/013.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤加短途出差合适。图中为黑双肩包，胸前拉链袋、侧边拉链袋、金属徽标、竖排文字，实拍场景。黑色包身好搭。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中看不到背部透气结构，夏天背负可能闷。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背。图中为黑双肩包，胸前拉链袋、侧边拉链袋、金属徽标、竖排文字，实拍场景。白底图能看清正面多隔层结构。自重多少、有没有腰带、是否防泼水图中看不到，需要以商品页标注为准。短板是图中没有可见的腰带，长时间负重时稳定性一般。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_005/014.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤和短途出差合适。图中为蓝双肩包，拉链、肩带、网兜、提手，白底商品图。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中款式和配色不统一，下单前建议确认具体是哪一个。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背，定位偏通勤。图中为蓝双肩包，拉链、肩带、网兜、提手，白底商品图。实拍里有深蓝色款，说明子样式含不同配色。自重多少、能装外套和水、是否防泼水图中看不到，需要以商品页标注为准。短板是图中款式不一致，背负舒适度只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/012.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤和短途出差合适。图中为蓝双肩包，拉链、肩带、网兜、侧袋，实拍场景。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中款式和配色不统一，下单前建议确认具体是哪一个。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背，定位偏通勤。图中为蓝双肩包，拉链、肩带、网兜、侧袋，实拍场景。实拍里有深蓝色款，说明子样式含不同配色。自重多少、能装外套和水、是否防泼水图中看不到，需要以商品页标注为准。短板是图中款式不一致，背负舒适度只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/013.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n通勤加短途出差用，要能装15.6寸电脑、有侧袋放水杯、背部透气夏天不闷汗，这款符合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤和短途出差合适。图中为蓝双肩包，肩带、拉链、网兜、提手，白底商品图。能不能装15.6寸电脑、侧袋放不放得下水杯、背部是否透气图中看不到，需要以商品页标注为准。短板是图中款式和配色不统一，下单前建议确认具体是哪一个。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n周末一日徒步用，要轻、能装外套和水、肩带不勒肩，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "一日徒步可以背，定位偏通勤。图中为蓝双肩包，肩带、拉链、网兜、提手，白底商品图。实拍里有深蓝色款，说明子样式含不同配色。自重多少、能装外套和水、是否防泼水图中看不到，需要以商品页标注为准。短板是图中款式不一致，背负舒适度只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/bag_backpack/bag_backpack_007/014.jpg",
+    "qid": "outing"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看产品类型，图上这是膏状口红不是膏霜。图中为红口红，金属管身、方形底座、露出膏体、裸色指甲，手持展示。是否保湿、会不会刺激、上脸会不会搓泥，这些图中看不到，需要以商品页标注为准。短板是图中无法判断质地是滋润还是哑光，干皮唇部用是否拔干需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/012.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外形体面，但颜色挑人。图中为红口红，金属管身、方形底座、露出膏体、裸色指甲，手持展示。口碑如何、适合什么肤质、色号范围图中看不到，需要以商品页标注为准。短板是红色偏正，送人时颜色是否合适很难替对方决定。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看产品类型，图上这是膏状口红不是膏霜。图中为粉口红，金属管身、膏体、手，手持展示。是否保湿、会不会刺激、上脸会不会搓泥，这些图中看不到，需要以商品页标注为准。短板是图中无法判断质地是滋润还是哑光，干皮唇部用是否拔干需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/013.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外形体面，但颜色挑人。图中为粉口红，金属管身、膏体、手，手持展示。口碑如何、适合什么肤质、色号范围图中看不到，需要以商品页标注为准。短板是红色偏正，送人时颜色是否合适很难替对方决定。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看产品类型，图上这是膏状口红不是膏霜。图中为红口红，黑色管身、金色装饰环、黑色盖子、膏体，实拍场景。是否保湿、会不会刺激、上脸会不会搓泥，这些图中看不到，需要以商品页标注为准。短板是图中无法判断质地是滋润还是哑光，干皮唇部用是否拔干需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/014.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外形体面，但颜色挑人。图中为红口红，黑色管身、金色装饰环、黑色盖子、膏体，实拍场景。口碑如何、适合什么肤质、色号范围图中看不到，需要以商品页标注为准。短板是红色偏正，送人时颜色是否合适很难替对方决定。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_001/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看具体品类，图上只看得见包装。图中为黑洗护用品，橙色瓶盖、黑色瓶身、白色文字、波浪线图案，实拍场景。是否保湿、会不会刺激、上脸会不会搓泥图中看不到，需要以商品页标注为准。短板是三张图的盒型和印刷字样不一致，是否为同一款建议先确认。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/012.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观可以，深色盒子观感偏沉稳。图中为黑洗护用品，橙色瓶盖、黑色瓶身、白色文字、波浪线图案，实拍场景。适合什么肤质、口碑如何、是否附礼盒图中看不到，需要以商品页标注为准。短板是图中看不到礼盒或包装袋，送礼体面程度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看具体品类，图上只看得见包装。图中为蓝洗护用品，方形瓶身、按压泵头、标签、瓶盖，实拍场景。是否保湿、会不会刺激、上脸会不会搓泥图中看不到，需要以商品页标注为准。短板是三张图的盒型和印刷字样不一致，是否为同一款建议先确认。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/013.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观可以，深色盒子观感偏沉稳。图中为蓝洗护用品，方形瓶身、按压泵头、标签、瓶盖，实拍场景。适合什么肤质、口碑如何、是否附礼盒图中看不到，需要以商品页标注为准。短板是图中看不到礼盒或包装袋，送礼体面程度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我皮肤偏干，要保湿不刺激、上脸不搓泥、能日常用，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "干皮要看具体品类，图上只看得见包装。图中为金洗护用品，树形图案、英文标识、水滴图标、包装盒，实拍场景。是否保湿、会不会刺激、上脸会不会搓泥图中看不到，需要以商品页标注为准。短板是三张图的盒型和印刷字样不一致，是否为同一款建议先确认。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/014.jpg",
+    "qid": "dry_skin"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、口碑好、适合大多数肤质，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人外观可以，深色盒子观感偏沉稳。图中为金洗护用品，树形图案、英文标识、水滴图标、包装盒，实拍场景。适合什么肤质、口碑如何、是否附礼盒图中看不到，需要以商品页标注为准。短板是图中看不到礼盒或包装袋，送礼体面程度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/cosmetics/cosmetics_006/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签，图上只看得见瓶身。图中为白保健品，白色瓶盖、白色瓶身、绿色标签、文字说明，实拍场景。成分是什么、好不好吞、厂家是否正规图中都看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈用之前必须核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/012.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装形式好收纳。图中为白保健品，白色瓶盖、白色瓶身、绿色标签、文字说明，实拍场景。吃法如何、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中无法判断是片剂还是胶囊，吞服难易需以商品页标注为准。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签，图上只看得见瓶身。图中为白保健品，瓶盖、标签、橙子图案、文字说明，实拍场景。成分是什么、好不好吞、厂家是否正规图中都看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈用之前必须核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/013.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装形式好收纳。图中为白保健品，瓶盖、标签、橙子图案、文字说明，实拍场景。吃法如何、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中无法判断是片剂还是胶囊，吞服难易需以商品页标注为准。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签，图上只看得见瓶身。图中为白保健品，白色瓶盖、标签、橙子图案、手持展示，手持展示。成分是什么、好不好吞、厂家是否正规图中都看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈用之前必须核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/014.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装形式好收纳。图中为白保健品，白色瓶盖、标签、橙子图案、手持展示，手持展示。吃法如何、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中无法判断是片剂还是胶囊，吞服难易需以商品页标注为准。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为白保健品，白色瓶盖、绿色标签、手持展示，手持展示。给长辈买要先确认是哪一瓶。图中大部分为白色塑料瓶，瓶身贴纸文字密集，但其中一张按图是按压泵头瓶（瓶身印有身体乳字样），与另外两张的软胶囊瓶不是同一类，以手持和桌面实拍呈现。成分、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中品类不一致，买到哪一瓶风险较高。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/012.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶身小巧好放。图中为白保健品，白色瓶盖、绿色标签、手持展示，手持展示。吃法简单不简单、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中含按压泵头瓶，若想买的是口服品建议先确认规格。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为蓝保健品，软胶囊、白色瓶盖、蓝色标签、手持展示，手持展示。给长辈买要先确认是哪一瓶。图中大部分为白色塑料瓶，瓶身贴纸文字密集，但其中一张按图是按压泵头瓶（瓶身印有身体乳字样），与另外两张的软胶囊瓶不是同一类，以手持和桌面实拍呈现。成分、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中品类不一致，买到哪一瓶风险较高。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/013.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶身小巧好放。图中为蓝保健品，软胶囊、白色瓶盖、蓝色标签、手持展示，手持展示。吃法简单不简单、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中含按压泵头瓶，若想买的是口服品建议先确认规格。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为蓝保健品，白色瓶盖、蓝色标签、水滴图案、文字说明，实拍场景。给长辈买要先确认是哪一瓶。图中大部分为白色塑料瓶，瓶身贴纸文字密集，但其中一张按图是按压泵头瓶（瓶身印有身体乳字样），与另外两张的软胶囊瓶不是同一类，以手持和桌面实拍呈现。成分、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中品类不一致，买到哪一瓶风险较高。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/014.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶身小巧好放。图中为蓝保健品，白色瓶盖、蓝色标签、水滴图案、文字说明，实拍场景。吃法简单不简单、有没有异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中含按压泵头瓶，若想买的是口服品建议先确认规格。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_007/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签细节，图上看到的是瓶身外观。图中为白保健品，白色瓶盖、黄色标签、橙色文字、圆形图案，实拍场景。成分是什么、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈服用前务必核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/012.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装好收纳。图中为白保健品，白色瓶盖、黄色标签、橙色文字、圆形图案，实拍场景。吃法、有无异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中看不到每日用量标注，吃法只能按商品页说明。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签细节，图上看到的是瓶身外观。图中为白洗护用品，瓶盖、瓶身、标签、人物图案，实拍场景。成分是什么、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈服用前务必核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/013.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装好收纳。图中为白洗护用品，瓶盖、瓶身、标签、人物图案，实拍场景。吃法、有无异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中看不到每日用量标注，吃法只能按商品页说明。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给长辈买，要成分清楚、好吞服、正规厂家，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给长辈买要看标签细节，图上看到的是瓶身外观。图中为白保健品，翻盖瓶口、绿色标签、粉色Ca标识、红色背景，实拍场景。成分是什么、好不好吞、厂家是否正规图中看不到，需要以商品页标注为准。短板是图中看不到成分表和批准文号，给长辈服用前务必核对商品页。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/014.jpg",
+    "qid": "elder"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常补充，要吃法简单、无异味、能长期吃，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常补充可以，瓶装好收纳。图中为白保健品，翻盖瓶口、绿色标签、粉色Ca标识、红色背景，实拍场景。吃法、有无异味、能不能长期吃图中看不到，需要以商品页标注为准。短板是图中看不到每日用量标注，吃法只能按商品页说明。"
+      }
+    ],
+    "image": "images/health_supplement/health_supplement_008/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里日常用，要去污力够、气味不刺鼻、不伤手，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "家里日常用可以，袋装取用要另找容器。图中为粉洗护用品，彩虹标志、水果图案、透明包装、多块堆叠，实拍场景。去污力够不够、气味刺鼻不刺鼻、伤不伤手图中看不到，需要以商品页标注为准。短板是袋装没有定量出口，倒取时不好控制用量。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n囤货用，要性价比高、好冲洗、适合机洗，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "囤货用合适，袋装堆叠省地方。图中为粉洗护用品，彩虹标志、水果图案、透明包装、多块堆叠，实拍场景。性价比如何、好不好冲洗、适不适合机洗图中看不到，需要以商品页标注为准。短板是袋装开口后不易密封，受潮结块风险比瓶装高。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/012.jpg",
+    "qid": "stock"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里日常用，要去污力够、气味不刺鼻、不伤手，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "家里日常用可以，袋装取用要另找容器。图中为蓝洗护用品，挂孔、提手、透明窗口、文字说明，实拍场景。去污力够不够、气味刺鼻不刺鼻、伤不伤手图中看不到，需要以商品页标注为准。短板是袋装没有定量出口，倒取时不好控制用量。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n囤货用，要性价比高、好冲洗、适合机洗，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "囤货用合适，袋装堆叠省地方。图中为蓝洗护用品，挂孔、提手、透明窗口、文字说明，实拍场景。性价比如何、好不好冲洗、适不适合机洗图中看不到，需要以商品页标注为准。短板是袋装开口后不易密封，受潮结块风险比瓶装高。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/013.jpg",
+    "qid": "stock"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n家里日常用，要去污力够、气味不刺鼻、不伤手，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "家里日常用可以，袋装取用要另找容器。图中为绿洗护用品，透明皂块、青柠图案、包装纸，实拍场景。去污力够不够、气味刺鼻不刺鼻、伤不伤手图中看不到，需要以商品页标注为准。短板是袋装没有定量出口，倒取时不好控制用量。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n囤货用，要性价比高、好冲洗、适合机洗，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "囤货用合适，袋装堆叠省地方。图中为绿洗护用品，透明皂块、青柠图案、包装纸，实拍场景。性价比如何、好不好冲洗、适不适合机洗图中看不到，需要以商品页标注为准。短板是袋装开口后不易密封，受潮结块风险比瓶装高。"
+      }
+    ],
+    "image": "images/household_detergent/household_detergent_008/014.jpg",
+    "qid": "stock"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，链子细不压脖子。图中为黑项链，天鹅吊坠、金属链条、天鹅吊坠、天鹅吊坠，手持展示。材质会不会过敏、戴久了掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是链身很细，图上看不到加固扣，勾到衣物时容易拉断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中自带首饰盒。图中为黑项链，天鹅吊坠、金属链条、天鹅吊坠、天鹅吊坠，手持展示。链长是否通用、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是吊坠尺寸偏小，存在感有限，喜欢夸张款的人可能觉得不够。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，链子细不压脖子。图中为金项链，金属链条、吊坠、吊牌、包装盒，带包装盒。材质会不会过敏、戴久了掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是链身很细，图上看不到加固扣，勾到衣物时容易拉断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中自带首饰盒。图中为金项链，金属链条、吊坠、吊牌、包装盒，带包装盒。链长是否通用、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是吊坠尺寸偏小，存在感有限，喜欢夸张款的人可能觉得不够。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，链子细不压脖子。图中为银项链，链条、吊坠、扣头、蓝色包装盒，带包装盒。材质会不会过敏、戴久了掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是链身很细，图上看不到加固扣，勾到衣物时容易拉断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中自带首饰盒。图中为银项链，链条、吊坠、扣头、蓝色包装盒，带包装盒。链长是否通用、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是吊坠尺寸偏小，存在感有限，喜欢夸张款的人可能觉得不够。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_005/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，细链低调好搭。图中为金项链，天鹅吊坠、细链、锁骨链，实拍场景。材质会不会过敏、掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是图里吊坠款式不统一，勾不勾衣服要按到手的款式判断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，因为图中款式不统一。图中为金项链，天鹅吊坠、细链、锁骨链，实拍场景。包装是否体面、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是图中没有统一的首饰盒画面，送礼体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，细链低调好搭。图中为黑项链，天鹅吊坠、金色链条、黑色天鹅造型，实拍场景。材质会不会过敏、掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是图里吊坠款式不统一，勾不勾衣服要按到手的款式判断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，因为图中款式不统一。图中为黑项链，天鹅吊坠、金色链条、黑色天鹅造型，实拍场景。包装是否体面、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是图中没有统一的首饰盒画面，送礼体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常戴，要不过敏、不勾衣服、好搭配，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常戴合适，细链低调好搭。图中为金项链，链条、吊坠、金属扣，实拍场景。材质会不会过敏、掉不掉色、链长多少，这些图中看不到，需要以商品页标注为准。短板是图里吊坠款式不统一，勾不勾衣服要按到手的款式判断。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装体面、款式经典、做工细致，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，因为图中款式不统一。图中为金项链，链条、吊坠、金属扣，实拍场景。包装是否体面、材质是否防过敏、做工细节图中看不到，需要以商品页标注为准。短板是图中没有统一的首饰盒画面，送礼体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/jewelry/jewelry_008/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用方便，走珠式涂得比较准。图中为绿洗护用品，按压泵头、白色瓶盖、绿色瓶身、金色装饰环，实拍场景。温和不温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是走珠头图中看不到结构，敏感肌能不能用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用要看清容量和成分。图中为绿洗护用品，按压泵头、白色瓶盖、绿色瓶身、金色装饰环，实拍场景。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中看不到容量数字，全家共用可能需要多支。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/012.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用方便，走珠式涂得比较准。图中为黄洗护用品，圆柱瓶身、白色瓶盖、透明液体、气泡膜包装，实拍场景。温和不温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是走珠头图中看不到结构，敏感肌能不能用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用要看清容量和成分。图中为黄洗护用品，圆柱瓶身、白色瓶盖、透明液体、气泡膜包装，实拍场景。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中看不到容量数字，全家共用可能需要多支。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/013.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用方便，走珠式涂得比较准。图中为白洗护用品，按压泵头、标签文字、圆柱形瓶身，实拍场景。温和不温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是走珠头图中看不到结构，敏感肌能不能用需以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用要看清容量和成分。图中为白洗护用品，按压泵头、标签文字、圆柱形瓶身，实拍场景。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中看不到容量数字，全家共用可能需要多支。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_006/014.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为蓝洗护用品，按压泵头、磨砂瓶身、银色瓶盖、中文标签，手持展示。日常用可以，但三张图不是同一类产品。图中分别为绿色瓶装水感产品和蓝色软管装，瓶身印有产品名和品牌文字，以手持和居家实拍呈现。是否温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是图里品类不一致，买回来是不是想要的类型建议先核对商品页。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用的前提是选对品类。图中为蓝洗护用品，按压泵头、磨砂瓶身、银色瓶盖、中文标签，手持展示。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中含不同品类，容量和用法只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/012.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为蓝洗护用品，按压泵头、银色瓶盖、磨砂瓶身、中文标识，手持展示。日常用可以，但三张图不是同一类产品。图中分别为绿色瓶装水感产品和蓝色软管装，瓶身印有产品名和品牌文字，以手持和居家实拍呈现。是否温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是图里品类不一致，买回来是不是想要的类型建议先核对商品页。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用的前提是选对品类。图中为蓝洗护用品，按压泵头、银色瓶盖、磨砂瓶身、中文标识，手持展示。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中含不同品类，容量和用法只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/013.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要温和不刺激、好冲洗、气味不冲，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为蓝洗护用品，按压泵头、银色瓶盖、磨砂瓶身、中文标识，手持展示。日常用可以，但三张图不是同一类产品。图中分别为绿色瓶装水感产品和蓝色软管装，瓶身印有产品名和品牌文字，以手持和居家实拍呈现。是否温和、好不好冲洗、气味冲不冲图中看不到，需要以商品页标注为准。短板是图里品类不一致，买回来是不是想要的类型建议先核对商品页。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n全家用，要性价比高、容量够、用着放心，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "全家共用的前提是选对品类。图中为蓝洗护用品，按压泵头、银色瓶盖、磨砂瓶身、中文标识，手持展示。性价比、容量够不够、成分是否放心图中看不到，需要以商品页标注为准。短板是图中含不同品类，容量和用法只能以商品页标注为准。"
+      }
+    ],
+    "image": "images/personal_care/personal_care_008/014.jpg",
+    "qid": "family"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用可以，但图上更像长款拉链袋。图中为黑钱包，缝线、纹理皮革、压印logo，实拍场景。能放几张卡、能否装现金、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中形状偏长，塞裤兜基本不行。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，材质观感偏日常。图中为黑钱包，缝线、纹理皮革、压印logo，实拍场景。看起来有没有质感、做工是否整齐、会不会显廉价需要以商品页标注为准，图中看不到细节。短板是布面材质不如皮面显档次。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用可以，但图上更像长款拉链袋。图中为黑钱包，压印logo、缝线、拉链头，带包装盒。能放几张卡、能否装现金、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中形状偏长，塞裤兜基本不行。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，材质观感偏日常。图中为黑钱包，压印logo、缝线、拉链头，带包装盒。看起来有没有质感、做工是否整齐、会不会显廉价需要以商品页标注为准，图中看不到细节。短板是布面材质不如皮面显档次。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用可以，但图上更像长款拉链袋。图中为黑钱包，荔枝纹、缝线、压印logo、拉链，实拍场景。能放几张卡、能否装现金、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中形状偏长，塞裤兜基本不行。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人一般，材质观感偏日常。图中为黑钱包，荔枝纹、缝线、压印logo、拉链，实拍场景。看起来有没有质感、做工是否整齐、会不会显廉价需要以商品页标注为准，图中看不到细节。短板是布面材质不如皮面显档次。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_001/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用合适，尺寸偏紧凑。图中为黑钱包，荔枝纹、金属标、缝线、翻盖，手持展示。能放几张卡、有没有钞票夹层、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中看不到卡位布局，装6张卡后会不会鼓需以商品页标注为准。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人比较合适，款式很经典。图中为黑钱包，荔枝纹、金属标、缝线、翻盖，手持展示。做工是否整齐、皮料是什么等级、包装体面不体面图中看不到，需要以商品页标注为准。短板是图中没有包装画面，送礼前建议确认是否附盒。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用合适，尺寸偏紧凑。图中为黑钱包，金属徽标、荔枝纹、缝线、翻盖，手持展示。能放几张卡、有没有钞票夹层、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中看不到卡位布局，装6张卡后会不会鼓需以商品页标注为准。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人比较合适，款式很经典。图中为黑钱包，金属徽标、荔枝纹、缝线、翻盖，手持展示。做工是否整齐、皮料是什么等级、包装体面不体面图中看不到，需要以商品页标注为准。短板是图中没有包装画面，送礼前建议确认是否附盒。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常用，要能放6张卡和几张现金、能塞进裤兜、皮面耐刮，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常用合适，尺寸偏紧凑。图中为黑钱包，拉链、纹理表面、缝线、长款，手持展示。能放几张卡、有没有钞票夹层、塞不塞得进裤兜图中看不到，需要以商品页标注为准。短板是图中看不到卡位布局，装6张卡后会不会鼓需以商品页标注为准。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要看起来有质感、做工整齐、不显廉价，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人比较合适，款式很经典。图中为黑钱包，拉链、纹理表面、缝线、长款，手持展示。做工是否整齐、皮料是什么等级、包装体面不体面图中看不到，需要以商品页标注为准。短板是图中没有包装画面，送礼前建议确认是否附盒。"
+      }
+    ],
+    "image": "images/purse_wallet/purse_wallet_005/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买可以考虑，鞋型是常见的运动款。图中为黑运动鞋，系带、厚底、鞋舌、鞋头防撞条，实拍场景。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是系带设计，孩子自己穿脱不如魔术贴方便。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色耐脏。图中为黑运动鞋，系带、厚底、鞋舌、鞋头防撞条，实拍场景。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是系带款在学校频繁穿脱时需要大人帮忙系。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/012.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买可以考虑，鞋型是常见的运动款。图中为黑运动鞋，系带、网面、红色条纹、厚底，带包装盒。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是系带设计，孩子自己穿脱不如魔术贴方便。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色耐脏。图中为黑运动鞋，系带、网面、红色条纹、厚底，带包装盒。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是系带款在学校频繁穿脱时需要大人帮忙系。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/013.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买可以考虑，鞋型是常见的运动款。图中为红运动鞋，系带、网面、低帮、中底，实拍场景。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是系带设计，孩子自己穿脱不如魔术贴方便。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色耐脏。图中为红运动鞋，系带、网面、低帮、中底，实拍场景。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是系带款在学校频繁穿脱时需要大人帮忙系。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_003/014.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑运动鞋，魔术贴、低帮、透气网面，实拍场景。给孩子买要考虑穿脱方式。图中出现了黑色帆布系带鞋、深蓝色运动鞋和白色帆布鞋，均为平底低帮，以脚上和地面实拍呈现，几款都带鞋带。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是图中款式与配色不统一，且都不是魔术贴。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色款比较耐脏。图中为黑运动鞋，魔术贴、低帮、透气网面，实拍场景。耐不耐磨、防滑如何图中看不到，需要以商品页标注为准。短板是白色款配校服好看但不耐脏，且图里款式不统一。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/012.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为灰运动鞋，网面、魔术贴、低帮、鞋垫，带包装盒。给孩子买要考虑穿脱方式。图中出现了黑色帆布系带鞋、深蓝色运动鞋和白色帆布鞋，均为平底低帮，以脚上和地面实拍呈现，几款都带鞋带。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是图中款式与配色不统一，且都不是魔术贴。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色款比较耐脏。图中为灰运动鞋，网面、魔术贴、低帮、鞋垫，带包装盒。耐不耐磨、防滑如何图中看不到，需要以商品页标注为准。短板是白色款配校服好看但不耐脏，且图里款式不统一。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/013.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为灰运动鞋，系带、低帮、绿色内衬、后跟标识，实拍场景。给孩子买要考虑穿脱方式。图中出现了黑色帆布系带鞋、深蓝色运动鞋和白色帆布鞋，均为平底低帮，以脚上和地面实拍呈现，几款都带鞋带。鞋底软不软、好不好穿脱、压不压脚背图中看不到，需要以商品页标注为准。短板是图中款式与配色不统一，且都不是魔术贴。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿可以，深色款比较耐脏。图中为灰运动鞋，系带、低帮、绿色内衬、后跟标识，实拍场景。耐不耐磨、防滑如何图中看不到，需要以商品页标注为准。短板是白色款配校服好看但不耐脏，且图里款式不统一。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_005/014.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买合适，魔术贴好穿脱。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋盒，带包装盒。鞋底软不软、压不压脚背、尺码准不准图中看不到，需要以商品页标注为准。短板是图中看不到鞋垫软硬，久走是否累需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿合适，配色深、好搭校服。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋盒，带包装盒。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是亮色装饰比较显眼，部分学校对着装有要求时需注意。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/012.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买合适，魔术贴好穿脱。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋舌，实拍场景。鞋底软不软、压不压脚背、尺码准不准图中看不到，需要以商品页标注为准。短板是图中看不到鞋垫软硬，久走是否累需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿合适，配色深、好搭校服。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋舌，实拍场景。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是亮色装饰比较显眼，部分学校对着装有要求时需注意。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/013.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给孩子买，要鞋底软、好穿脱、脚背不压，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "给孩子买合适，魔术贴好穿脱。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋盒，实拍场景。鞋底软不软、压不压脚背、尺码准不准图中看不到，需要以商品页标注为准。短板是图中看不到鞋垫软硬，久走是否累需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n孩子上学穿，要耐磨、防滑、能配校服，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "上学穿合适，配色深、好搭校服。图中为蓝运动鞋，魔术贴、低帮、红色内衬、鞋盒，实拍场景。耐不耐磨、防滑好不好图中看不到，需要以商品页标注为准。短板是亮色装饰比较显眼，部分学校对着装有要求时需注意。"
+      }
+    ],
+    "image": "images/shoes_kids/shoes_kids_007/014.jpg",
+    "qid": "school"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤能穿，属于短靴类。图中为黑皮鞋，系带、光面、尖头，实拍场景。皮料是什么等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，雨天防滑性无法判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合能穿，观感利落。图中为黑皮鞋，系带、光面、尖头，实拍场景。皮面光泽能维持多久、鞋型挺不挺、久站累不累图中看不到，需要以商品页标注为准。短板是尖头款试穿前不好判断，久站舒适度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤能穿，属于短靴类。图中为黑皮鞋，尖头、光面、褶皱设计、金属装饰，实拍场景。皮料是什么等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，雨天防滑性无法判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合能穿，观感利落。图中为黑皮鞋，尖头、光面、褶皱设计、金属装饰，实拍场景。皮面光泽能维持多久、鞋型挺不挺、久站累不累图中看不到，需要以商品页标注为准。短板是尖头款试穿前不好判断，久站舒适度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤能穿，属于短靴类。图中为黑皮鞋，尖头、丝袜、高跟鞋，实拍场景。皮料是什么等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，雨天防滑性无法判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合能穿，观感利落。图中为黑皮鞋，尖头、丝袜、高跟鞋，实拍场景。皮面光泽能维持多久、鞋型挺不挺、久站累不累图中看不到，需要以商品页标注为准。短板是尖头款试穿前不好判断，久站舒适度需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_002/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，一脚蹬省事。图中为黑皮鞋，编织纹理、透气孔、一脚蹬、厚底，实拍场景。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底花纹，湿地防滑性需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，款式偏简约。图中为黑皮鞋，编织纹理、透气孔、一脚蹬、厚底，实拍场景。鞋型挺不挺、皮面能不能一直保持光泽、久站累不累图中看不到，需要以商品页标注为准。短板是无鞋带的软帮款支撑偏弱，久站时脚部固定性一般。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，一脚蹬省事。图中为黑皮鞋，一脚蹬、缝线装饰、厚底、内衬，手持展示。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底花纹，湿地防滑性需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，款式偏简约。图中为黑皮鞋，一脚蹬、缝线装饰、厚底、内衬，手持展示。鞋型挺不挺、皮面能不能一直保持光泽、久站累不累图中看不到，需要以商品页标注为准。短板是无鞋带的软帮款支撑偏弱，久站时脚部固定性一般。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，一脚蹬省事。图中为黑皮鞋，系带、厚底、金属鞋带孔、皮革鞋面，实拍场景。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中看不到鞋底花纹，湿地防滑性需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，款式偏简约。图中为黑皮鞋，系带、厚底、金属鞋带孔、皮革鞋面，实拍场景。鞋型挺不挺、皮面能不能一直保持光泽、久站累不累图中看不到，需要以商品页标注为准。短板是无鞋带的软帮款支撑偏弱，久站时脚部固定性一般。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_003/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适。图中为黑皮鞋，系带、尖头、金属鞋眼，实拍场景。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，系带还是一脚蹬需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，黑色光面比较稳。图中为黑皮鞋，系带、尖头、金属鞋眼，实拍场景。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中款式有差异，正式度需按具体鞋型判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适。图中为黑皮鞋，一脚蹬、金属装饰扣、缝线细节、厚底，带包装盒。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，系带还是一脚蹬需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，黑色光面比较稳。图中为黑皮鞋，一脚蹬、金属装饰扣、缝线细节、厚底，带包装盒。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中款式有差异，正式度需按具体鞋型判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适。图中为黑皮鞋，系带、圆头、低帮，实拍场景。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，系带还是一脚蹬需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿可以，黑色光面比较稳。图中为黑皮鞋，系带、圆头、低帮，实拍场景。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中款式有差异，正式度需按具体鞋型判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_005/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿可以，属于休闲鞋型。图中为黄皮鞋，系带、金属鞋带孔、厚底、高帮，白底商品图。鞋面到底是什么材质、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图里两款鞋面材质不同，通勤正式度也要按款式判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适，这类白鞋偏休闲。图中为黄皮鞋，系带、金属鞋带孔、厚底、高帮，白底商品图。鞋面挺不挺、皮面有没有光泽、久站累不累图中看不到，需要以商品页标注为准。短板是白色休闲鞋配西装不协调，且图中款式不统一。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿可以，属于休闲鞋型。图中为黑运动鞋，系带、低帮、橡胶鞋头、橡胶中底，白底商品图。鞋面到底是什么材质、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图里两款鞋面材质不同，通勤正式度也要按款式判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适，这类白鞋偏休闲。图中为黑运动鞋，系带、低帮、橡胶鞋头、橡胶中底，白底商品图。鞋面挺不挺、皮面有没有光泽、久站累不累图中看不到，需要以商品页标注为准。短板是白色休闲鞋配西装不协调，且图中款式不统一。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿可以，属于休闲鞋型。图中为蓝运动鞋，系带、低帮、厚实中底、防滑纹路，白底商品图。鞋面到底是什么材质、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图里两款鞋面材质不同，通勤正式度也要按款式判断。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适，这类白鞋偏休闲。图中为蓝运动鞋，系带、低帮、厚实中底、防滑纹路，白底商品图。鞋面挺不挺、皮面有没有光泽、久站累不累图中看不到，需要以商品页标注为准。短板是白色休闲鞋配西装不协调，且图中款式不统一。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_006/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，是黑色正装皮鞋。图中为黑皮鞋，尖头、低帮、套脚、低跟，白底商品图。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，需先确认是系带还是一脚蹬。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿合适，黑色光面很稳。图中为黑皮鞋，尖头、低帮、套脚、低跟，白底商品图。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中同时出现系带与乐福两种，正式感略有差别。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，是黑色正装皮鞋。图中为黑皮鞋，尖头、亮面、套脚、金属铭牌，白底商品图。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，需先确认是系带还是一脚蹬。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿合适，黑色光面很稳。图中为黑皮鞋，尖头、亮面、套脚、金属铭牌，白底商品图。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中同时出现系带与乐福两种，正式感略有差别。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "上班通勤穿合适，是黑色正装皮鞋。图中为黑皮鞋，镂空设计、一脚蹬、厚底、翻盖，白底商品图。皮料等级、鞋底防不防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是图中鞋型不统一，需先确认是系带还是一脚蹬。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合穿合适，黑色光面很稳。图中为黑皮鞋，镂空设计、一脚蹬、厚底、翻盖，白底商品图。鞋型挺不挺、皮面耐不耐磨、久站累不累图中看不到，需要以商品页标注为准。短板是图中同时出现系带与乐福两种，正式感略有差别。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_007/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤穿不合适，按图这是儿童运动鞋。图中为蓝运动鞋，魔术贴、中帮、厚实中底、红色装饰，白底商品图。皮料、鞋底防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是它属于童鞋且不是皮鞋，跟通勤皮鞋的需求不匹配。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/012.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适。图中为蓝运动鞋，魔术贴、中帮、厚实中底、红色装饰，白底商品图。鞋型挺不挺、皮面光泽、久站累不累图中看不到，需要以商品页标注为准。短板是运动童鞋配正装完全不搭，且图中也看不到成人尺码信息。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/012.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤穿不合适，按图这是儿童运动鞋。图中为黑运动鞋，魔术贴、低帮、厚实中底、黄色装饰，白底商品图。皮料、鞋底防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是它属于童鞋且不是皮鞋，跟通勤皮鞋的需求不匹配。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/013.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适。图中为黑运动鞋，魔术贴、低帮、厚实中底、黄色装饰，白底商品图。鞋型挺不挺、皮面光泽、久站累不累图中看不到，需要以商品页标注为准。短板是运动童鞋配正装完全不搭，且图中也看不到成人尺码信息。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/013.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n上班通勤穿，要皮鞋不磨脚、鞋底防滑、能配西裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "通勤穿不合适，按图这是儿童运动鞋。图中为黑运动鞋，魔术贴、低帮、厚实中底、黄色装饰，白底商品图。皮料、鞋底防滑、会不会磨脚图中看不到，需要以商品页标注为准。短板是它属于童鞋且不是皮鞋，跟通勤皮鞋的需求不匹配。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/014.jpg",
+    "qid": "commute"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n正式场合穿，要皮面有光泽、鞋型挺括、久站不累，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "正式场合不合适。图中为黑运动鞋，魔术贴、低帮、厚实中底、黄色装饰，白底商品图。鞋型挺不挺、皮面光泽、久站累不累图中看不到，需要以商品页标注为准。短板是运动童鞋配正装完全不搭，且图中也看不到成人尺码信息。"
+      }
+    ],
+    "image": "images/shoes_leather/shoes_leather_008/014.jpg",
+    "qid": "formal"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿会闷，这类是闭合皮鞋。图中为黑运动鞋，系带、厚底、鞋头，实拍场景。透气性、走久了累不累、防滑性图中看不到，需要以商品页标注为准。短板是闭合皮面在夏天闷脚，图中也没有透气孔。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/012.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，通勤和休闲都好搭。图中为黑运动鞋，系带、厚底、鞋头，实拍场景。鞋跟稳不稳、夹不夹脚、走久磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，久走舒适度只能按商品页判断。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿会闷，这类是闭合皮鞋。图中为黑皮鞋，系带、低帮、圆头，实拍场景。透气性、走久了累不累、防滑性图中看不到，需要以商品页标注为准。短板是闭合皮面在夏天闷脚，图中也没有透气孔。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/013.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，通勤和休闲都好搭。图中为黑皮鞋，系带、低帮、圆头，实拍场景。鞋跟稳不稳、夹不夹脚、走久磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，久走舒适度只能按商品页判断。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿会闷，这类是闭合皮鞋。图中为黑皮鞋，系带、圆头、厚底、鞋带，实拍场景。透气性、走久了累不累、防滑性图中看不到，需要以商品页标注为准。短板是闭合皮面在夏天闷脚，图中也没有透气孔。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/014.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，通勤和休闲都好搭。图中为黑皮鞋，系带、圆头、厚底、鞋带，实拍场景。鞋跟稳不稳、夹不夹脚、走久磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到鞋底纹路，久走舒适度只能按商品页判断。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_002/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，凉鞋结构本身透气。图中为棕凉鞋，魔术贴、后跟带、厚底、镂空设计，白底商品图。皮料等级、透气孔结构、好走不好走图中看不到，需要以商品页标注为准。短板是鞋面带子较多，新鞋阶段容易磨脚背。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/012.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋底看着厚实稳当。图中为棕凉鞋，魔术贴、后跟带、厚底、镂空设计，白底商品图。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到扣件调节范围，脚背高的穿着体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，凉鞋结构本身透气。图中为棕凉鞋，魔术贴、低帮、木质鞋底、鞋盒，带包装盒。皮料等级、透气孔结构、好走不好走图中看不到，需要以商品页标注为准。短板是鞋面带子较多，新鞋阶段容易磨脚背。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/013.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋底看着厚实稳当。图中为棕凉鞋，魔术贴、低帮、木质鞋底、鞋盒，带包装盒。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到扣件调节范围，脚背高的穿着体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，凉鞋结构本身透气。图中为棕凉鞋，魔术贴、镂空鞋面、厚底、黑色鞋头，白底商品图。皮料等级、透气孔结构、好走不好走图中看不到，需要以商品页标注为准。短板是鞋面带子较多，新鞋阶段容易磨脚背。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/014.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋底看着厚实稳当。图中为棕凉鞋，魔术贴、镂空鞋面、厚底、黑色鞋头，白底商品图。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是图中看不到扣件调节范围，脚背高的穿着体验需以商品页标注为准。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_004/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，薄帆布透气。图中为白运动鞋，系带、低帮、厚底、白色鞋面，实拍场景。鞋面成分、透气细节、走路累不累图中看不到，需要以商品页标注为准。短板是白帆布不耐脏，且图中看不到明显缓震结构，久走偏硬。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/012.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋型简单百搭。图中为白运动鞋，系带、低帮、厚底、白色鞋面，实拍场景。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是薄底对路面反馈直接，图中也看不到鞋垫缓冲，走久了脚底会累。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，薄帆布透气。图中为黑运动鞋，系带、低帮、白色中底、白色鞋带，实拍场景。鞋面成分、透气细节、走路累不累图中看不到，需要以商品页标注为准。短板是白帆布不耐脏，且图中看不到明显缓震结构，久走偏硬。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/013.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋型简单百搭。图中为黑运动鞋，系带、低帮、白色中底、白色鞋带，实拍场景。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是薄底对路面反馈直接，图中也看不到鞋垫缓冲，走久了脚底会累。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n夏天穿，要透气不闷脚、走路不累、好搭配裙子或短裤，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "夏天穿合适，薄帆布透气。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。鞋面成分、透气细节、走路累不累图中看不到，需要以商品页标注为准。短板是白帆布不耐脏，且图中看不到明显缓震结构，久走偏硬。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/014.jpg",
+    "qid": "summer"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常穿，要鞋跟稳、不夹脚、走路多也不磨，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常穿可以，鞋型简单百搭。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。鞋跟稳不稳、夹不夹脚、走多磨不磨图中看不到，需要以商品页标注为准。短板是薄底对路面反馈直接，图中也看不到鞋垫缓冲，走久了脚底会累。"
+      }
+    ],
+    "image": "images/shoes_other/shoes_other_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n每天夜跑5公里，体重70kg正常足弓，要缓震好、透气、不磨脚，这款适合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "夜跑不合适，这类高帮帆布鞋偏日常。图中为黑运动鞋，系带、低帮、白色鞋带、白色鞋头，实拍场景。缓震配置、鞋重、耐磨大底图中看不到，需要以商品页标注为准。短板是布面偏硬、鞋底薄，缺少跑步需要的缓震。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/012.jpg",
+    "qid": "daily_run"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n学生日常穿加体育课，要百搭、耐穿、鞋底抓地，预算300以内，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "学生日常穿很百搭。图中为黑运动鞋，系带、低帮、白色鞋带、白色鞋头，实拍场景。耐不耐穿、鞋底抓不抓地、价格多少图中看不到，需要以商品页标注为准。短板是高帮设计包住脚踝，体育课大幅活动时舒适度一般。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/012.jpg",
+    "qid": "student"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n每天夜跑5公里，体重70kg正常足弓，要缓震好、透气、不磨脚，这款适合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "夜跑不合适，这类高帮帆布鞋偏日常。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。缓震配置、鞋重、耐磨大底图中看不到，需要以商品页标注为准。短板是布面偏硬、鞋底薄，缺少跑步需要的缓震。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/013.jpg",
+    "qid": "daily_run"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n学生日常穿加体育课，要百搭、耐穿、鞋底抓地，预算300以内，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "学生日常穿很百搭。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。耐不耐穿、鞋底抓不抓地、价格多少图中看不到，需要以商品页标注为准。短板是高帮设计包住脚踝，体育课大幅活动时舒适度一般。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/013.jpg",
+    "qid": "student"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n每天夜跑5公里，体重70kg正常足弓，要缓震好、透气、不磨脚，这款适合吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "夜跑不合适，这类高帮帆布鞋偏日常。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。缓震配置、鞋重、耐磨大底图中看不到，需要以商品页标注为准。短板是布面偏硬、鞋底薄，缺少跑步需要的缓震。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/014.jpg",
+    "qid": "daily_run"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n学生日常穿加体育课，要百搭、耐穿、鞋底抓地，预算300以内，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "学生日常穿很百搭。图中为黑运动鞋，系带、低帮、白色鞋头、白色鞋带，实拍场景。耐不耐穿、鞋底抓不抓地、价格多少图中看不到，需要以商品页标注为准。短板是高帮设计包住脚踝，体育课大幅活动时舒适度一般。"
+      }
+    ],
+    "image": "images/shoes_sneaker/shoes_sneaker_006/014.jpg",
+    "qid": "student"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给5岁孩子买，要耐摔、无尖角、可玩性高，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "5岁孩子玩可以，玩具车造型比较硬朗。图中为绿玩具车，越野轮胎、黑色防滚架、前保险杠、迷彩涂装，实拍场景。是否耐摔、有没有尖角、能不能遥控图中看不到，需要以商品页标注为准。短板是图中看不到适用年龄与安全提示，给5岁孩子前建议按商品页核对。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/012.jpg",
+    "qid": "kid5"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装完整、配件齐全、能玩久一点，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中包装画面完整。图中为绿玩具车，越野轮胎、黑色防滚架、前保险杠、迷彩涂装，实拍场景。配件是否齐全、耐不耐摔、能不能玩久一点图中看不到，需要以商品页标注为准。短板是图中看不到电池或遥控器是否随附，送礼前建议确认配件清单。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/012.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给5岁孩子买，要耐摔、无尖角、可玩性高，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "5岁孩子玩可以，玩具车造型比较硬朗。图中为绿玩具车，越野轮胎、黑色防撞杠、车顶行李架、迷彩涂装，实拍场景。是否耐摔、有没有尖角、能不能遥控图中看不到，需要以商品页标注为准。短板是图中看不到适用年龄与安全提示，给5岁孩子前建议按商品页核对。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/013.jpg",
+    "qid": "kid5"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装完整、配件齐全、能玩久一点，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中包装画面完整。图中为绿玩具车，越野轮胎、黑色防撞杠、车顶行李架、迷彩涂装，实拍场景。配件是否齐全、耐不耐摔、能不能玩久一点图中看不到，需要以商品页标注为准。短板是图中看不到电池或遥控器是否随附，送礼前建议确认配件清单。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/013.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n给5岁孩子买，要耐摔、无尖角、可玩性高，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "5岁孩子玩可以，玩具车造型比较硬朗。图中为灰玩具车，驾驶舱、黄色机械臂、黑色铲斗、轮胎，实拍场景。是否耐摔、有没有尖角、能不能遥控图中看不到，需要以商品页标注为准。短板是图中看不到适用年龄与安全提示，给5岁孩子前建议按商品页核对。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/014.jpg",
+    "qid": "kid5"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n送人用，要包装完整、配件齐全、能玩久一点，这款合适吗？"
+      },
+      {
+        "from": "assistant",
+        "value": "送人合适，图中包装画面完整。图中为灰玩具车，驾驶舱、黄色机械臂、黑色铲斗、轮胎，实拍场景。配件是否齐全、耐不耐摔、能不能玩久一点图中看不到，需要以商品页标注为准。短板是图中看不到电池或遥控器是否随附，送礼前建议确认配件清单。"
+      }
+    ],
+    "image": "images/toy_vehicle/toy_vehicle_003/014.jpg",
+    "qid": "gift"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款比较对路。图中为黑手表，大表盘、数字显示、金属表冠、多圈表圈，实拍场景。树脂带出汗不滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是图上看不到背光标识，夜间读时需以商品页标注为准。"
+      }
+    ],
+    "image": "images/watch/watch_001/012.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，风格偏运动。图中为黑手表，大表盘、数字显示、金属表冠、多圈表圈，实拍场景。是否耐刮、显示不显示日期星期、戴着重不重图中看不到，需要以商品页标注为准。短板是盘面偏厚偏运动，配正装不太协调。"
+      }
+    ],
+    "image": "images/watch/watch_001/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款比较对路。图中为黑手表，大表盘、数字显示、金属表冠、橡胶表带，白底商品图。树脂带出汗不滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是图上看不到背光标识，夜间读时需以商品页标注为准。"
+      }
+    ],
+    "image": "images/watch/watch_001/013.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，风格偏运动。图中为黑手表，大表盘、数字显示、金属表冠、橡胶表带，白底商品图。是否耐刮、显示不显示日期星期、戴着重不重图中看不到，需要以商品页标注为准。短板是盘面偏厚偏运动，配正装不太协调。"
+      }
+    ],
+    "image": "images/watch/watch_001/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款比较对路。图中为黑手表，大表盘、数字显示、绿色表带、金属表扣，实拍场景。树脂带出汗不滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是图上看不到背光标识，夜间读时需以商品页标注为准。"
+      }
+    ],
+    "image": "images/watch/watch_001/014.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，风格偏运动。图中为黑手表，大表盘、数字显示、绿色表带、金属表扣，实拍场景。是否耐刮、显示不显示日期星期、戴着重不重图中看不到，需要以商品页标注为准。短板是盘面偏厚偏运动，配正装不太协调。"
+      }
+    ],
+    "image": "images/watch/watch_001/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不合适，这类偏正装休闲。图中为银手表，圆形表盘、指针、刻度、皮质表带，实拍场景。皮带和细金属带运动出汗后容易打滑、透气性一般。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是缺少户外表需要的防水与夜光标识。"
+      }
+    ],
+    "image": "images/watch/watch_002/012.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤很合适。图中为银手表，圆形表盘、指针、刻度、皮质表带，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中看不到日期和星期窗，需要这些功能的话得看商品页。"
+      }
+    ],
+    "image": "images/watch/watch_002/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不合适，这类偏正装休闲。图中为白手表，圆形表盘、黑色表带、金属表壳、指针式，实拍场景。皮带和细金属带运动出汗后容易打滑、透气性一般。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是缺少户外表需要的防水与夜光标识。"
+      }
+    ],
+    "image": "images/watch/watch_002/013.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤很合适。图中为白手表，圆形表盘、黑色表带、金属表壳、指针式，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中看不到日期和星期窗，需要这些功能的话得看商品页。"
+      }
+    ],
+    "image": "images/watch/watch_002/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不合适，这类偏正装休闲。图中为银手表，圆形表盘、指针、刻度、黑色表带，实拍场景。皮带和细金属带运动出汗后容易打滑、透气性一般。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是缺少户外表需要的防水与夜光标识。"
+      }
+    ],
+    "image": "images/watch/watch_002/014.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤很合适。图中为银手表，圆形表盘、指针、刻度、黑色表带，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中看不到日期和星期窗，需要这些功能的话得看商品页。"
+      }
+    ],
+    "image": "images/watch/watch_002/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不太合适，整体偏通勤。图中为银手表，圆形表盘、金属表带、计时功能、日期显示，实拍场景。金属带运动出汗后容易滑、也不够透气。防水等级、有没有夜光背光和续航图中看不到，需要以商品页标注为准。短板是图中款式不统一，且缺少户外功能标识。"
+      }
+    ],
+    "image": "images/watch/watch_004/012.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为银手表，圆形表盘、金属表带、计时功能、日期显示，实拍场景。日常通勤合适，观感低调。图中以黑色表盘配银色金属表带为主，条形或罗马数字时标、三针设计，实拍显示表盘大小适中、戴着不重。是否耐刮、显示不显示日期星期图中看不到，需要以商品页标注为准。短板是其中一张是带计时小表盘的款式，风格略有差别，建议先确认。"
+      }
+    ],
+    "image": "images/watch/watch_004/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不太合适，整体偏通勤。图中为银手表，金属表带、圆形表盘、数字刻度、日期显示窗口，实拍场景。金属带运动出汗后容易滑、也不够透气。防水等级、有没有夜光背光和续航图中看不到，需要以商品页标注为准。短板是图中款式不统一，且缺少户外功能标识。"
+      }
+    ],
+    "image": "images/watch/watch_004/013.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为银手表，金属表带、圆形表盘、数字刻度、日期显示窗口，实拍场景。日常通勤合适，观感低调。图中以黑色表盘配银色金属表带为主，条形或罗马数字时标、三针设计，实拍显示表盘大小适中、戴着不重。是否耐刮、显示不显示日期星期图中看不到，需要以商品页标注为准。短板是其中一张是带计时小表盘的款式，风格略有差别，建议先确认。"
+      }
+    ],
+    "image": "images/watch/watch_004/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步不太合适，整体偏通勤。图中为黑手表，罗马数字刻度、银色表圈、黑色表带、皇冠标志，实拍场景。金属带运动出汗后容易滑、也不够透气。防水等级、有没有夜光背光和续航图中看不到，需要以商品页标注为准。短板是图中款式不统一，且缺少户外功能标识。"
+      }
+    ],
+    "image": "images/watch/watch_004/014.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑手表，罗马数字刻度、银色表圈、黑色表带、皇冠标志，实拍场景。日常通勤合适，观感低调。图中以黑色表盘配银色金属表带为主，条形或罗马数字时标、三针设计，实拍显示表盘大小适中、戴着不重。是否耐刮、显示不显示日期星期图中看不到，需要以商品页标注为准。短板是其中一张是带计时小表盘的款式，风格略有差别，建议先确认。"
+      }
+    ],
+    "image": "images/watch/watch_004/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款基本对路。图中为黑手表，橡胶表带、数字表盘、按钮、指针，手持展示。树脂带出汗不易滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是表壳偏大偏厚，戴在细手腕上容易磕碰。"
+      }
+    ],
+    "image": "images/watch/watch_005/012.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，偏硬朗运动风。图中为黑手表，橡胶表带、数字表盘、按钮、指针，手持展示。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是表壳厚、风格强运动，配正装不协调。"
+      }
+    ],
+    "image": "images/watch/watch_005/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款基本对路。图中为黑手表，方形表盘、数字显示、指针、表带，实拍场景。树脂带出汗不易滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是表壳偏大偏厚，戴在细手腕上容易磕碰。"
+      }
+    ],
+    "image": "images/watch/watch_005/013.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，偏硬朗运动风。图中为黑手表，方形表盘、数字显示、指针、表带，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是表壳厚、风格强运动，配正装不协调。"
+      }
+    ],
+    "image": "images/watch/watch_005/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "户外徒步跑步这款基本对路。图中为黑手表，数字显示屏、指针表盘、旋转表圈、按钮，实拍场景。树脂带出汗不易滑。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是表壳偏大偏厚，戴在细手腕上容易磕碰。"
+      }
+    ],
+    "image": "images/watch/watch_005/014.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，偏硬朗运动风。图中为黑手表，数字显示屏、指针表盘、旋转表圈、按钮，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是表壳厚、风格强运动，配正装不协调。"
+      }
+    ],
+    "image": "images/watch/watch_005/014.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑手表，金属表带、圆形表盘、计时功能、日期显示，实拍场景。户外徒步跑步可以用，但要先确认是哪一只。图中以指针加数字双显的黑盘运动表为主，表壳两侧有多个按键、配银色金属表带；另有一张是银色金属带的三针款，以腕上实拍和桌面平拍呈现。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是金属带透气性一般，且图中款式不统一。"
+      }
+    ],
+    "image": "images/watch/watch_008/012.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，金属带观感比较正式。图中为黑手表，金属表带、圆形表盘、计时功能、日期显示，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中款式有差别，日常款还是运动款需先确认。"
+      }
+    ],
+    "image": "images/watch/watch_008/012.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑手表，数字显示屏、指针、按钮、表带，实拍场景。户外徒步跑步可以用，但要先确认是哪一只。图中以指针加数字双显的黑盘运动表为主，表壳两侧有多个按键、配银色金属表带；另有一张是银色金属带的三针款，以腕上实拍和桌面平拍呈现。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是金属带透气性一般，且图中款式不统一。"
+      }
+    ],
+    "image": "images/watch/watch_008/013.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，金属带观感比较正式。图中为黑手表，数字显示屏、指针、按钮、表带，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中款式有差别，日常款还是运动款需先确认。"
+      }
+    ],
+    "image": "images/watch/watch_008/013.jpg",
+    "qid": "daily"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n我平时户外徒步和跑步都戴，预算1000以内，要防水、能看时间和日期、夜里有背光、表带出汗不闷，这款合适吗有什么短板？"
+      },
+      {
+        "from": "assistant",
+        "value": "图中为黑手表，数字显示屏、指针、表冠、按钮，实拍场景。户外徒步跑步可以用，但要先确认是哪一只。图中以指针加数字双显的黑盘运动表为主，表壳两侧有多个按键、配银色金属表带；另有一张是银色金属带的三针款，以腕上实拍和桌面平拍呈现。防水等级、有没有夜光背光、续航多久图中看不到，需要以商品页标注为准。短板是金属带透气性一般，且图中款式不统一。"
+      }
+    ],
+    "image": "images/watch/watch_008/014.jpg",
+    "qid": "outdoor"
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<image>\n日常通勤戴，要耐刮、戴着不重、能显示日期和星期，这款怎么样？"
+      },
+      {
+        "from": "assistant",
+        "value": "日常通勤能戴，金属带观感比较正式。图中为黑手表，数字显示屏、指针、表冠、按钮，实拍场景。是否耐刮、显示不显示日期星期、重不重图中看不到，需要以商品页标注为准。短板是图中款式有差别，日常款还是运动款需先确认。"
+      }
+    ],
+    "image": "images/watch/watch_008/014.jpg",
+    "qid": "daily"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "image": "images/accessories/accessories_001/005.jpg",
+    "category": "accessories",
+    "sku": "accessories_001"
+  },
+  {
+    "image": "images/apparel_pants/apparel_pants_002/005.jpg",
+    "category": "apparel_pants",
+    "sku": "apparel_pants_002"
+  },
+  {
+    "image": "images/apparel_shorts/apparel_shorts_001/005.jpg",
+    "category": "apparel_shorts",
+    "sku": "apparel_shorts_001"
+  },
+  {
+    "image": "images/apparel_top/apparel_top_002/005.jpg",
+    "category": "apparel_top",
+    "sku": "apparel_top_002"
+  },
+  {
+    "image": "images/appliance_large/appliance_large_001/005.jpg",
+    "category": "appliance_large",
+    "sku": "appliance_large_001"
+  },
+  {
+    "image": "images/baby_products/baby_products_004/005.jpg",
+    "category": "baby_products",
+    "sku": "baby_products_004"
+  },
+  {
+    "image": "images/bag_backpack/bag_backpack_001/005.jpg",
+    "category": "bag_backpack",
+    "sku": "bag_backpack_001"
+  },
+  {
+    "image": "images/cosmetics/cosmetics_001/005.jpg",
+    "category": "cosmetics",
+    "sku": "cosmetics_001"
+  },
+  {
+    "image": "images/health_supplement/health_supplement_005/005.jpg",
+    "category": "health_supplement",
+    "sku": "health_supplement_005"
+  },
+  {
+    "image": "images/household_detergent/household_detergent_008/005.jpg",
+    "category": "household_detergent",
+    "sku": "household_detergent_008"
+  },
+  {
+    "image": "images/jewelry/jewelry_005/005.jpg",
+    "category": "jewelry",
+    "sku": "jewelry_005"
+  },
+  {
+    "image": "images/personal_care/personal_care_006/005.jpg",
+    "category": "personal_care",
+    "sku": "personal_care_006"
+  },
+  {
+    "image": "images/purse_wallet/purse_wallet_001/005.jpg",
+    "category": "purse_wallet",
+    "sku": "purse_wallet_001"
+  },
+  {
+    "image": "images/shoes_kids/shoes_kids_003/005.jpg",
+    "category": "shoes_kids",
+    "sku": "shoes_kids_003"
+  },
+  {
+    "image": "images/shoes_leather/shoes_leather_002/005.jpg",
+    "category": "shoes_leather",
+    "sku": "shoes_leather_002"
+  },
+  {
+    "image": "images/shoes_other/shoes_other_002/005.jpg",
+    "category": "shoes_other",
+    "sku": "shoes_other_002"
+  },
+  {
+    "image": "images/shoes_sneaker/shoes_sneaker_003/005.jpg",
+    "category": "shoes_sneaker",
+    "sku": "shoes_sneaker_003"
+  },
+  {
+    "image": "images/toy_vehicle/toy_vehicle_003/005.jpg",
+    "category": "toy_vehicle",
+    "sku": "toy_vehicle_003"
+  },
+  {
+    "image": "images/watch/watch_001/005.jpg",
+    "category": "watch",
+    "sku": "watch_001"
+  },
+  {
+    "image": "images/accessories/accessories_002/005.jpg",
+    "category": "accessories",
+    "sku": "accessories_002"
+  },
+  {
+    "image": "images/apparel_pants/apparel_pants_008/005.jpg",
+    "category": "apparel_pants",
+    "sku": "apparel_pants_008"
+  },
+  {
+    "image": "images/apparel_shorts/apparel_shorts_003/005.jpg",
+    "category": "apparel_shorts",
+    "sku": "apparel_shorts_003"
+  },
+  {
+    "image": "images/appliance_large/appliance_large_002/005.jpg",
+    "category": "appliance_large",
+    "sku": "appliance_large_002"
+  },
+  {
+    "image": "images/baby_products/baby_products_007/005.jpg",
+    "category": "baby_products",
+    "sku": "baby_products_007"
+  },
+  {
+    "image": "images/bag_backpack/bag_backpack_002/005.jpg",
+    "category": "bag_backpack",
+    "sku": "bag_backpack_002"
+  },
+  {
+    "image": "images/health_supplement/health_supplement_008/005.jpg",
+    "category": "health_supplement",
+    "sku": "health_supplement_008"
+  },
+  {
+    "image": "images/jewelry/jewelry_008/005.jpg",
+    "category": "jewelry",
+    "sku": "jewelry_008"
+  },
+  {
+    "image": "images/personal_care/personal_care_008/005.jpg",
+    "category": "personal_care",
+    "sku": "personal_care_008"
+  },
+  {
+    "image": "images/purse_wallet/purse_wallet_005/005.jpg",
+    "category": "purse_wallet",
+    "sku": "purse_wallet_005"
+  },
+  {
+    "image": "images/shoes_kids/shoes_kids_005/005.jpg",
+    "category": "shoes_kids",
+    "sku": "shoes_kids_005"
+  }
+]

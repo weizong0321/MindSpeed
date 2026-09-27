@@ -1,0 +1,156 @@
+# Qwen3.5-0.8B FSDP2 SFT on sample7（路线乙：不断言颜色，只断言可核实的结构）
+#
+# 与 sample6 的差别
+#   1) 去掉颜色。实测 4B/30B 报"主色"只有 0.67–0.73 正确率，换模型（30B）/换问法
+#      （4 种）都没用 —— 详见 _tunnel/EXP5_gate_report.md 第 5、7 节。
+#      答案里写一个 1/4 概率是错的颜色，比不写更伤。
+#   2) 结构部件走品类白名单（part_vocab.py）。VLM 会把背景写进部件：
+#        灰长裤 -> ['抽绳','松紧腰','侧边字母带','木质椅子']
+#        棕皮鞋 -> ['鞋头','鞋带','灰色袜子','金属孔板']
+#      白名单只放行该品类真实可能有的结构词，并把说法归一化
+#        '侧边口袋' -> '口袋'，'厚实中底' -> '中底'，'越野轮胎' -> '轮胎'
+#   3) 保留 category 与 scene，所以答案仍然逐图不同
+#      （实测 47 个子样式内部平均有 11.6 种不同说法 / 15 张图）
+#
+# 数据集校验（validate_v7.py）
+#   颜色泄漏 0.45%（且都是"透明视窗"这种合法部件），背景泄漏 0.00%，
+#   结构部件接地率 100%。
+#
+# 图片仍在 sample5/images 下，所以 dataset_dir 指向 sample5。
+
+parallel:
+  tensor_parallel_size: 1
+  fully_shard_parallel_size: auto
+  fsdp_plan:
+    apply_modules:
+      - model.visual.blocks.{*}
+      - model.visual
+      - model.language_model.layers.{*}
+      - model.language_model.embed_tokens
+      - model.language_model
+      - lm_head
+    param_dtype: bf16
+    reduce_dtype: fp32
+  recompute: true
+  recompute_plan:
+    apply_modules:
+      - model.language_model.layers.{*}
+  ulysses_parallel_size: 1
+
+data:
+  dataset_param:
+    dataset_type: huggingface
+    attr:
+      formatting: sharegpt
+      images: image
+      messages: conversations
+      role_tag: from
+      content_tag: value
+      user_tag: user
+      assistant_tag: assistant
+
+    preprocess_parameters:
+      model_name_or_path: &HF_META /workspace/user_data/base_meta/Qwen3.5-0.8B
+      use_fast_tokenizer: true
+      split_special_tokens: false
+      image_max_pixels: 262144
+      image_min_pixels: 1024
+      video_max_pixels: 16384
+      video_min_pixels: 0
+      video_fps: 2.0
+      video_maxlen: 64
+
+    basic_parameters:
+      cutoff_len: 1024
+      template: qwen3_vl_nothink
+      enable_thinking: false
+      train_on_prompt: false
+      mask_history: false
+      # 图片在 sample5 下，标签在 sample7 下
+      dataset_dir: ./data/ecommerce_multimodal/sample5
+      dataset: &DATASET_PATH ./data/ecommerce_multimodal/sample7/train.json
+      # 缓存必须放本地 overlay，不能放 glusterfs（小文件会撞 Errno 107）
+      cache_dir: /workspace/cache_sample7
+      overwrite_cache: false
+      preprocessing_batch_size: 1000
+      preprocessing_num_workers: 16
+      max_samples: null
+
+  dataloader_param:
+    pin_memory: true
+    shuffle: false
+    dataloader_mode: sampler
+    drop_last: true
+    sampler_type: BaseRandomBatchSampler
+    num_workers: 8
+    collate_param:
+      model_name: qwen3vl
+      ignore_pad_token_for_loss: true
+
+model:
+  model_id: qwen3_5
+  model_name_or_path: *HF_META
+  trust_remote_code: true
+  attn_implementation: sdpa
+  freeze:
+    - model.visual
+  loss_cfg:
+    loss_type: default
+    router_aux_loss_coef: 0.0
+  enable_chunk_loss: false
+  chunkloss_plan:
+    apply_module: lm_head
+    chunk_size: 1024
+  use_triton_gdn: true
+
+training:
+  micro_batch_size: 1
+  gradient_accumulation_steps: 1
+  seed: 42
+  lr: 1.0e-5
+  lr_decay_style: cosine
+  lr_warmup_ratio: 0.1
+  weight_decay: 0
+  # 1060 条训练样本，2 个 epoch（sample4 的证据：1 个 epoch 不够）
+  train_iters: 2120
+  clip_grad: 0.0
+  init_model_with_meta_device: true
+  optimizer: adamw
+  adam_fused: true
+  save_interval: 1060
+  no_load_optim: true
+  no_load_rng: true
+  no_save_optim: true
+  no_save_rng: true
+  load: /workspace/user_data/dcp/Qwen3.5-0.8B
+  save: /workspace/user_data/output/qwen3_5_0.8B_sample7
+  use_deter_comp: false
+  plugin:
+    - mindspeed_mm/fsdp/models/qwen3_5
+    - mindspeed_mm/fsdp/data/datasets/huggingface
+
+tools:
+  profile:
+    enable: false
+    profile_type: static
+    ranks: [0]
+    static_param:
+      level: level1
+      with_stack: false
+      with_memory: false
+      record_shapes: false
+      with_cpu: true
+      save_path: ./profiling
+      start_step: 10
+      end_step: 11
+      data_simplification: false
+      aic_metrics_type: PipeUtilization
+  memory_profile:
+    enable: false
+    start_step: 1
+    end_step: 2
+    save_path: ./memory_snapshot
+    dump_ranks: [0]
+    stacks: all
+    max_entries: null
+    mem_info: false

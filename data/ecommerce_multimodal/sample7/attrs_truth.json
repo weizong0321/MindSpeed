@@ -1,0 +1,7654 @@
+{
+  "images/accessories/accessories_001/000.jpg": {
+    "category": "太阳镜",
+    "scene": "手持展示",
+    "parts": [
+      "镜片",
+      "鼻托",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/001.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/002.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/003.jpg": {
+    "category": "太阳镜",
+    "scene": "手持展示",
+    "parts": [
+      "镜片",
+      "镜架"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/004.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/005.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/006.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/007.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/008.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/009.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/010.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/011.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/012.jpg": {
+    "category": "太阳镜",
+    "scene": "手持展示",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/013.jpg": {
+    "category": "太阳镜",
+    "scene": "带包装盒",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_001/014.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "镜片",
+      "镜框",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_002/000.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "皮带",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/001.jpg": {
+    "category": "皮带",
+    "scene": "手持展示",
+    "parts": [
+      "金属扣",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/002.jpg": {
+    "category": "皮带",
+    "scene": "白底商品图",
+    "parts": [
+      "金属扣",
+      "皮带",
+      "压纹"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/003.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "logo",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/004.jpg": {
+    "category": "皮带",
+    "scene": "白底商品图",
+    "parts": [
+      "金属扣",
+      "缝线",
+      "图案"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/005.jpg": {
+    "category": "皮带",
+    "scene": "白底商品图",
+    "parts": [
+      "金属扣",
+      "皮革带",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/006.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "缝线"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/007.jpg": {
+    "category": "皮带",
+    "scene": "白底商品图",
+    "parts": [
+      "金属扣",
+      "纹理",
+      "皮革带"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/008.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "标志"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/accessories/accessories_002/009.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "纹理",
+      "扣头"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/010.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [],
+    "vlm_category_raw": "手表"
+  },
+  "images/accessories/accessories_002/011.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [],
+    "vlm_category_raw": "手表"
+  },
+  "images/accessories/accessories_002/012.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "皮带",
+      "纹理"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/013.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "图案",
+      "皮革带"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_002/014.jpg": {
+    "category": "皮带",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "带身"
+    ],
+    "vlm_category_raw": "皮带"
+  },
+  "images/accessories/accessories_004/000.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/001.jpg": {
+    "category": "太阳镜",
+    "scene": "手持展示",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/002.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/003.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/004.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/005.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "可调节",
+      "镜腿",
+      "镜架",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/006.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "镜框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/007.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/008.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/009.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/010.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/011.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/012.jpg": {
+    "category": "太阳镜",
+    "scene": "白底商品图",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "标识"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/013.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_004/014.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/000.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/001.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "装饰",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/002.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/003.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜框",
+      "鼻托",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/004.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/005.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/006.jpg": {
+    "category": "眼镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "眼镜"
+  },
+  "images/accessories/accessories_005/007.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/008.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/009.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "鼻托",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/010.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/011.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/012.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/013.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_005/014.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜片",
+      "镜腿",
+      "鼻托"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/000.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/001.jpg": {
+    "category": "太阳镜",
+    "scene": "带包装盒",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/002.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/003.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜腿",
+      "镜片",
+      "镜框"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/004.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/005.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜框",
+      "镜片",
+      "鼻托",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/006.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜腿",
+      "镜片"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/007.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/008.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/009.jpg": {
+    "category": "太阳镜",
+    "scene": "带包装盒",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/010.jpg": {
+    "category": "太阳镜",
+    "scene": "手持展示",
+    "parts": [
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/011.jpg": {
+    "category": "太阳镜",
+    "scene": "带包装盒",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/012.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿",
+      "标识"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/013.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "大框",
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/accessories/accessories_007/014.jpg": {
+    "category": "太阳镜",
+    "scene": "实拍场景",
+    "parts": [
+      "镜片",
+      "镜腿"
+    ],
+    "vlm_category_raw": "太阳镜"
+  },
+  "images/apparel_pants/apparel_pants_008/000.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "腰头",
+      "口袋",
+      "裤脚"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/001.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "侧袋"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/002.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/003.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋",
+      "印花"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/004.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "拉链",
+      "口袋",
+      "松紧腰"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/005.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "腰头",
+      "装饰"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_pants/apparel_pants_008/006.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "拼接",
+      "腰头"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/007.jpg": {
+    "category": "长裤",
+    "scene": "手持展示",
+    "parts": [
+      "抽绳",
+      "裤腿"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/008.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "纽扣",
+      "口袋",
+      "裤脚"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_pants/apparel_pants_008/009.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "口袋",
+      "裤腿"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/010.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/011.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/012.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/013.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "腰头"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_pants/apparel_pants_008/014.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "口袋",
+      "松紧腰",
+      "裤脚"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/000.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/001.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/002.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "裤脚"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/003.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/004.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "印花"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/005.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "腰头"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/006.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "口袋",
+      "印花"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/007.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "松紧腰"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/008.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋",
+      "拼接"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/009.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "抽绳"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/010.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "侧袋",
+      "裤脚"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/011.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "口袋",
+      "松紧腰"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/012.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "拼接",
+      "缝线"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/013.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "拉链",
+      "装饰",
+      "印花"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_shorts/apparel_shorts_001/014.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "反光条",
+      "标识"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/000.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "口袋",
+      "松紧腰"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/001.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "拉链"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/002.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "拉链"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/003.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/004.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/005.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "缝线",
+      "包边"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/006.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "抽绳",
+      "松紧腰",
+      "口袋",
+      "裤脚"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/007.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/008.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "腰头",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/009.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/010.jpg": {
+    "category": "短裤",
+    "scene": "白底商品图",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/011.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/012.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/013.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "口袋",
+      "裤脚"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_shorts/apparel_shorts_003/014.jpg": {
+    "category": "短裤",
+    "scene": "实拍场景",
+    "parts": [
+      "松紧腰",
+      "拉链"
+    ],
+    "vlm_category_raw": "短裤"
+  },
+  "images/apparel_top/apparel_top_002/000.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/001.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "绗缝",
+      "长袖"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/002.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "绗缝",
+      "长袖",
+      "袖口"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/003.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "口袋"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/004.jpg": {
+    "category": "长裤",
+    "scene": "实拍场景",
+    "parts": [
+      "格纹",
+      "拉链"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/apparel_top/apparel_top_002/005.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "立领",
+      "拉链",
+      "绗缝",
+      "内衬"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/006.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "立领",
+      "拉链",
+      "绗缝",
+      "抽绳"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/007.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "格纹",
+      "长袖",
+      "袖口"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/008.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "抽绳"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/009.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "绗缝",
+      "立领"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/010.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "长袖"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/011.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "口袋"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/012.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "纽扣"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/013.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "绗缝",
+      "立领"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/apparel_top/apparel_top_002/014.jpg": {
+    "category": "羽绒服",
+    "scene": "实拍场景",
+    "parts": [
+      "格纹",
+      "长袖",
+      "立领"
+    ],
+    "vlm_category_raw": "羽绒服"
+  },
+  "images/appliance_large/appliance_large_001/000.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "能效标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/001.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "控制面板"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/002.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "显示屏",
+      "能效标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/003.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "控制面板"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/004.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "控制面板",
+      "能效标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/005.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "电源线"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/006.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "能效标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/007.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "能效标识",
+      "指示灯",
+      "出风口"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/008.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/009.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "插头",
+      "能效标识",
+      "标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/010.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "机身",
+      "插头",
+      "指示灯"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/011.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "显示屏",
+      "标识"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/012.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "电源线",
+      "装饰"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/013.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "控制面板"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_001/014.jpg": {
+    "category": "空调",
+    "scene": "实拍场景",
+    "parts": [
+      "能效标识",
+      "电源线",
+      "装饰"
+    ],
+    "vlm_category_raw": "空调"
+  },
+  "images/appliance_large/appliance_large_002/000.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "顶盖",
+      "控制面板",
+      "旋钮",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/001.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "顶盖",
+      "控制面板",
+      "显示屏",
+      "标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/002.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "按钮",
+      "旋钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/003.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "顶盖",
+      "控制面板",
+      "旋钮",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/004.jpg": {
+    "category": "冷风机",
+    "scene": "实拍场景",
+    "parts": [
+      "显示屏",
+      "按钮",
+      "出风口"
+    ],
+    "vlm_category_raw": "冷风机"
+  },
+  "images/appliance_large/appliance_large_002/005.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "顶盖"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/006.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/007.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "能效标识",
+      "底座"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/008.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/009.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/010.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "顶盖",
+      "插头"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/011.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "按钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/012.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/013.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "透明视窗",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_002/014.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/000.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "机身",
+      "排水口"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/001.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "透明视窗",
+      "底座"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/002.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "机身",
+      "旋钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/003.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "机身"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/004.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "把手",
+      "排水口"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/005.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "顶盖",
+      "标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/006.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/007.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "能效标识",
+      "顶盖"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/008.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "顶盖",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/009.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "机身",
+      "底座"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/010.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/011.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "透明视窗",
+      "旋钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/012.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "旋钮",
+      "盖板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/013.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "机身"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_004/014.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "旋钮",
+      "盖板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/000.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "显示屏",
+      "旋钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/001.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "显示屏",
+      "旋钮",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/002.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "旋钮",
+      "显示屏"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/003.jpg": {
+    "category": "洗衣机",
+    "scene": "白底商品图",
+    "parts": [
+      "门",
+      "显示屏",
+      "旋钮",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/004.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "旋钮",
+      "盖板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/005.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "显示屏",
+      "旋钮",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/006.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "旋钮",
+      "显示屏"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/007.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "抽屉",
+      "门",
+      "显示屏",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/008.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "旋钮",
+      "显示屏",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/009.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "显示屏",
+      "旋钮"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/010.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "旋钮",
+      "显示屏"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/011.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "控制面板",
+      "旋钮",
+      "机身"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/012.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "旋钮",
+      "显示屏",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/013.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "显示屏",
+      "旋钮",
+      "能效标识"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/appliance_large/appliance_large_007/014.jpg": {
+    "category": "洗衣机",
+    "scene": "实拍场景",
+    "parts": [
+      "门",
+      "旋钮",
+      "显示屏",
+      "控制面板"
+    ],
+    "vlm_category_raw": "洗衣机"
+  },
+  "images/baby_products/baby_products_004/000.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "手柄",
+      "宽口径",
+      "卡通图案"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/001.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "奶瓶",
+      "奶嘴",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/002.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "手柄",
+      "刻度",
+      "宽口径"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/003.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "手柄",
+      "刻度线",
+      "奶嘴",
+      "吸嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/004.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "把手",
+      "宽口径",
+      "奶嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/005.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "宽口径",
+      "手柄",
+      "刻度线"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/006.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "把手",
+      "刻度线",
+      "图案",
+      "宽口径"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/007.jpg": {
+    "category": "婴儿用品",
+    "scene": "手持展示",
+    "parts": [
+      "把手",
+      "刻度线",
+      "奶嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/008.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "宽口径",
+      "奶嘴",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/009.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "奶嘴",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/010.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/011.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "宽口径",
+      "刻度线",
+      "奶嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/012.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "宽口径",
+      "奶嘴",
+      "瓶盖"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/013.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "奶嘴",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_004/014.jpg": {
+    "category": "婴儿用品",
+    "scene": "白底商品图",
+    "parts": [
+      "宽口径",
+      "刻度线",
+      "奶嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/000.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/baby_products/baby_products_007/001.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "手柄",
+      "吸管",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/002.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "手柄",
+      "吸嘴",
+      "瓶身"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/003.jpg": {
+    "category": "婴儿用品",
+    "scene": "手持展示",
+    "parts": [
+      "把手",
+      "刻度线",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/004.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "手柄",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/005.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "吸管",
+      "手柄",
+      "卡通图案"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/006.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "手柄",
+      "吸管",
+      "奶嘴"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/007.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "手柄",
+      "纹理"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/008.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "把手",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/009.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "手柄",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/010.jpg": {
+    "category": "婴儿用品",
+    "scene": "手持展示",
+    "parts": [
+      "手柄",
+      "吸管",
+      "刻度线"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/011.jpg": {
+    "category": "婴儿用品",
+    "scene": "手持展示",
+    "parts": [
+      "手柄",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/012.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "把手",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/013.jpg": {
+    "category": "婴儿用品",
+    "scene": "手持展示",
+    "parts": [
+      "手柄",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/baby_products/baby_products_007/014.jpg": {
+    "category": "婴儿用品",
+    "scene": "带包装盒",
+    "parts": [
+      "把手",
+      "吸管"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/bag_backpack/bag_backpack_001/000.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链",
+      "装饰"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/001.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/002.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/003.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/004.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/005.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/006.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "拉链头",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/007.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "胸扣"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/008.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链",
+      "拉链头"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/009.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/010.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "口袋",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/011.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/012.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "肩带",
+      "拉链",
+      "口袋",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/013.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "拉链头",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_001/014.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "装饰",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/000.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "提手",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/001.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/002.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "肩带",
+      "拉链",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/003.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/004.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链",
+      "拉链头"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/005.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "口袋",
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/006.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/007.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "口袋",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/008.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "反光条",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/009.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "反光条"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/010.jpg": {
+    "category": "单肩包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链",
+      "肩带",
+      "提手"
+    ],
+    "vlm_category_raw": "单肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/011.jpg": {
+    "category": "单肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "肩带",
+      "拉链",
+      "口袋"
+    ],
+    "vlm_category_raw": "单肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/012.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/013.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "肩带",
+      "拉链",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_005/014.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/000.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "双肩带",
+      "提手",
+      "拉链",
+      "装饰"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/001.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "双肩带",
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/002.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "双肩带",
+      "拉链",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/003.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/004.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "提手",
+      "拉链",
+      "反光条"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/005.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "提手",
+      "背带",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/006.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "双肩带",
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/007.jpg": {
+    "category": "双肩包",
+    "scene": "手持展示",
+    "parts": [
+      "手提",
+      "口袋",
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/008.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "拉链",
+      "标志",
+      "肩带",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/009.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "标志",
+      "拉链",
+      "肩带",
+      "口袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/010.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/011.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/012.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "拉链",
+      "肩带",
+      "提手",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/013.jpg": {
+    "category": "双肩包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "提手"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_backpack/bag_backpack_007/014.jpg": {
+    "category": "双肩包",
+    "scene": "白底商品图",
+    "parts": [
+      "肩带",
+      "拉链",
+      "提手",
+      "侧袋"
+    ],
+    "vlm_category_raw": "双肩包"
+  },
+  "images/bag_handbag/bag_handbag_007/000.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "印花"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/001.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "可拆卸",
+      "拉链",
+      "印花"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/002.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "可拆卸",
+      "金属扣",
+      "吊牌"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/003.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "拉链"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/004.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/005.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/006.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "可拆卸",
+      "金属扣",
+      "拉链"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/007.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "金属扣"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/008.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "肩带",
+      "拉链"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/009.jpg": {
+    "category": "手提包",
+    "scene": "手持展示",
+    "parts": [
+      "双提手",
+      "拉链",
+      "金属扣"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/010.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "拉链"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/011.jpg": {
+    "category": "手提包",
+    "scene": "带包装盒",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "肩带"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/012.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "肩带",
+      "拉链",
+      "金属扣"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/013.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "拉链",
+      "金属扣"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/bag_handbag/bag_handbag_007/014.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "印花"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/cosmetics/cosmetics_001/000.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体",
+      "标识"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/001.jpg": {
+    "category": "口红",
+    "scene": "白底商品图",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/002.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/003.jpg": {
+    "category": "口红",
+    "scene": "实拍场景",
+    "parts": [
+      "膏体",
+      "管身",
+      "标识"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/004.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/005.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/006.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/007.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/008.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/009.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/010.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/011.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "装饰",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/012.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/013.jpg": {
+    "category": "口红",
+    "scene": "手持展示",
+    "parts": [
+      "管身",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_001/014.jpg": {
+    "category": "口红",
+    "scene": "实拍场景",
+    "parts": [
+      "管身",
+      "装饰",
+      "盖子",
+      "膏体"
+    ],
+    "vlm_category_raw": "口红"
+  },
+  "images/cosmetics/cosmetics_006/000.jpg": {
+    "category": "长裤",
+    "scene": "手持展示",
+    "parts": [
+      "印花"
+    ],
+    "vlm_category_raw": "长裤"
+  },
+  "images/cosmetics/cosmetics_006/001.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶身",
+      "盖子"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/002.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/003.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/004.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/005.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/006.jpg": {
+    "category": "洗护用品",
+    "scene": "带包装盒",
+    "parts": [
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/007.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/008.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/009.jpg": {
+    "category": "洗护用品",
+    "scene": "带包装盒",
+    "parts": [
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/010.jpg": {
+    "category": "香水",
+    "scene": "手持展示",
+    "parts": [
+      "标识"
+    ],
+    "vlm_category_raw": "香水"
+  },
+  "images/cosmetics/cosmetics_006/011.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "标识",
+      "装饰"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/012.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/013.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "按压泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/cosmetics/cosmetics_006/014.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_005/000.jpg": {
+    "category": "保健品",
+    "scene": "白底商品图",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "文字",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/001.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/002.jpg": {
+    "category": "保健品",
+    "scene": "白底商品图",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/003.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/004.jpg": {
+    "category": "保健品",
+    "scene": "白底商品图",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "标签",
+      "标识"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/005.jpg": {
+    "category": "保健品",
+    "scene": "白底商品图",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "条形码"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/006.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/007.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "标识"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/008.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/009.jpg": {
+    "category": "保健品",
+    "scene": "带包装盒",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/010.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/011.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "瓶盖",
+      "文字",
+      "纹理"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/012.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "标签",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/013.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_005/014.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/000.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶身",
+      "标签",
+      "条形码"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_007/001.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "标签",
+      "条形码"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_007/002.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶身",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_007/003.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "标签",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/004.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/005.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "标识"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/006.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/007.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "文字",
+      "条形码"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/008.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/009.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "标签",
+      "图案",
+      "瓶盖",
+      "瓶身"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/010.jpg": {
+    "category": "保健品",
+    "scene": "白底商品图",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "装饰"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/011.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "装饰",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/012.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/013.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "胶囊",
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_007/014.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/000.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_008/001.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_008/002.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_008/003.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "条形码"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/004.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/005.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/006.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/007.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "条形码",
+      "文字"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/008.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "标识"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/009.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/010.jpg": {
+    "category": "保健品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "图案",
+      "条形码"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/011.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "文字",
+      "瓶身"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/012.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "文字",
+      "图案"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/health_supplement/health_supplement_008/013.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/health_supplement/health_supplement_008/014.jpg": {
+    "category": "保健品",
+    "scene": "实拍场景",
+    "parts": [
+      "标签",
+      "标识"
+    ],
+    "vlm_category_raw": "保健品"
+  },
+  "images/household_detergent/household_detergent_008/000.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "袋装",
+      "标签",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/001.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/002.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/003.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案",
+      "标识",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/004.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/005.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "袋装",
+      "文字标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/006.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "标识",
+      "标签",
+      "泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/007.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/008.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/009.jpg": {
+    "category": "婴儿用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "婴儿用品"
+  },
+  "images/household_detergent/household_detergent_008/010.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/011.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/012.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/013.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "提手"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/household_detergent/household_detergent_008/014.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "图案",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/jewelry/jewelry_005/000.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "链条",
+      "吊坠",
+      "镶嵌"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/001.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "链条",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/002.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠",
+      "镶嵌",
+      "延长链"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/003.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "吊坠",
+      "绒布盒"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/004.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠",
+      "镶嵌",
+      "耳钩"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/005.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠",
+      "碎钻"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/006.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠",
+      "碎钻"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/007.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/008.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "链条",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/009.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "吊坠",
+      "链条",
+      "吊牌"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/010.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "吊坠",
+      "链条",
+      "礼盒"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/011.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "天鹅",
+      "链条",
+      "镶嵌"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/012.jpg": {
+    "category": "项链",
+    "scene": "手持展示",
+    "parts": [
+      "天鹅",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/013.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠",
+      "吊牌"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_005/014.jpg": {
+    "category": "项链",
+    "scene": "带包装盒",
+    "parts": [
+      "链条",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/000.jpg": {
+    "category": "项链",
+    "scene": "白底商品图",
+    "parts": [
+      "吊坠",
+      "装饰",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/001.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "细链",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/002.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "细链",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/003.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "吊坠",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/004.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "天鹅",
+      "细链"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/005.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "天鹅",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/006.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "天鹅",
+      "细链"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/007.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "细链",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/008.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "吊坠",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/009.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "吊坠",
+      "细链"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/010.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/011.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "细链",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/012.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "天鹅",
+      "细链"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/013.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "天鹅",
+      "链条"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/jewelry/jewelry_008/014.jpg": {
+    "category": "项链",
+    "scene": "实拍场景",
+    "parts": [
+      "链条",
+      "吊坠"
+    ],
+    "vlm_category_raw": "项链"
+  },
+  "images/luggage/luggage_007/000.jpg": {
+    "category": "行李箱",
+    "scene": "白底商品图",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/001.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "拉链",
+      "提手"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/002.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "伸缩拉杆",
+      "万向轮",
+      "纹理",
+      "拉链"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/003.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "拉杆",
+      "提手",
+      "万向轮"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/004.jpg": {
+    "category": "行李箱",
+    "scene": "白底商品图",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "密码锁",
+      "提手"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/005.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "伸缩拉杆",
+      "万向轮"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/006.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "滚轮",
+      "提手"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/007.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "滚轮",
+      "锁扣"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/008.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "伸缩拉杆",
+      "万向轮",
+      "锁扣"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/009.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "伸缩拉杆",
+      "提手",
+      "万向轮"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/010.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "提手",
+      "万向轮"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/011.jpg": {
+    "category": "行李箱",
+    "scene": "白底商品图",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "侧提手",
+      "锁扣"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/012.jpg": {
+    "category": "行李箱",
+    "scene": "白底商品图",
+    "parts": [
+      "伸缩拉杆",
+      "提手",
+      "万向轮",
+      "锁扣"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/013.jpg": {
+    "category": "行李箱",
+    "scene": "实拍场景",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "密码锁",
+      "提手"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/luggage/luggage_007/014.jpg": {
+    "category": "行李箱",
+    "scene": "白底商品图",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "提手",
+      "拉链"
+    ],
+    "vlm_category_raw": "行李箱"
+  },
+  "images/personal_care/personal_care_006/000.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "图案"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/001.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/002.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/003.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "文字"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/004.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/005.jpg": {
+    "category": "化妆品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "化妆品"
+  },
+  "images/personal_care/personal_care_006/006.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身",
+      "按压泵头",
+      "图案",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/007.jpg": {
+    "category": "化妆品",
+    "scene": "实拍场景",
+    "parts": [
+      "管身",
+      "标签",
+      "盖子",
+      "图案"
+    ],
+    "vlm_category_raw": "化妆品"
+  },
+  "images/personal_care/personal_care_006/008.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "图案",
+      "文字"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/009.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/010.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/011.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "标签",
+      "文字"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/012.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "装饰"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/013.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_006/014.jpg": {
+    "category": "洗护用品",
+    "scene": "实拍场景",
+    "parts": [
+      "按压泵头",
+      "文字",
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/000.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "图案",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/001.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/002.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "图案",
+      "装饰"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/003.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "图案",
+      "文字"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/004.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "软管",
+      "按压泵头",
+      "标识",
+      "说明"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/005.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/006.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "装饰"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/007.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "装饰",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/008.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/009.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "瓶身",
+      "按压泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/010.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/011.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/012.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "标签"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/013.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/personal_care/personal_care_008/014.jpg": {
+    "category": "洗护用品",
+    "scene": "手持展示",
+    "parts": [
+      "按压泵头",
+      "瓶身",
+      "标识"
+    ],
+    "vlm_category_raw": "洗护用品"
+  },
+  "images/purse_wallet/purse_wallet_001/000.jpg": {
+    "category": "领带",
+    "scene": "实拍场景",
+    "parts": [],
+    "vlm_category_raw": "领带"
+  },
+  "images/purse_wallet/purse_wallet_001/001.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "金属扣"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/002.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "金属扣"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/003.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "装饰"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/004.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "图案",
+      "卡槽",
+      "纹理"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/005.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "纹理",
+      "金属标",
+      "翻盖"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/006.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "金属扣",
+      "装饰",
+      "翻盖",
+      "压纹"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/007.jpg": {
+    "category": "手提包",
+    "scene": "实拍场景",
+    "parts": [
+      "纹理"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/purse_wallet/purse_wallet_001/008.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "翻盖",
+      "金属标",
+      "缝线"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/009.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "翻盖",
+      "缝线",
+      "金属标"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/010.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "纹理"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/011.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "拉链",
+      "压纹",
+      "缝线"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/012.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "缝线",
+      "纹理"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/013.jpg": {
+    "category": "钱包",
+    "scene": "带包装盒",
+    "parts": [
+      "缝线",
+      "拉链头"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_001/014.jpg": {
+    "category": "钱包",
+    "scene": "实拍场景",
+    "parts": [
+      "缝线",
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/000.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链",
+      "缝线"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/001.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "纹理",
+      "金属标",
+      "翻盖"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/002.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "金属标",
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/003.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/004.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "装饰",
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/005.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "菱格纹",
+      "金属标",
+      "缝线",
+      "翻盖"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/006.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "纹理",
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/007.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "纹理",
+      "拉链"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/008.jpg": {
+    "category": "手提包",
+    "scene": "手持展示",
+    "parts": [
+      "纹理"
+    ],
+    "vlm_category_raw": "手提包"
+  },
+  "images/purse_wallet/purse_wallet_005/009.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链",
+      "金属扣",
+      "装饰"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/010.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链",
+      "纹理"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/011.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "缝线",
+      "拉链头"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/012.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "金属标",
+      "缝线",
+      "翻盖"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/013.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "缝线",
+      "翻盖"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/purse_wallet/purse_wallet_005/014.jpg": {
+    "category": "钱包",
+    "scene": "手持展示",
+    "parts": [
+      "拉链",
+      "纹理",
+      "缝线"
+    ],
+    "vlm_category_raw": "钱包"
+  },
+  "images/shoes_kids/shoes_kids_003/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "鞋身",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/001.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "鞋身",
+      "系带",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/002.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "厚底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/003.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "网面",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/004.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "鞋面",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/005.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "网面",
+      "魔术贴",
+      "厚底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "网面",
+      "系带",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "魔术贴",
+      "网面",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/008.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/010.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "网面",
+      "系带",
+      "内衬",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/012.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋舌",
+      "防撞"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/013.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "网面",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_003/014.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋带",
+      "鞋底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/001.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/002.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "内衬",
+      "鞋底",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/003.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋面",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/004.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "魔术贴",
+      "鞋带",
+      "鞋舌",
+      "鞋口"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/005.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/006.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "鞋带",
+      "网面",
+      "低帮"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/008.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "网面",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/010.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/012.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "网面"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/013.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "网面",
+      "魔术贴",
+      "低帮",
+      "鞋垫"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_005/014.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "内衬",
+      "标识"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬",
+      "缝线"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/001.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "魔术贴",
+      "低帮"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/002.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/003.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "内衬"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/004.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/005.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "魔术贴",
+      "低帮"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "内衬",
+      "缝线",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/008.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "内衬"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/010.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "魔术贴",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "内衬",
+      "低帮",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/012.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/013.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_kids/shoes_kids_007/014.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "内衬"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/000.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/001.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/002.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "镂空",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/003.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "拼接",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/004.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/005.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/006.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "光面",
+      "尖头",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/007.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/008.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "光面",
+      "圆头",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/009.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/010.jpg": {
+    "category": "短靴",
+    "scene": "实拍场景",
+    "parts": [
+      "圆头",
+      "缝线"
+    ],
+    "vlm_category_raw": "短靴"
+  },
+  "images/shoes_leather/shoes_leather_002/011.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/012.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "光面",
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/013.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "光面",
+      "褶皱",
+      "装饰"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_002/014.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/000.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "纹理",
+      "圆头",
+      "装饰"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/001.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/002.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "光面",
+      "尖头",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/003.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/004.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/005.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "一脚蹬",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/006.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "圆头",
+      "一脚蹬",
+      "褶皱"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/007.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/008.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "厚底",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/009.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/010.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "光面",
+      "厚底",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/012.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "纹理",
+      "一脚蹬",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/013.jpg": {
+    "category": "皮鞋",
+    "scene": "手持展示",
+    "parts": [
+      "一脚蹬",
+      "装饰",
+      "厚底",
+      "内衬"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_003/014.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋带",
+      "鞋面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/000.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/001.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "镂空",
+      "印花"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/002.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "方头",
+      "缝线",
+      "内衬"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/003.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/004.jpg": {
+    "category": "皮鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "一脚蹬",
+      "方头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/005.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "一脚蹬",
+      "圆头",
+      "厚底",
+      "内衬"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/006.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "标识",
+      "缝线"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/007.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/008.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "一脚蹬",
+      "装饰",
+      "褶皱"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/009.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "方头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/010.jpg": {
+    "category": "皮鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "镂空",
+      "一脚蹬",
+      "厚底",
+      "鞋垫"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/011.jpg": {
+    "category": "皮鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/012.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/013.jpg": {
+    "category": "皮鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "一脚蹬",
+      "装饰",
+      "缝线",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_005/014.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "后跟",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/001.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/002.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/003.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/004.jpg": {
+    "category": "运动鞋",
+    "scene": "手持展示",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/005.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "中底",
+      "拼接",
+      "高帮"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/008.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "缝线"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/010.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "高帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/012.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "鞋带",
+      "厚底",
+      "高帮"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/013.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_006/014.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/000.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "尖头",
+      "低帮",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/001.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "缝线",
+      "低帮",
+      "一脚蹬"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/002.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/003.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/004.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "鞋头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/005.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "一脚蹬",
+      "低帮",
+      "厚底",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/006.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "尖头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/007.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "一脚蹬",
+      "装饰",
+      "圆头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/008.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/009.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/010.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "一脚蹬",
+      "低帮",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/011.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "一脚蹬",
+      "圆头",
+      "装饰",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/012.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "尖头",
+      "低帮"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/013.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "尖头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_007/014.jpg": {
+    "category": "皮鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "镂空",
+      "一脚蹬",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/000.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/001.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/002.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "装饰",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/003.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/004.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/005.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/007.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/008.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/009.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/010.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/011.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/012.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/013.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_leather/shoes_leather_008/014.jpg": {
+    "category": "运动鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "中底",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_002/000.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮",
+      "厚底"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/001.jpg": {
+    "category": "雨伞",
+    "scene": "手持展示",
+    "parts": [
+      "折叠"
+    ],
+    "vlm_category_raw": "雨伞"
+  },
+  "images/shoes_other/shoes_other_002/002.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "拼接"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/003.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋带"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/004.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/005.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/006.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/007.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/008.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_002/010.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "装饰",
+      "一脚蹬",
+      "方头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/011.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "纹理",
+      "低帮",
+      "一脚蹬"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/012.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_002/013.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_002/014.jpg": {
+    "category": "皮鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋带"
+    ],
+    "vlm_category_raw": "皮鞋"
+  },
+  "images/shoes_other/shoes_other_004/000.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/001.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "鞋跟"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/002.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "后跟",
+      "镂空",
+      "鞋底"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/003.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/004.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "中底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/005.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "后跟",
+      "厚底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/006.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/007.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "后跟",
+      "厚底"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/008.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "镂空",
+      "后跟",
+      "厚底"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/009.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "后跟",
+      "镂空",
+      "厚底"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/010.jpg": {
+    "category": "凉鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/011.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/012.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "后跟",
+      "厚底",
+      "镂空"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/013.jpg": {
+    "category": "凉鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "魔术贴",
+      "低帮"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_004/014.jpg": {
+    "category": "凉鞋",
+    "scene": "白底商品图",
+    "parts": [
+      "魔术贴",
+      "镂空",
+      "厚底",
+      "鞋头"
+    ],
+    "vlm_category_raw": "凉鞋"
+  },
+  "images/shoes_other/shoes_other_005/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/001.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/002.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/003.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋舌",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/004.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/005.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "装饰"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/008.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/009.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "后跟"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/010.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/012.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚底",
+      "鞋面"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/013.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_other/shoes_other_005/014.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/000.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/001.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/002.jpg": {
+    "category": "运动鞋",
+    "scene": "手持展示",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/003.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/004.jpg": {
+    "category": "运动鞋",
+    "scene": "手持展示",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/005.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/006.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/007.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "印花",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/008.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "中底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/009.jpg": {
+    "category": "运动鞋",
+    "scene": "带包装盒",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋舌"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/010.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头",
+      "厚底"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/011.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/012.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋带",
+      "鞋头"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/013.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/014.jpg": {
+    "category": "运动鞋",
+    "scene": "实拍场景",
+    "parts": [
+      "系带",
+      "低帮",
+      "鞋头",
+      "鞋带"
+    ],
+    "vlm_category_raw": "运动鞋"
+  },
+  "images/toy_vehicle/toy_vehicle_003/000.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "方向盘"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/001.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "防撞杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/002.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/003.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "防撞杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/004.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "防撞杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/005.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "防撞杠",
+      "车顶灯",
+      "贴纸"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/006.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "方向盘"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/007.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "保险杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/008.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "车身"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/009.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "方向盘",
+      "轮胎"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/010.jpg": {
+    "category": "玩具车",
+    "scene": "带包装盒",
+    "parts": [
+      "轮胎",
+      "车身"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/011.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/012.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "保险杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/013.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎",
+      "防撞杠"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/toy_vehicle/toy_vehicle_003/014.jpg": {
+    "category": "玩具车",
+    "scene": "实拍场景",
+    "parts": [
+      "轮胎"
+    ],
+    "vlm_category_raw": "玩具车"
+  },
+  "images/watch/watch_001/000.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "表冠",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/001.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/002.jpg": {
+    "category": "手表",
+    "scene": "带包装盒",
+    "parts": [
+      "指针",
+      "按钮",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/003.jpg": {
+    "category": "手表",
+    "scene": "白底商品图",
+    "parts": [
+      "表盘",
+      "表圈",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/004.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/005.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/006.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表带",
+      "表圈",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/007.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "小表盘",
+      "表壳",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/008.jpg": {
+    "category": "手表",
+    "scene": "白底商品图",
+    "parts": [
+      "指针",
+      "表带",
+      "按钮",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/009.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "表冠",
+      "按钮",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/010.jpg": {
+    "category": "手表",
+    "scene": "带包装盒",
+    "parts": [
+      "指针",
+      "表冠",
+      "按钮",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/011.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "指针",
+      "表冠",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/012.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表冠",
+      "表圈",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/013.jpg": {
+    "category": "手表",
+    "scene": "白底商品图",
+    "parts": [
+      "表盘",
+      "表冠",
+      "表带",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_001/014.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表带",
+      "表扣",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/000.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/001.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表圈",
+      "表带",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/002.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表壳",
+      "表带",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/003.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "表带",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/004.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表带",
+      "指针",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/005.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "指针",
+      "日历窗",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/006.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "指针",
+      "日历窗",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/007.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "表带",
+      "表圈"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/008.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "表带",
+      "表壳"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/009.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "表带",
+      "表壳"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/010.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/011.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/012.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "刻度",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/013.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表带",
+      "表壳",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_002/014.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "刻度",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/000.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/001.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/002.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "表圈"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/003.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "日历窗",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/004.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表壳",
+      "表带",
+      "日历窗",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/005.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "日历窗",
+      "指针",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/006.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "日历窗",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/007.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "日历窗",
+      "指针",
+      "表盘"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/008.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "金属表带",
+      "表盘"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/009.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/010.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/011.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/012.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/013.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_004/014.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "刻度",
+      "表圈",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/000.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "装饰",
+      "金属表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/001.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "表冠",
+      "按钮",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/002.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表盘",
+      "表圈",
+      "指针",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/003.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表圈",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/004.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表圈",
+      "指针",
+      "表带",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/005.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表圈",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/006.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "标识",
+      "表盘",
+      "表圈",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/007.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/008.jpg": {
+    "category": "手表",
+    "scene": "白底商品图",
+    "parts": [
+      "表盘",
+      "指针",
+      "刻度",
+      "小表盘"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/009.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/010.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/011.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "按钮",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/012.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表带",
+      "表盘",
+      "按钮",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/013.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_005/014.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "表圈",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/000.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/001.jpg": {
+    "category": "手表",
+    "scene": "带包装盒",
+    "parts": [
+      "表圈",
+      "指针",
+      "表带",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/002.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "表圈",
+      "指针",
+      "刻度",
+      "按钮"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/003.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表圈",
+      "表带",
+      "指针"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/004.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "表圈",
+      "指针",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/005.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "刻度",
+      "表带",
+      "表壳"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/006.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "日历窗",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/007.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "指针",
+      "刻度",
+      "表冠"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/008.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "表盘",
+      "金属表带",
+      "小表盘",
+      "表壳"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/009.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "小表盘",
+      "日期窗"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/010.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/011.jpg": {
+    "category": "手表",
+    "scene": "手持展示",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "小表盘",
+      "测速圈"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/012.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "金属表带",
+      "表盘",
+      "刻度"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/013.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "按钮",
+      "表带"
+    ],
+    "vlm_category_raw": "手表"
+  },
+  "images/watch/watch_008/014.jpg": {
+    "category": "手表",
+    "scene": "实拍场景",
+    "parts": [
+      "指针",
+      "表冠",
+      "按钮",
+      "标识"
+    ],
+    "vlm_category_raw": "手表"
+  }
+}

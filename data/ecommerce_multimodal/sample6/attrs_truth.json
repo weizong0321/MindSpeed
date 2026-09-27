@@ -1,0 +1,8440 @@
+{
+  "images/accessories/accessories_001/000.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "飞行员款",
+      "金属细框",
+      "深色镜片",
+      "透明鼻托",
+      "金属镜腿"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_001/001.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/002.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/003.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "飞行员款",
+      "深色镜片",
+      "金属镜架",
+      "挂绳"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_001/004.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "双梁设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/005.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "双梁设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/006.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/007.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/008.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/009.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/010.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_001/011.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "渐变镜片",
+      "多色可选"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_001/012.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "彩色镜片",
+      "镜腿"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_001/013.jpg": {
+    "category": "太阳镜",
+    "color": "红",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/accessories/accessories_001/014.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "深色镜片",
+      "金属镜框",
+      "镜腿",
+      "标签"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_002/000.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "皮带扣",
+      "皮带孔",
+      "缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/001.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "压印品牌",
+      "缝线",
+      "礼盒包装"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_002/002.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "皮带",
+      "压纹"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_002/003.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "压印logo",
+      "缝线",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/004.jpg": {
+    "category": "皮带",
+    "color": "棕",
+    "parts": [
+      "金属扣",
+      "缝线",
+      "压印图案"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_002/005.jpg": {
+    "category": "皮带",
+    "color": "棕",
+    "parts": [
+      "金属扣",
+      "皮革带身",
+      "白色缝线",
+      "尺码标"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_002/006.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "鳄鱼纹压花",
+      "金属T型扣",
+      "菱形格纹扣面",
+      "缝线边缘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/007.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "纹理扣面",
+      "皮革带身"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_002/008.jpg": {
+    "category": "手表",
+    "color": "蓝",
+    "parts": [
+      "编织表带",
+      "金属表扣",
+      "变形金刚标志",
+      "红色笔"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/009.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "编织纹理",
+      "银色扣头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/010.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "金属表壳",
+      "皮质表带",
+      "圆形表盘",
+      "金属表扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/011.jpg": {
+    "category": "手表",
+    "color": "棕",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "棕色皮质表带",
+      "金属表扣",
+      "银色表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/012.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "皮带",
+      "编织纹理"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/013.jpg": {
+    "category": "皮带",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "压花图案",
+      "皮革带身",
+      "品牌标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_002/014.jpg": {
+    "category": "皮带",
+    "color": "棕",
+    "parts": [
+      "金属扣",
+      "皮质带身",
+      "品牌刻字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/000.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "挂绳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/001.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托",
+      "镜腿铰链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_004/002.jpg": {
+    "category": "太阳镜",
+    "color": "金",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "反光镜片"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/003.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "渐变镜片",
+      "金属铰链",
+      "纹理镜腿"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/004.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "黄色镜片",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/005.jpg": {
+    "category": "太阳镜",
+    "color": "灰",
+    "parts": [
+      "可调节鼻托",
+      "弹簧镜腿",
+      "金属镜架",
+      "深色镜片"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/006.jpg": {
+    "category": "太阳镜",
+    "color": "灰",
+    "parts": [
+      "金属镜框",
+      "深色镜片",
+      "黑色镜腿",
+      "鼻托"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/007.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/008.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属螺丝",
+      "镜腿"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/009.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/010.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "塑料镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/011.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/012.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "渐变镜片",
+      "金属镜腿",
+      "品牌标识"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/accessories/accessories_004/013.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_004/014.jpg": {
+    "category": "太阳镜",
+    "color": "银",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/000.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "镜腿刻字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/001.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属装饰",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/002.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "透明镜片",
+      "镜腿铰链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/003.jpg": {
+    "category": "太阳镜",
+    "color": "棕",
+    "parts": [
+      "玳瑁色镜框",
+      "金属铰链",
+      "鼻托",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/004.jpg": {
+    "category": "太阳镜",
+    "color": "棕",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "镜盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/005.jpg": {
+    "category": "太阳镜",
+    "color": "棕",
+    "parts": [
+      "玳瑁色镜框",
+      "透明镜片",
+      "金属铰链",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/006.jpg": {
+    "category": "眼镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "透明镜片",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/007.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/008.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "透明镜片",
+      "金属镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/009.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "细框",
+      "鼻托",
+      "镜腿",
+      "透明镜片"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/010.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/011.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "透明镜片"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/012.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/013.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "塑料镜腿"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_005/014.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "金属边框",
+      "深色镜片",
+      "黑色镜腿",
+      "鼻托"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/000.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "红色包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/001.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/accessories/accessories_007/002.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "深色镜片",
+      "金属镜腿",
+      "标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/003.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "金属镜腿",
+      "深色镜片",
+      "镜框",
+      "镜布",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/004.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "交叉放置"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/005.jpg": {
+    "category": "太阳镜",
+    "color": "金",
+    "parts": [
+      "金属镜框",
+      "反光镜片",
+      "鼻托",
+      "镜腿",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/006.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "金属镜腿",
+      "深色镜片"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/007.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "橙色镜片",
+      "镜腿",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/008.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "橙色镜片",
+      "镜腿",
+      "收纳袋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/009.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "镜腿",
+      "白色标签",
+      "眼镜盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/accessories/accessories_007/010.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "半框",
+      "深色镜片",
+      "镜腿"
+    ],
+    "scene": "手持展示"
+  },
+  "images/accessories/accessories_007/011.jpg": {
+    "category": "太阳镜",
+    "color": "棕",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/accessories/accessories_007/012.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "雕花镜腿",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/013.jpg": {
+    "category": "太阳镜",
+    "color": "黑",
+    "parts": [
+      "大框",
+      "深色镜片",
+      "金属镜腿",
+      "防尘袋",
+      "吊牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/accessories/accessories_007/014.jpg": {
+    "category": "太阳镜",
+    "color": "蓝",
+    "parts": [
+      "深色镜片",
+      "金属镜腿",
+      "镜盒",
+      "吊牌",
+      "收据"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/000.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳腰头",
+      "侧边口袋",
+      "束脚口",
+      "裤脚罗纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/001.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧袋",
+      "束脚口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/002.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "束脚口",
+      "宽松版型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/003.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "束脚口",
+      "印花图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/004.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧边拉链",
+      "口袋",
+      "松紧腰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/005.jpg": {
+    "category": "短裤",
+    "color": "灰",
+    "parts": [
+      "抽绳腰头",
+      "侧边字母装饰",
+      "宽松版型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/006.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "拼接设计",
+      "束脚口",
+      "抽绳腰头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/007.jpg": {
+    "category": "长裤",
+    "color": "蓝",
+    "parts": [
+      "抽绳",
+      "直筒裤腿"
+    ],
+    "scene": "手持展示"
+  },
+  "images/apparel_pants/apparel_pants_008/008.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "腰带",
+      "纽扣",
+      "侧边口袋",
+      "裤脚"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/009.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "侧边口袋",
+      "直筒裤腿",
+      "腰部松紧带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/010.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧边条纹",
+      "口袋",
+      "吊牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/011.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧边口袋",
+      "束脚口",
+      "胸前贴标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/012.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧边口袋",
+      "束脚口",
+      "胸前贴标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/013.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "抽绳腰头",
+      "侧边条纹",
+      "束脚口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_pants/apparel_pants_008/014.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "侧边口袋",
+      "松紧腰",
+      "裤脚收口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/000.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "侧边口袋",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/001.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/002.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边条纹",
+      "侧边标志",
+      "罗纹裤脚"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/003.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "白色品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/004.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "抽绳",
+      "印花",
+      "平铺"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/005.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "品牌字母腰头",
+      "平角剪裁"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/006.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "抽绳",
+      "侧边口袋",
+      "印花"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/007.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "抽绳",
+      "刺绣",
+      "松紧腰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/008.jpg": {
+    "category": "短裤",
+    "color": "黑白",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "拼接色块",
+      "平铺展示"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/009.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "侧边条纹",
+      "品牌Logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/010.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "腰带袢",
+      "侧袋",
+      "裤脚"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/011.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "腰带袢",
+      "纽扣",
+      "侧边口袋",
+      "松紧腰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/012.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "抽绳",
+      "拼接色块",
+      "侧边缝线",
+      "品牌字母"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/013.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边拉链",
+      "亮色装饰线",
+      "左腿印花"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_001/014.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边反光条",
+      "侧面透气孔",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/000.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "侧边口袋",
+      "松紧腰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/001.jpg": {
+    "category": "短裤",
+    "color": "蓝",
+    "parts": [
+      "松紧腰",
+      "侧边拉链",
+      "品牌标志",
+      "宽松版型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/002.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰头",
+      "侧边拉链口袋",
+      "侧边白色标志",
+      "平铺摆放"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/003.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "侧边口袋",
+      "品牌标志"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/004.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/005.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边缝线",
+      "下摆包边",
+      "品牌标志"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/006.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "抽绳",
+      "松紧腰",
+      "侧边口袋",
+      "裤脚"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/007.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "抽绳",
+      "侧边口袋",
+      "品牌标志"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/008.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "抽绳腰头",
+      "侧边口袋",
+      "黄色Logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/009.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "弧形品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/010.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "左下Logo"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/apparel_shorts/apparel_shorts_003/011.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边三条杠",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/012.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "黄色标志"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/013.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边口袋",
+      "裤脚收口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_shorts/apparel_shorts_003/014.jpg": {
+    "category": "短裤",
+    "color": "黑",
+    "parts": [
+      "松紧腰",
+      "侧边拉链",
+      "品牌标志",
+      "宽松版型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/000.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "连帽",
+      "拉链",
+      "红色标签",
+      "红色文字",
+      "绗缝"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/001.jpg": {
+    "category": "羽绒服",
+    "color": "灰",
+    "parts": [
+      "连帽",
+      "横向绗缝",
+      "短款",
+      "长袖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/002.jpg": {
+    "category": "羽绒服",
+    "color": "蓝",
+    "parts": [
+      "连帽",
+      "绗缝",
+      "长袖",
+      "袖口收紧"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/003.jpg": {
+    "category": "羽绒服",
+    "color": "蓝",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "口袋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/004.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "绗缝格纹",
+      "松紧腰头",
+      "侧边拉链",
+      "裤脚收口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/005.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "立领",
+      "拉链",
+      "绗缝",
+      "内衬"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/006.jpg": {
+    "category": "羽绒服",
+    "color": "灰",
+    "parts": [
+      "立领",
+      "拉链",
+      "绗缝",
+      "抽绳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/007.jpg": {
+    "category": "羽绒服",
+    "color": "灰",
+    "parts": [
+      "绗缝格纹",
+      "长袖",
+      "袖口收紧",
+      "蓬松填充"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/008.jpg": {
+    "category": "羽绒服",
+    "color": "蓝",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "抽绳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/009.jpg": {
+    "category": "羽绒服",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "吊牌",
+      "绗缝纹理",
+      "立领"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/010.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "长袖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/011.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "胸前口袋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/012.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "连帽",
+      "拉链",
+      "绗缝",
+      "纽扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/013.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "绗缝",
+      "立领",
+      "粉色Logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/apparel_top/apparel_top_002/014.jpg": {
+    "category": "羽绒服",
+    "color": "黑",
+    "parts": [
+      "绗缝格纹",
+      "长袖",
+      "立领",
+      "宽松版型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/000.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "导风板",
+      "能效标识",
+      "电源插座",
+      "管线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/001.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "控制面板",
+      "排水管",
+      "铭牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/002.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "显示屏",
+      "连接管",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/003.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "控制面板",
+      "连接管",
+      "铭牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/004.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "控制面板",
+      "能效标识",
+      "挂墙安装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/005.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "电源线",
+      "插座"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/006.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "品牌Logo",
+      "导风板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/007.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "能效标识",
+      "电源指示灯",
+      "出风口格栅",
+      "连接管线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/008.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "铭牌",
+      "排水管",
+      "挂墙支架"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/009.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口格栅",
+      "电源插头",
+      "能效标识",
+      "静音标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/010.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "长方形机身",
+      "侧面标签",
+      "电源插头",
+      "指示灯"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/011.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "显示屏",
+      "品牌标识",
+      "能效标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/012.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "电源线",
+      "金属装饰条"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/013.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "出风口",
+      "能效标识",
+      "控制面板",
+      "导风板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_001/014.jpg": {
+    "category": "空调",
+    "color": "白",
+    "parts": [
+      "导风板",
+      "能效标识",
+      "电源线",
+      "装饰线条"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/000.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "透明顶盖",
+      "控制面板",
+      "圆形旋钮",
+      "塑料包装膜",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/001.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "透明顶盖",
+      "控制面板",
+      "数字显示屏",
+      "品牌标识",
+      "能效标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/002.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "电源按钮",
+      "旋钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/003.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "透明顶盖",
+      "控制面板",
+      "旋钮",
+      "能效标识",
+      "进水软管"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/004.jpg": {
+    "category": "冷风机",
+    "color": "白",
+    "parts": [
+      "数字显示屏",
+      "风向调节按钮",
+      "出风口百叶窗",
+      "电源开关"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/005.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "透明顶盖",
+      "进水口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/006.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "品牌标识",
+      "能效标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/007.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "蓝色能效标识",
+      "橙色底座"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/008.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "能效标识",
+      "品牌贴纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/009.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "圆形内桶",
+      "电源插座"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/010.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "数字显示屏",
+      "透明顶盖",
+      "电源插头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/011.jpg": {
+    "category": "洗衣机",
+    "color": "灰",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "内桶",
+      "电源按钮",
+      "水位选择"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/012.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "品牌标识",
+      "能效标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/013.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明视窗",
+      "顶部进水口",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_002/014.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/000.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "机身贴纸",
+      "进水管",
+      "排水口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/001.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "翻盖",
+      "控制面板",
+      "透明视窗",
+      "塑料包装",
+      "底座"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/002.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "机身竖条纹",
+      "圆形旋钮",
+      "贴纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/003.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "顶盖",
+      "万向轮",
+      "机身"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/004.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "侧面把手",
+      "底部排水口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/005.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "数字显示屏",
+      "顶盖",
+      "进水管",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/006.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "顶开盖",
+      "排水管",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/007.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "控制面板",
+      "能效标识",
+      "贴纸",
+      "顶盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/008.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "顶盖",
+      "控制面板",
+      "进水管",
+      "排水管",
+      "翻盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/009.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "塑料机身",
+      "底座支架"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/010.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "控制面板",
+      "透明顶盖",
+      "排水软管",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/011.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "双缸",
+      "透明视窗",
+      "旋钮控制",
+      "贴纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/012.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "双缸",
+      "旋钮",
+      "透明盖板",
+      "竖条纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/013.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "双桶",
+      "控制面板",
+      "波纹排水管",
+      "顶盖",
+      "机身竖条纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_004/014.jpg": {
+    "category": "洗衣机",
+    "color": "白",
+    "parts": [
+      "双缸",
+      "旋钮",
+      "透明盖板",
+      "竖条纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/000.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "数字显示屏",
+      "旋钮",
+      "洗涤剂盒",
+      "底部检修门"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/001.jpg": {
+    "category": "洗衣机",
+    "color": "金",
+    "parts": [
+      "圆形门",
+      "数字显示屏",
+      "旋钮",
+      "控制面板",
+      "底部检修口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/002.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "控制面板",
+      "旋钮",
+      "显示屏",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/003.jpg": {
+    "category": "洗衣机",
+    "color": "金",
+    "parts": [
+      "圆形门",
+      "数字显示屏",
+      "旋钮",
+      "控制面板",
+      "底部检修口"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/appliance_large/appliance_large_007/004.jpg": {
+    "category": "洗衣机",
+    "color": "金",
+    "parts": [
+      "圆形门",
+      "控制面板",
+      "旋钮",
+      "万向轮",
+      "顶部盖板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/005.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "数字显示屏",
+      "旋钮",
+      "控制面板",
+      "顶部盖板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/006.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "控制面板",
+      "旋钮",
+      "显示屏",
+      "透明内筒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/007.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "抽屉式洗涤剂盒",
+      "圆形门",
+      "触控显示屏",
+      "旋钮式控制面板",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/008.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "旋钮",
+      "显示屏",
+      "控制面板",
+      "顶部盖板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/009.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "控制面板",
+      "显示屏",
+      "旋钮",
+      "抽屉"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/010.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "控制面板",
+      "旋钮",
+      "显示屏",
+      "顶部盖板"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/011.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形玻璃门",
+      "控制面板",
+      "旋钮",
+      "蓝色贴纸",
+      "金属机身"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/012.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "旋钮",
+      "显示屏",
+      "控制面板",
+      "抽屉"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/013.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形玻璃门",
+      "数字显示屏",
+      "旋钮",
+      "顶部置物区",
+      "能效标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/appliance_large/appliance_large_007/014.jpg": {
+    "category": "洗衣机",
+    "color": "银",
+    "parts": [
+      "圆形门",
+      "旋钮",
+      "显示屏",
+      "控制面板",
+      "泡沫包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/000.jpg": {
+    "category": "婴儿用品",
+    "color": "蓝",
+    "parts": [
+      "手柄",
+      "宽口径",
+      "防胀气盖",
+      "卡通图案"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/001.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "奶瓶",
+      "奶嘴",
+      "吸管",
+      "刷具",
+      "配件"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/002.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "手柄",
+      "刻度",
+      "宽口径",
+      "防胀气设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/003.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "手柄",
+      "刻度线",
+      "奶嘴",
+      "吸嘴"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/004.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "双耳把手",
+      "宽口径",
+      "防胀气阀",
+      "硅胶奶嘴"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/005.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "宽口径",
+      "手柄",
+      "防胀气设计",
+      "刻度线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/006.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "双耳把手",
+      "刻度线",
+      "卡通长颈鹿图案",
+      "宽口径瓶身",
+      "白色瓶盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/007.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "双耳把手",
+      "刻度线",
+      "硅胶奶嘴",
+      "蓝色底座"
+    ],
+    "scene": "手持展示"
+  },
+  "images/baby_products/baby_products_004/008.jpg": {
+    "category": "婴儿用品",
+    "color": "白",
+    "parts": [
+      "宽口径",
+      "硅胶奶嘴",
+      "透明瓶身",
+      "防胀气设计"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/009.jpg": {
+    "category": "婴儿用品",
+    "color": "黄",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "硅胶奶嘴",
+      "透明瓶身",
+      "黄色底座"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/010.jpg": {
+    "category": "婴儿用品",
+    "color": "黄",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "硅胶底座",
+      "透明瓶身"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/011.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "宽口径",
+      "刻度线",
+      "硅胶奶嘴",
+      "黄色环带"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/012.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "宽口径",
+      "硅胶奶嘴",
+      "黄色瓶盖",
+      "黄色底座",
+      "防胀气设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_004/013.jpg": {
+    "category": "婴儿用品",
+    "color": "黄",
+    "parts": [
+      "刻度",
+      "宽口径",
+      "硅胶奶嘴",
+      "透明瓶身",
+      "黄色底座"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_004/014.jpg": {
+    "category": "婴儿用品",
+    "color": "透明",
+    "parts": [
+      "宽口径",
+      "刻度线",
+      "硅胶奶嘴",
+      "橙色底座"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/baby_products/baby_products_007/000.jpg": {
+    "category": "洗护用品",
+    "color": "粉",
+    "parts": [
+      "按压泵头",
+      "透明瓶身",
+      "草莓图案",
+      "格纹背景"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_007/001.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "透明瓶身",
+      "翻盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_007/002.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸嘴",
+      "透明瓶身",
+      "按压盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_007/003.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "猪鼻设计",
+      "双耳把手",
+      "刻度线",
+      "卡通贴纸",
+      "吸管"
+    ],
+    "scene": "手持展示"
+  },
+  "images/baby_products/baby_products_007/004.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "透明杯身",
+      "按压盖",
+      "卡通贴纸"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/005.jpg": {
+    "category": "婴儿用品",
+    "color": "蓝",
+    "parts": [
+      "吸管杯",
+      "带手柄",
+      "卡通图案",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/006.jpg": {
+    "category": "婴儿用品",
+    "color": "蓝",
+    "parts": [
+      "手柄",
+      "吸管",
+      "防胀气奶嘴",
+      "塑料包装"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/007.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "透明杯身",
+      "按压盖",
+      "防滑纹理"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/baby_products/baby_products_007/008.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "双耳把手",
+      "吸管",
+      "透明杯身",
+      "粉色盖子"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/009.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "透明杯身",
+      "粉色盖子"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/010.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "硅胶盖",
+      "刻度线"
+    ],
+    "scene": "手持展示"
+  },
+  "images/baby_products/baby_products_007/011.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "按压盖",
+      "透明杯身"
+    ],
+    "scene": "手持展示"
+  },
+  "images/baby_products/baby_products_007/012.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "双把手",
+      "吸管",
+      "透明杯身",
+      "硅胶配件"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/baby_products/baby_products_007/013.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "手柄",
+      "吸管",
+      "透明杯身",
+      "粉色盖子"
+    ],
+    "scene": "手持展示"
+  },
+  "images/baby_products/baby_products_007/014.jpg": {
+    "category": "婴儿用品",
+    "color": "粉",
+    "parts": [
+      "双耳把手",
+      "吸管",
+      "透明杯身",
+      "硅胶盖"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/bag_backpack/bag_backpack_001/000.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "胸前拉链袋",
+      "侧面网兜",
+      "红色装饰条",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/001.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "正面拉链袋",
+      "侧边网兜",
+      "红色十字标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/002.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "红色十字标",
+      "网状侧袋",
+      "顶部提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/003.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/004.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "正面拉链袋",
+      "红色十字标",
+      "肩带",
+      "侧面网兜"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/005.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "竖排文字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/006.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "瑞士十字标",
+      "网眼透气层",
+      "金属拉链头",
+      "侧袋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/007.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "红色十字标",
+      "多个拉链",
+      "肩带",
+      "侧袋",
+      "胸扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/008.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "瑞士十字标",
+      "顶部提手",
+      "胸前拉链袋",
+      "侧面网兜",
+      "红色拉链头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/009.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "胸前拉链袋",
+      "正面双拉链",
+      "红色十字标",
+      "侧边网兜"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/010.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "肩带",
+      "胸前口袋",
+      "侧袋",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/011.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "网兜",
+      "侧袋",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/012.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "肩带",
+      "拉链",
+      "胸前口袋",
+      "侧袋",
+      "提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/013.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "瑞士十字标",
+      "胸前拉链袋",
+      "侧边网兜",
+      "金属拉链头",
+      "顶部提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_001/014.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "魔术贴",
+      "红色装饰",
+      "提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/000.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "提手",
+      "侧袋",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/001.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/002.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "肩带",
+      "拉链",
+      "侧袋",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/003.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "正面拉链袋",
+      "侧网袋",
+      "肩带",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/004.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "胸前拉链袋",
+      "侧面网兜",
+      "红色拉链头",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/005.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "胸前口袋",
+      "拉链",
+      "肩带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/006.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "正面拉链袋",
+      "肩带",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/007.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "胸前口袋",
+      "侧袋",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/008.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部拉链",
+      "侧面拉链",
+      "反光条",
+      "肩带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/009.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "白色品牌标",
+      "侧面拉链袋",
+      "底部反光条",
+      "顶部挂绳",
+      "侧边网兜"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/010.jpg": {
+    "category": "单肩包",
+    "color": "黑",
+    "parts": [
+      "胸前拉链袋",
+      "肩带",
+      "提手",
+      "侧边拉链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/bag_backpack/bag_backpack_005/011.jpg": {
+    "category": "单肩包",
+    "color": "黑",
+    "parts": [
+      "肩带",
+      "拉链",
+      "胸前口袋",
+      "品牌logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/012.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "肩带",
+      "侧袋",
+      "顶部提手"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_005/013.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "肩带",
+      "拉链",
+      "品牌标",
+      "侧袋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_005/014.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "胸前拉链袋",
+      "侧边拉链袋",
+      "金属徽标",
+      "竖排文字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_007/000.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "双肩带",
+      "顶部提手",
+      "正面拉链袋",
+      "侧面网兜",
+      "底部红色装饰条"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/001.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "双肩带",
+      "顶部提手",
+      "正面拉链袋",
+      "侧面网袋",
+      "底部圆形徽章"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/002.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "双肩带",
+      "多个拉链",
+      "红色十字标",
+      "网眼侧袋",
+      "顶部提手"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/003.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "正面拉链袋",
+      "侧面网袋",
+      "胸前小袋",
+      "品牌标"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/004.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "胸前拉链袋",
+      "侧面网兜",
+      "反光条"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/005.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "顶部提手",
+      "双肩背带",
+      "正面拉链袋",
+      "侧面网兜",
+      "品牌标识"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/006.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "双肩带",
+      "顶部提手",
+      "正面拉链袋",
+      "侧面网兜",
+      "品牌标识"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/007.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "手提",
+      "胸前口袋",
+      "拉链",
+      "肩带",
+      "品牌标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/bag_backpack/bag_backpack_007/008.jpg": {
+    "category": "双肩包",
+    "color": "黑",
+    "parts": [
+      "多个拉链袋",
+      "红色十字标志",
+      "肩带",
+      "顶部提手"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/009.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "耐克标志",
+      "网面",
+      "拉链",
+      "肩带",
+      "胸前口袋"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/010.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "肩带",
+      "网兜",
+      "侧袋",
+      "提手"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/011.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "肩带",
+      "网兜",
+      "侧袋",
+      "提手"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/012.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "肩带",
+      "网兜",
+      "提手",
+      "侧袋"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_backpack/bag_backpack_007/013.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "拉链",
+      "肩带",
+      "网兜",
+      "侧袋",
+      "提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_backpack/bag_backpack_007/014.jpg": {
+    "category": "双肩包",
+    "color": "蓝",
+    "parts": [
+      "肩带",
+      "拉链",
+      "网兜",
+      "提手",
+      "侧袋"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/bag_handbag/bag_handbag_007/000.jpg": {
+    "category": "手提包",
+    "color": "棕",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "印花面料",
+      "翻盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/001.jpg": {
+    "category": "手提包",
+    "color": "棕",
+    "parts": [
+      "双提手",
+      "可拆卸肩带",
+      "拉链开合",
+      "印花图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/002.jpg": {
+    "category": "手提包",
+    "color": "白",
+    "parts": [
+      "双提手",
+      "可拆卸肩带",
+      "翻盖",
+      "金属扣件",
+      "品牌吊牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/003.jpg": {
+    "category": "手提包",
+    "color": "白",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "拉链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/004.jpg": {
+    "category": "手提包",
+    "color": "黑",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "金属Logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/005.jpg": {
+    "category": "手提包",
+    "color": "蓝",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "肩带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/006.jpg": {
+    "category": "手提包",
+    "color": "红",
+    "parts": [
+      "双提手",
+      "可拆卸肩带",
+      "金属扣件",
+      "正面拉链",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/007.jpg": {
+    "category": "手提包",
+    "color": "黑",
+    "parts": [
+      "双提手",
+      "翻盖",
+      "金属扣",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/008.jpg": {
+    "category": "手提包",
+    "color": "米",
+    "parts": [
+      "双提手",
+      "肩带",
+      "拉链",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/009.jpg": {
+    "category": "手提包",
+    "color": "米白",
+    "parts": [
+      "双提手",
+      "翻盖",
+      "拉链",
+      "金属扣"
+    ],
+    "scene": "手持展示"
+  },
+  "images/bag_handbag/bag_handbag_007/010.jpg": {
+    "category": "手提包",
+    "color": "粉",
+    "parts": [
+      "双提手",
+      "肩带",
+      "金属扣",
+      "拉链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/011.jpg": {
+    "category": "手提包",
+    "color": "棕",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "品牌标",
+      "肩带"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/bag_handbag/bag_handbag_007/012.jpg": {
+    "category": "手提包",
+    "color": "棕",
+    "parts": [
+      "双提手",
+      "肩带",
+      "拉链",
+      "金属扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/013.jpg": {
+    "category": "手提包",
+    "color": "黑",
+    "parts": [
+      "提手",
+      "拉链",
+      "金属扣",
+      "链条"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/bag_handbag/bag_handbag_007/014.jpg": {
+    "category": "手提包",
+    "color": "棕",
+    "parts": [
+      "双提手",
+      "金属扣",
+      "拉链",
+      "印花纹理"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_001/000.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "红色膏体",
+      "品牌标识",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/001.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "金色环扣"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/cosmetics/cosmetics_001/002.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "手指握持"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/003.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "膏体",
+      "金属管",
+      "黑色管身",
+      "品牌标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_001/004.jpg": {
+    "category": "口红",
+    "color": "红",
+    "parts": [
+      "金属管",
+      "膏体",
+      "黑色底座",
+      "金色环"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/005.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "红色膏体",
+      "品牌刻字",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/006.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "黑色包装盒",
+      "手指持握"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/007.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "包装盒"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/008.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "手指握持"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/009.jpg": {
+    "category": "口红",
+    "color": "橙",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "黑色底座",
+      "手指持握"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/010.jpg": {
+    "category": "口红",
+    "color": "金",
+    "parts": [
+      "膏体",
+      "金属管",
+      "方形底座",
+      "手指"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/011.jpg": {
+    "category": "口红",
+    "color": "红",
+    "parts": [
+      "黑色管身",
+      "金色装饰环",
+      "红色膏体",
+      "白色底托"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/012.jpg": {
+    "category": "口红",
+    "color": "红",
+    "parts": [
+      "金属管身",
+      "方形底座",
+      "露出膏体",
+      "裸色指甲"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/013.jpg": {
+    "category": "口红",
+    "color": "粉",
+    "parts": [
+      "金属管身",
+      "膏体",
+      "手"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_001/014.jpg": {
+    "category": "口红",
+    "color": "红",
+    "parts": [
+      "黑色管身",
+      "金色装饰环",
+      "黑色盖子",
+      "膏体"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/000.jpg": {
+    "category": "长裤",
+    "color": "黑",
+    "parts": [
+      "侧边印花",
+      "竖排文字",
+      "宽松版型"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/001.jpg": {
+    "category": "洗护用品",
+    "color": "红",
+    "parts": [
+      "手提展示",
+      "包装盒",
+      "瓶身",
+      "金色盖子"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/002.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "透明塑料包装",
+      "正面大logo",
+      "顶部封口",
+      "侧面文字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/003.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "按压泵头",
+      "方形瓶身",
+      "黑色包装盒",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/004.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "长方体包装盒",
+      "品牌标识",
+      "文字说明",
+      "透明塑料包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/005.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "品牌标识",
+      "渐变设计",
+      "长方体"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/006.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "品牌标识",
+      "卡通形象",
+      "产品示意图",
+      "文字说明"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/cosmetics/cosmetics_006/007.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "方形瓶身",
+      "黑色瓶盖",
+      "银色环",
+      "白色文字"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/008.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "方形瓶身",
+      "圆柱瓶盖",
+      "包装盒",
+      "金属螺旋装订"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/009.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "方形包装盒",
+      "圆形瓶身",
+      "金属光泽",
+      "品牌标识"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/cosmetics/cosmetics_006/010.jpg": {
+    "category": "香水",
+    "color": "黑",
+    "parts": [
+      "方形包装盒",
+      "品牌标识",
+      "透明内框",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/011.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "手提设计",
+      "透明包装",
+      "品牌标识",
+      "几何线条装饰"
+    ],
+    "scene": "手持展示"
+  },
+  "images/cosmetics/cosmetics_006/012.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "橙色瓶盖",
+      "黑色瓶身",
+      "白色文字",
+      "波浪线图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/013.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "方形瓶身",
+      "按压泵头",
+      "标签",
+      "瓶盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/cosmetics/cosmetics_006/014.jpg": {
+    "category": "洗护用品",
+    "color": "金",
+    "parts": [
+      "树形图案",
+      "英文标识",
+      "水滴图标",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_005/000.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "橙色瓶盖",
+      "白色瓶身",
+      "标签文字",
+      "侧面标签"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/health_supplement/health_supplement_005/001.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "标签",
+      "文字"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_005/002.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "标签",
+      "绿色图案",
+      "文字"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/health_supplement/health_supplement_005/003.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "彩色图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_005/004.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "白色瓶身",
+      "粉色标签",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/health_supplement/health_supplement_005/005.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "条形码",
+      "橙色边框"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/health_supplement/health_supplement_005/006.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "标签",
+      "手指"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_005/007.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "红白标签",
+      "Zn标识",
+      "Se标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_005/008.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "药瓶"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_005/009.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "绿色标签",
+      "防伪二维码",
+      "纸箱背景"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/health_supplement/health_supplement_005/010.jpg": {
+    "category": "保健品",
+    "color": "绿",
+    "parts": [
+      "白色瓶盖",
+      "绿色标签",
+      "椭圆形设计",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_005/011.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "塑料瓶身",
+      "螺旋瓶盖",
+      "标签文字",
+      "条纹纹理"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_005/012.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "白色瓶身",
+      "绿色标签",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_005/013.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "橙子图案",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_005/014.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "标签",
+      "橙子图案",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/000.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "塑料瓶身",
+      "中文标签",
+      "条形码"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/001.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "中文标签",
+      "条形码",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/002.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "圆形瓶身",
+      "标签"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/003.jpg": {
+    "category": "保健品",
+    "color": "橙",
+    "parts": [
+      "橙色瓶盖",
+      "白色瓶身",
+      "橙色标签",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_007/004.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "蓝色标签",
+      "人体关节图示",
+      "运动人形剪影"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/005.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "红白标签",
+      "手持展示",
+      "中文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/006.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "药瓶",
+      "标签"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/007.jpg": {
+    "category": "保健品",
+    "color": "粉",
+    "parts": [
+      "粉色瓶盖",
+      "白色瓶身",
+      "标签文字",
+      "条形码"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_007/008.jpg": {
+    "category": "保健品",
+    "color": "绿",
+    "parts": [
+      "白色瓶盖",
+      "绿色标签",
+      "椭圆形设计",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_007/009.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "橙色标签",
+      "橙子图案",
+      "绿色瓶盖",
+      "白色瓶身"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/010.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "椭圆Logo",
+      "弧形装饰条"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/health_supplement/health_supplement_007/011.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "按压式瓶盖",
+      "彩虹条纹装饰",
+      "人体剪影图案",
+      "大对勾标志"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/012.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "绿色标签",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/013.jpg": {
+    "category": "保健品",
+    "color": "蓝",
+    "parts": [
+      "软胶囊",
+      "白色瓶盖",
+      "蓝色标签",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_007/014.jpg": {
+    "category": "保健品",
+    "color": "蓝",
+    "parts": [
+      "白色瓶盖",
+      "蓝色标签",
+      "水滴图案",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/000.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "标签",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/001.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "蓝色瓶盖",
+      "卡通图案",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/002.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "白色瓶盖",
+      "蓝色滚珠",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/003.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "橙色瓶盖",
+      "白色瓶身",
+      "条形码",
+      "生产日期"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/004.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "标签",
+      "彩色鱼形图案",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/005.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "彩色图案",
+      "玻璃桌面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/006.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "彩色图案",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/007.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "条形码",
+      "红色文字"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/008.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "旋盖",
+      "彩虹条纹",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/009.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "绿色标签",
+      "椭圆设计",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/010.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "标签",
+      "橙子图案",
+      "条形码"
+    ],
+    "scene": "手持展示"
+  },
+  "images/health_supplement/health_supplement_008/011.jpg": {
+    "category": "保健品",
+    "color": "黄",
+    "parts": [
+      "白色瓶盖",
+      "黄色标签",
+      "橙色文字",
+      "圆柱形瓶身"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/012.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "白色瓶盖",
+      "黄色标签",
+      "橙色文字",
+      "圆形图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/013.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "瓶盖",
+      "瓶身",
+      "标签",
+      "人物图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/health_supplement/health_supplement_008/014.jpg": {
+    "category": "保健品",
+    "color": "白",
+    "parts": [
+      "翻盖瓶口",
+      "绿色标签",
+      "粉色Ca标识",
+      "红色背景"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/000.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "大袋装",
+      "手提孔",
+      "促销标签",
+      "儿童图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/001.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "挂孔",
+      "卡通图案",
+      "儿童形象",
+      "薰衣草背景"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/002.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "提手",
+      "人物图案",
+      "薰衣草图案",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/003.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "透明皂块",
+      "青柠图案",
+      "植物精油标识",
+      "多层去渍标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/004.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "手提孔",
+      "泰迪熊图案",
+      "肥皂图案",
+      "家庭图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/005.jpg": {
+    "category": "洗护用品",
+    "color": "红",
+    "parts": [
+      "袋装",
+      "堆叠摆放",
+      "文字标识",
+      "透明塑料包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/006.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "买一赠一标识",
+      "套装勿拆标签",
+      "按压泵头",
+      "透明包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/007.jpg": {
+    "category": "洗护用品",
+    "color": "红",
+    "parts": [
+      "挂孔",
+      "品牌Logo",
+      "花朵图案",
+      "衣物图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/008.jpg": {
+    "category": "洗护用品",
+    "color": "橙",
+    "parts": [
+      "圆形Logo",
+      "白色衣物图案",
+      "花朵图案",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/009.jpg": {
+    "category": "婴儿用品",
+    "color": "白",
+    "parts": [
+      "透明塑料包装",
+      "红色圆形图案",
+      "婴儿图片",
+      "蓝色侧边条",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/010.jpg": {
+    "category": "洗护用品",
+    "color": "红",
+    "parts": [
+      "波浪形包装",
+      "水果图案",
+      "品牌Logo",
+      "中文说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/011.jpg": {
+    "category": "洗护用品",
+    "color": "粉",
+    "parts": [
+      "圆形Logo",
+      "水果图案",
+      "透明包装",
+      "红色封边"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/012.jpg": {
+    "category": "洗护用品",
+    "color": "粉",
+    "parts": [
+      "彩虹标志",
+      "水果图案",
+      "透明包装",
+      "多块堆叠"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/013.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "挂孔",
+      "提手",
+      "透明窗口",
+      "文字说明"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/household_detergent/household_detergent_008/014.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "透明皂块",
+      "青柠图案",
+      "品牌标识",
+      "包装纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_005/000.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "镶嵌物",
+      "扣头"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/001.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "黑色绒布底座",
+      "红色包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_005/002.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "镶嵌",
+      "延长链扣"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/003.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "圆形吊坠",
+      "链式项链",
+      "黑色绒布盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/004.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "镶嵌",
+      "耳钩"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/005.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "中心主钻",
+      "外圈碎钻"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/006.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "圆形吊坠",
+      "中心主钻",
+      "外圈碎钻"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/007.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "蝴蝶结吊坠",
+      "流苏吊坠",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/008.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "吊坠",
+      "耳钉"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/009.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "花朵吊坠",
+      "链条",
+      "天鹅吊牌",
+      "黑色展示卡"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/010.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "双心吊坠",
+      "镶钻",
+      "链条",
+      "蓝色礼盒"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/011.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "天鹅吊坠",
+      "链条",
+      "镶嵌钻"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/012.jpg": {
+    "category": "项链",
+    "color": "黑",
+    "parts": [
+      "天鹅吊坠",
+      "金属链条",
+      "天鹅吊坠",
+      "天鹅吊坠",
+      "天鹅吊坠"
+    ],
+    "scene": "手持展示"
+  },
+  "images/jewelry/jewelry_005/013.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "金属链条",
+      "吊坠",
+      "吊牌",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_005/014.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链条",
+      "吊坠",
+      "扣头",
+      "蓝色包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/jewelry/jewelry_008/000.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "四叶草吊坠",
+      "心形装饰",
+      "链条"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/jewelry/jewelry_008/001.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "细链",
+      "圆形吊坠",
+      "锁骨链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/002.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "细链",
+      "圆形吊坠",
+      "锁骨链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/003.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "鹿角造型",
+      "吊坠",
+      "链条",
+      "耳饰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/004.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "天鹅吊坠",
+      "镶钻",
+      "细链",
+      "颈链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/005.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "天鹅吊坠",
+      "链条",
+      "V领上衣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/006.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "天鹅吊坠",
+      "细链",
+      "锁骨链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/007.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "细链",
+      "吊坠",
+      "V领上衣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/008.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "珍珠吊坠",
+      "金属链条",
+      "镶钻边框"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/009.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "双心吊坠",
+      "镶钻",
+      "细链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/010.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "链节",
+      "金属光泽",
+      "锁骨链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/011.jpg": {
+    "category": "项链",
+    "color": "银",
+    "parts": [
+      "细链",
+      "波浪形吊坠",
+      "小钻"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/012.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "天鹅吊坠",
+      "细链",
+      "锁骨链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/013.jpg": {
+    "category": "项链",
+    "color": "黑",
+    "parts": [
+      "天鹅吊坠",
+      "金色链条",
+      "黑色天鹅造型"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/jewelry/jewelry_008/014.jpg": {
+    "category": "项链",
+    "color": "金",
+    "parts": [
+      "链条",
+      "吊坠",
+      "金属扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/000.jpg": {
+    "category": "行李箱",
+    "color": "绿",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "提手",
+      "菱形纹路",
+      "拉链"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/luggage/luggage_007/001.jpg": {
+    "category": "行李箱",
+    "color": "黄",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "拉链",
+      "提手"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/002.jpg": {
+    "category": "行李箱",
+    "color": "绿",
+    "parts": [
+      "伸缩拉杆",
+      "万向轮",
+      "菱形纹理",
+      "黑色拉链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/003.jpg": {
+    "category": "行李箱",
+    "color": "绿",
+    "parts": [
+      "拉杆",
+      "提手",
+      "万向轮",
+      "硬壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/004.jpg": {
+    "category": "行李箱",
+    "color": "绿",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "密码锁",
+      "提手",
+      "菱形纹路"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/luggage/luggage_007/005.jpg": {
+    "category": "行李箱",
+    "color": "绿",
+    "parts": [
+      "硬壳",
+      "黑色拉链",
+      "伸缩拉杆",
+      "万向轮",
+      "品牌标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/006.jpg": {
+    "category": "行李箱",
+    "color": "黄",
+    "parts": [
+      "黑色拉链",
+      "黑色滚轮",
+      "黑色提手",
+      "黑色卡扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/007.jpg": {
+    "category": "行李箱",
+    "color": "黄",
+    "parts": [
+      "菱形格纹",
+      "黑色提手",
+      "黑色滚轮",
+      "黑色锁扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/008.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "竖条纹",
+      "黑色包角",
+      "伸缩拉杆",
+      "万向轮",
+      "金属锁扣"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/009.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "伸缩拉杆",
+      "黑色提手",
+      "万向轮",
+      "竖条纹设计",
+      "黑色边角保护"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/010.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "提手",
+      "万向轮",
+      "彩虹织带",
+      "黑色护角",
+      "竖条纹设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/011.jpg": {
+    "category": "行李箱",
+    "color": "红",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "侧提手",
+      "锁扣",
+      "硬壳"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/luggage/luggage_007/012.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "伸缩拉杆",
+      "侧边提手",
+      "万向轮",
+      "金属锁扣",
+      "竖条纹设计"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/luggage/luggage_007/013.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "密码锁",
+      "提手",
+      "硬壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/luggage/luggage_007/014.jpg": {
+    "category": "行李箱",
+    "color": "粉",
+    "parts": [
+      "拉杆",
+      "万向轮",
+      "提手",
+      "拉链",
+      "竖条纹"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/personal_care/personal_care_006/000.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "圆柱形瓶身",
+      "太阳图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/001.jpg": {
+    "category": "洗护用品",
+    "color": "黑",
+    "parts": [
+      "按压泵头",
+      "金属瓶盖",
+      "包装盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/002.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "按压泵头",
+      "磨砂瓶身",
+      "扁平瓶底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/003.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "圆柱瓶身",
+      "蓝色文字"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_006/004.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "圆柱瓶身",
+      "黄色瓶盖"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/005.jpg": {
+    "category": "化妆品",
+    "color": "银",
+    "parts": [
+      "包装盒",
+      "瓶身",
+      "文字标识",
+      "光泽表面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/006.jpg": {
+    "category": "洗护用品",
+    "color": "黄",
+    "parts": [
+      "圆柱形瓶身",
+      "按压泵头",
+      "卡通图案",
+      "标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/007.jpg": {
+    "category": "化妆品",
+    "color": "橙",
+    "parts": [
+      "圆柱管身",
+      "白色标签",
+      "橙色盖子",
+      "橙色圆点图案"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/008.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "山峰图案",
+      "气泡图案",
+      "多语言文字"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_006/009.jpg": {
+    "category": "洗护用品",
+    "color": "粉",
+    "parts": [
+      "按压泵头",
+      "喷口",
+      "标签",
+      "条形码"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/010.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "喷口",
+      "标签",
+      "防伪二维码"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/011.jpg": {
+    "category": "洗护用品",
+    "color": "粉",
+    "parts": [
+      "长方体包装盒",
+      "正面标签",
+      "侧面文字",
+      "顶部封口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/012.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "按压泵头",
+      "白色瓶盖",
+      "绿色瓶身",
+      "金色装饰环"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/013.jpg": {
+    "category": "洗护用品",
+    "color": "黄",
+    "parts": [
+      "圆柱瓶身",
+      "白色瓶盖",
+      "透明液体",
+      "气泡膜包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_006/014.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "标签文字",
+      "圆柱形瓶身"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/personal_care/personal_care_008/000.jpg": {
+    "category": "洗护用品",
+    "color": "绿",
+    "parts": [
+      "按压泵头",
+      "植物图案",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/001.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "粉色瓶盖",
+      "圆柱形瓶身"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/002.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "山峰图案",
+      "气泡装饰"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/003.jpg": {
+    "category": "洗护用品",
+    "color": "白",
+    "parts": [
+      "按压泵头",
+      "山峰图案",
+      "文字标签"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/004.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "软管包装",
+      "按压泵头",
+      "品牌标识",
+      "中文说明"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/005.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "管状包装",
+      "反光表面"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/006.jpg": {
+    "category": "洗护用品",
+    "color": "黄",
+    "parts": [
+      "按压泵头",
+      "圆柱瓶身",
+      "白色装饰条"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/007.jpg": {
+    "category": "洗护用品",
+    "color": "橙",
+    "parts": [
+      "按压泵头",
+      "白色装饰条",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/008.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "银色瓶盖",
+      "磨砂瓶身",
+      "中文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/009.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "银色瓶盖",
+      "圆柱瓶身",
+      "按压泵头"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/010.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "银色瓶盖",
+      "磨砂瓶身",
+      "中文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/011.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "银色瓶盖",
+      "按压泵头",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/012.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "磨砂瓶身",
+      "银色瓶盖",
+      "中文标签"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/013.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "银色瓶盖",
+      "磨砂瓶身",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/personal_care/personal_care_008/014.jpg": {
+    "category": "洗护用品",
+    "color": "蓝",
+    "parts": [
+      "按压泵头",
+      "银色瓶盖",
+      "磨砂瓶身",
+      "中文标识",
+      "英文标识"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_001/000.jpg": {
+    "category": "领带",
+    "color": "蓝",
+    "parts": [
+      "红色吊牌",
+      "红色织标",
+      "格纹背景"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/001.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "金属扣",
+      "荔枝纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/002.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "金属扣",
+      "荔枝纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/003.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "玫瑰金属装饰",
+      "荔枝纹表面",
+      "长方形"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/004.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "刺绣图案",
+      "卡槽",
+      "纹理表面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/005.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "纹理皮革",
+      "金属标",
+      "翻盖设计",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_001/006.jpg": {
+    "category": "钱包",
+    "color": "棕",
+    "parts": [
+      "金属扣",
+      "四叶草装饰",
+      "翻盖",
+      "压纹皮革"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/007.jpg": {
+    "category": "手提包",
+    "color": "黑",
+    "parts": [
+      "金属脚钉",
+      "皮革纹理",
+      "提手",
+      "格纹背景"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/008.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "翻盖",
+      "金属标",
+      "缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/009.jpg": {
+    "category": "钱包",
+    "color": "蓝",
+    "parts": [
+      "翻盖",
+      "缝线",
+      "金属标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/010.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "金属拉链",
+      "金属挂扣",
+      "皮面纹理",
+      "金属徽标"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/011.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "压纹皮面",
+      "压印logo",
+      "缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/012.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "缝线",
+      "纹理皮革",
+      "压印logo"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_001/013.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "压印logo",
+      "缝线",
+      "拉链头"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/purse_wallet/purse_wallet_001/014.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "荔枝纹",
+      "缝线",
+      "压印logo",
+      "拉链"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/purse_wallet/purse_wallet_005/000.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "金属铭牌",
+      "挂绳",
+      "缝线"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/001.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "皮革纹理",
+      "金属标志",
+      "翻盖设计"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/002.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "荔枝纹",
+      "金属标志",
+      "拉链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/003.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "荔枝纹皮面",
+      "金属拉链",
+      "金属徽标",
+      "长款设计"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/004.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "腕带",
+      "金属装饰",
+      "芭蕾舞者造型",
+      "拉链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/005.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "菱格纹",
+      "金属标",
+      "缝线",
+      "翻盖"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/006.jpg": {
+    "category": "钱包",
+    "color": "蓝",
+    "parts": [
+      "竖条纹设计",
+      "蓝色条纹",
+      "黑色条纹",
+      "皮革纹理",
+      "拉链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/007.jpg": {
+    "category": "钱包",
+    "color": "蓝",
+    "parts": [
+      "条纹设计",
+      "皮革纹理",
+      "拉链"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/008.jpg": {
+    "category": "手提包",
+    "color": "黑",
+    "parts": [
+      "金属字母标",
+      "皮革纹理",
+      "提手",
+      "手指触摸"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/009.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "腕带",
+      "金属扣",
+      "压印logo",
+      "金属装饰"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/010.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "红白条纹",
+      "皮革纹理"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/011.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "压印logo",
+      "缝线",
+      "拉链头"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/012.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "荔枝纹",
+      "金属标",
+      "缝线",
+      "翻盖"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/013.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "金属徽标",
+      "荔枝纹",
+      "缝线",
+      "翻盖"
+    ],
+    "scene": "手持展示"
+  },
+  "images/purse_wallet/purse_wallet_005/014.jpg": {
+    "category": "钱包",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "纹理表面",
+      "缝线",
+      "长款"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_kids/shoes_kids_003/000.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "三条白色条纹",
+      "网面鞋身",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/001.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "网面鞋身",
+      "系带",
+      "厚底",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_003/002.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "厚底",
+      "鞋舌标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/003.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "鞋舌",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_003/004.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网眼鞋面",
+      "白色中底",
+      "红色装饰条"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_kids/shoes_kids_003/005.jpg": {
+    "category": "运动鞋",
+    "color": "灰",
+    "parts": [
+      "网面",
+      "魔术贴",
+      "厚底",
+      "鞋舌"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_003/006.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "网面",
+      "系带",
+      "三条杠",
+      "后跟提环"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/007.jpg": {
+    "category": "运动鞋",
+    "color": "灰",
+    "parts": [
+      "系带",
+      "魔术贴",
+      "网面",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "白色中底",
+      "鞋舌标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/010.jpg": {
+    "category": "运动鞋",
+    "color": "灰",
+    "parts": [
+      "系带",
+      "透气孔",
+      "厚底",
+      "鞋舌标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/011.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "网面鞋头",
+      "系带",
+      "白色条纹",
+      "内衬标签",
+      "后跟提环"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/012.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋舌",
+      "鞋头防撞条"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_003/013.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "红色条纹",
+      "厚底",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_003/014.jpg": {
+    "category": "运动鞋",
+    "color": "红",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/000.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋带",
+      "白色鞋边",
+      "红色鞋底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/001.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "鞋舌"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_005/002.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "黄色内衬",
+      "黄色鞋底",
+      "后跟提环"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/003.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "低帮",
+      "织物鞋面",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/004.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "鞋带",
+      "鞋舌",
+      "鞋口"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_005/005.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/006.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "三条杠",
+      "系带",
+      "低帮",
+      "白色中底",
+      "鞋舌"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_005/007.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "橙色鞋带",
+      "网面材质",
+      "低帮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "白色中底",
+      "鞋舌标签",
+      "鞋垫"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_005/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "厚底",
+      "鞋盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/010.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "黑色鞋头",
+      "红色吊牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/011.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/012.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "透气网面",
+      "品牌标签"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_005/013.jpg": {
+    "category": "运动鞋",
+    "color": "灰",
+    "parts": [
+      "网面",
+      "魔术贴",
+      "低帮",
+      "鞋垫"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_005/014.jpg": {
+    "category": "运动鞋",
+    "color": "灰",
+    "parts": [
+      "系带",
+      "低帮",
+      "绿色内衬",
+      "后跟标识"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/000.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "粉色内衬",
+      "红色缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/001.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_007/002.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/003.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "网面",
+      "低帮",
+      "红色内衬"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/004.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "红色内衬",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/005.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "红色内里",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_007/006.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "黄色内衬",
+      "黄色缝线",
+      "鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/007.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "黄色内衬",
+      "黄色装饰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "防滑纹路",
+      "黄色内衬"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "黄色内衬",
+      "黄色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/010.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "魔术贴",
+      "低帮",
+      "厚实中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/011.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "红色内衬",
+      "低帮",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/012.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "红色内衬",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_kids/shoes_kids_007/013.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "红色内衬",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_kids/shoes_kids_007/014.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "红色内衬",
+      "鞋盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/000.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "高筒",
+      "光面材质"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/001.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/002.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "镂空设计",
+      "乐福鞋款式",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/003.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "拼接设计",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/004.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/005.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "拼接设计",
+      "灰色袜子"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/006.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "光面",
+      "尖头",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/007.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/008.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "光面",
+      "圆头",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/009.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面材质",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/010.jpg": {
+    "category": "短靴",
+    "color": "黑",
+    "parts": [
+      "拉链",
+      "圆头",
+      "平底",
+      "拼接缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/011.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚底",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/012.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "光面",
+      "尖头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/013.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "光面",
+      "褶皱设计",
+      "金属装饰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_002/014.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "丝袜",
+      "高跟鞋"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/000.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "编织纹理",
+      "圆头",
+      "侧边透气孔",
+      "金属装饰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/001.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "拉链",
+      "厚底",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/002.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "光面材质",
+      "尖头",
+      "拼接设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/003.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面鞋面",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/004.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "系带",
+      "光面",
+      "拼接纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/005.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "乐福鞋",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/006.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "圆头",
+      "一脚蹬",
+      "褶皱设计",
+      "深色袜子"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/007.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面皮革",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/008.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "厚底",
+      "光面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/009.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "金属孔眼",
+      "圆头",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/010.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "光面鞋头",
+      "厚底",
+      "缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/011.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/012.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "编织纹理",
+      "透气孔",
+      "一脚蹬",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_003/013.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "缝线装饰",
+      "厚底",
+      "内衬"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_leather/shoes_leather_003/014.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚底",
+      "金属鞋带孔",
+      "皮革鞋面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/000.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "厚底",
+      "鞋盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/001.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "镂空鞋面",
+      "搭扣",
+      "金属扣",
+      "印花内底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/002.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "方头",
+      "金属扣",
+      "缝线",
+      "内衬"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/003.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "雕花",
+      "圆头",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/004.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "搭扣",
+      "方头",
+      "厚底"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_005/005.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "圆头",
+      "厚底",
+      "内衬品牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/006.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "平底",
+      "内底品牌标识",
+      "缝线细节"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/007.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "鳄鱼纹",
+      "魔术贴",
+      "低帮",
+      "尖头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/008.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "亮面",
+      "一脚蹬",
+      "金属装饰扣",
+      "褶皱设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/009.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "亮面",
+      "乐福鞋",
+      "搭扣",
+      "方头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/010.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "镂空鞋面",
+      "一脚蹬",
+      "厚底",
+      "鞋垫"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_005/011.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "光面鞋面",
+      "内标品牌"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_005/012.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "金属鞋眼",
+      "内标品牌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_005/013.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "金属装饰扣",
+      "缝线细节",
+      "厚底"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_005/014.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/000.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "绿色后跟",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/001.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "绿色后跟"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_006/002.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色中底",
+      "鞋舌"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_006/003.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "后跟拼接"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_006/004.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "鞋舌标签"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_leather/shoes_leather_006/005.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "中底",
+      "侧面条纹"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_006/006.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚实中底",
+      "网眼拼接",
+      "高帮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/007.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "皮革质感"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/008.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "鞋盒"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/009.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "缝线"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/010.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "绿色后跟"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_leather/shoes_leather_006/011.jpg": {
+    "category": "运动鞋",
+    "color": "黄",
+    "parts": [
+      "系带",
+      "高帮",
+      "橡胶中底",
+      "金属鞋眼"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_006/012.jpg": {
+    "category": "皮鞋",
+    "color": "黄",
+    "parts": [
+      "系带",
+      "金属鞋带孔",
+      "厚底",
+      "高帮"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_006/013.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "橡胶鞋头",
+      "橡胶中底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_006/014.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "防滑纹路"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/000.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "低帮",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/001.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "金属扣",
+      "缝线",
+      "低帮",
+      "一脚蹬"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/002.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "低跟",
+      "光面材质"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/003.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "低跟",
+      "金属扣"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/004.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "金属扣",
+      "雕花鞋头",
+      "低跟"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/005.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "低帮",
+      "厚底",
+      "光面"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/006.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "乐福鞋",
+      "光面皮革",
+      "低跟"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/007.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "金属装饰扣",
+      "圆头",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/008.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/009.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "乐福鞋",
+      "低跟",
+      "光泽面"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/010.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "金属扣",
+      "低帮",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/011.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "一脚蹬",
+      "圆头",
+      "缝线装饰",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/012.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "低帮",
+      "套脚",
+      "低跟",
+      "光泽面"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/013.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "亮面",
+      "套脚",
+      "金属铭牌",
+      "低跟"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_007/014.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "镂空设计",
+      "一脚蹬",
+      "厚底",
+      "翻盖"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/000.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/001.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/002.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "红色装饰",
+      "鞋舌"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/003.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/004.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/005.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/006.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_leather/shoes_leather_008/007.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "提环",
+      "网面",
+      "白色中底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/010.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/011.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/012.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "魔术贴",
+      "中帮",
+      "厚实中底",
+      "红色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/013.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_leather/shoes_leather_008/014.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚实中底",
+      "黄色装饰"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_002/000.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "低帮",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/001.jpg": {
+    "category": "雨伞",
+    "color": "黑",
+    "parts": [
+      "折叠伞",
+      "伞柄",
+      "伞布",
+      "握把"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_other/shoes_other_002/002.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "拼接设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/003.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/004.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/005.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "尖头",
+      "光面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/006.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/007.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚底",
+      "圆头",
+      "短靴"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/008.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "尖头",
+      "系带",
+      "方跟",
+      "光面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "三条杠",
+      "低帮",
+      "白色鞋边"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/010.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "鳄鱼纹",
+      "金属装饰",
+      "一脚蹬",
+      "方头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/011.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "纹理鞋面",
+      "低帮",
+      "一脚蹬",
+      "条纹裤"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/012.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/013.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_002/014.jpg": {
+    "category": "皮鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "圆头",
+      "厚底",
+      "鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/000.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "金属扣",
+      "厚底",
+      "镂空设计"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/001.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "外露鞋跟",
+      "防滑纹路"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/002.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "后跟带",
+      "镂空设计",
+      "编织鞋底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/003.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "搭扣",
+      "金属扣",
+      "魔术贴",
+      "平底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/004.jpg": {
+    "category": "凉鞋",
+    "color": "白",
+    "parts": [
+      "魔术贴",
+      "楔形中底",
+      "镂空鞋面",
+      "脚踝带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/005.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "后跟带",
+      "厚底",
+      "镂空设计"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/006.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "木质鞋底",
+      "镂空设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/007.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "双搭扣",
+      "后跟带",
+      "透气孔",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/008.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "双带设计",
+      "镂空鞋面",
+      "后跟带",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/009.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "后跟带",
+      "镂空设计",
+      "厚底"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/010.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "厚底",
+      "镂空"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_004/011.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "厚底",
+      "镂空设计",
+      "金属扣"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/012.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "后跟带",
+      "厚底",
+      "镂空设计"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_004/013.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "低帮",
+      "木质鞋底",
+      "鞋盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_other/shoes_other_004/014.jpg": {
+    "category": "凉鞋",
+    "color": "棕",
+    "parts": [
+      "魔术贴",
+      "镂空鞋面",
+      "厚底",
+      "黑色鞋头"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/shoes_other/shoes_other_005/000.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/001.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色中底",
+      "鞋头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/002.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "网面",
+      "厚底",
+      "牛仔裤"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/003.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "厚底",
+      "鞋舌",
+      "后跟"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/004.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/005.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/006.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "透气孔",
+      "蓝色装饰条"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/007.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色中底",
+      "侧面条纹"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/009.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "黑色后跟"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/010.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/011.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚实中底",
+      "白色鞋舌"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/012.jpg": {
+    "category": "运动鞋",
+    "color": "白",
+    "parts": [
+      "系带",
+      "低帮",
+      "厚底",
+      "白色鞋面"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/013.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色中底",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_other/shoes_other_005/014.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/000.jpg": {
+    "category": "运动鞋",
+    "color": "蓝",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/001.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/002.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色中底"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/003.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/004.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色中底"
+    ],
+    "scene": "手持展示"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/005.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/006.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/007.jpg": {
+    "category": "运动鞋",
+    "color": "粉",
+    "parts": [
+      "系带",
+      "低帮",
+      "印花鞋面",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/008.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/009.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "鞋舌",
+      "鞋带孔"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/010.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "圆头",
+      "厚底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/011.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/012.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋带",
+      "白色鞋头",
+      "白色中底"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/013.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/shoes_sneaker/shoes_sneaker_006/014.jpg": {
+    "category": "运动鞋",
+    "color": "黑",
+    "parts": [
+      "系带",
+      "低帮",
+      "白色鞋头",
+      "白色鞋带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/000.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "越野轮胎",
+      "黑色防滚架",
+      "备胎",
+      "紫色灯光",
+      "黑色方向盘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/001.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "越野轮胎",
+      "黑色防撞杠",
+      "车顶行李架",
+      "蓝色灯光",
+      "黑色防滚架"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/002.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "遥控天线",
+      "黑色防滚架",
+      "越野轮胎",
+      "黑色遥控手柄"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/003.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "越野轮胎",
+      "黑色防撞杠",
+      "车顶行李架",
+      "遥控天线",
+      "敞篷设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/004.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "越野轮胎",
+      "黑色防撞杠",
+      "备胎",
+      "敞篷结构",
+      "车顶行李架"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/005.jpg": {
+    "category": "玩具车",
+    "color": "绿",
+    "parts": [
+      "越野轮胎",
+      "黑色防撞杠",
+      "车顶灯",
+      "越野灯",
+      "越野贴纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/006.jpg": {
+    "category": "玩具车",
+    "color": "绿",
+    "parts": [
+      "越野轮胎",
+      "遥控天线",
+      "备胎",
+      "方向盘",
+      "遥控手柄"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/007.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "车顶行李架",
+      "黑色轮胎",
+      "越野胎纹",
+      "黑色前保险杠",
+      "黑色车窗"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/008.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "大轮胎",
+      "车顶行李架",
+      "车窗",
+      "车身贴纸"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/009.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "方向盘",
+      "天线",
+      "越野轮胎",
+      "车顶行李架",
+      "绞盘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/010.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "越野轮胎",
+      "车顶行李架",
+      "黑色车身",
+      "泡沫包装"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/toy_vehicle/toy_vehicle_003/011.jpg": {
+    "category": "玩具车",
+    "color": "红",
+    "parts": [
+      "大轮胎",
+      "车顶行李架",
+      "黑色格栅",
+      "车窗"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/012.jpg": {
+    "category": "玩具车",
+    "color": "绿",
+    "parts": [
+      "越野轮胎",
+      "黑色防滚架",
+      "前保险杠",
+      "迷彩涂装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/013.jpg": {
+    "category": "玩具车",
+    "color": "绿",
+    "parts": [
+      "越野轮胎",
+      "黑色防撞杠",
+      "车顶行李架",
+      "迷彩涂装",
+      "前格栅"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/toy_vehicle/toy_vehicle_003/014.jpg": {
+    "category": "玩具车",
+    "color": "灰",
+    "parts": [
+      "驾驶舱",
+      "黄色机械臂",
+      "黑色铲斗",
+      "轮胎",
+      "驾驶员小人"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/000.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "数字显示屏",
+      "指针",
+      "表冠",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/001.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "星期显示",
+      "日期显示",
+      "按钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/002.jpg": {
+    "category": "手表",
+    "color": "蓝",
+    "parts": [
+      "数字显示",
+      "指针",
+      "按钮",
+      "表冠",
+      "包装盒"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/watch/watch_001/003.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "金属表圈",
+      "指针",
+      "表带",
+      "按钮"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/watch/watch_001/004.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "数字刻度",
+      "中文菜单",
+      "表冠按钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/005.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "圆形表盘",
+      "计时功能",
+      "测速刻度"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/006.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "数字显示屏",
+      "模拟表盘",
+      "橡胶表带",
+      "旋转表圈",
+      "按钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/007.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "模拟小表盘",
+      "金属表壳",
+      "按钮"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_001/008.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "模拟指针",
+      "橡胶表带",
+      "按钮",
+      "表冠"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/watch/watch_001/009.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针表盘",
+      "表冠",
+      "按钮",
+      "橡胶表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/010.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "表冠",
+      "按钮",
+      "表带"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/watch/watch_001/011.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "表冠",
+      "按钮"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_001/012.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "数字显示",
+      "金属表冠",
+      "多圈表圈",
+      "夜光指针"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_001/013.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "数字显示",
+      "金属表冠",
+      "橡胶表带",
+      "多按钮"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/watch/watch_001/014.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "数字显示",
+      "绿色表带",
+      "金属表扣",
+      "多按钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/000.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗口",
+      "皮质表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/001.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "圆形表盘",
+      "金属表圈",
+      "白色表带",
+      "金色指针",
+      "金色手镯"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/002.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "罗马数字表盘",
+      "金属表壳",
+      "皮质表带",
+      "指针式"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/003.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "黑色表带",
+      "金属表冠",
+      "指针"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/004.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "圆形表盘",
+      "黑色表带",
+      "指针",
+      "罗马数字刻度"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/005.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "罗马数字刻度",
+      "指针",
+      "日历窗",
+      "皮质表带",
+      "金属表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/006.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "罗马数字刻度",
+      "指针",
+      "日历窗",
+      "表冠",
+      "皮质表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/007.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "黑色皮质表带",
+      "金色表圈",
+      "腕戴展示"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/008.jpg": {
+    "category": "手表",
+    "color": "金",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "黑色皮质表带",
+      "金色表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/009.jpg": {
+    "category": "手表",
+    "color": "金",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "黑色表带",
+      "金色表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/010.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "日期显示窗口",
+      "指针"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/011.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "指针",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/012.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "刻度",
+      "皮质表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/013.jpg": {
+    "category": "手表",
+    "color": "白",
+    "parts": [
+      "圆形表盘",
+      "黑色表带",
+      "金属表壳",
+      "指针式"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_002/014.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "刻度",
+      "黑色表带",
+      "金属表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/000.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗口",
+      "金属表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/001.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗口",
+      "皮质表带",
+      "金属表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/002.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗口",
+      "金属表圈",
+      "皮质表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/003.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "罗马数字刻度",
+      "钻石时标",
+      "日历窗口",
+      "金属表带",
+      "双色设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/004.jpg": {
+    "category": "手表",
+    "color": "蓝",
+    "parts": [
+      "金属表壳",
+      "皮质表带",
+      "三眼计时盘",
+      "日历窗口",
+      "表冠"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/005.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "罗马数字刻度",
+      "日历窗口",
+      "指针",
+      "金属表带",
+      "自动机械"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/006.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "罗马数字刻度",
+      "日历窗口",
+      "金属表带",
+      "自动机械"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/007.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "日历窗口",
+      "指针",
+      "表盘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/008.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "罗马数字刻度",
+      "日期显示窗口",
+      "金属表带",
+      "纹理表盘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/009.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "计时功能",
+      "日期显示",
+      "表冠"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/010.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "计时功能",
+      "黑色表盘"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/011.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "计时功能",
+      "表冠"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/012.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "计时功能",
+      "日期显示"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/013.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "圆形表盘",
+      "数字刻度",
+      "日期显示窗口"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_004/014.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "罗马数字刻度",
+      "银色表圈",
+      "黑色表带",
+      "皇冠标志",
+      "三针设计"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/000.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "蓝色装饰圈",
+      "金属表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/001.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "表冠",
+      "按钮",
+      "硅胶表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/002.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "金属表圈",
+      "指针",
+      "按钮",
+      "表带"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/003.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "金属表圈",
+      "数字显示",
+      "指针",
+      "表带"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/004.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "金属表圈",
+      "指针",
+      "表带",
+      "按钮"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/005.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "金属表圈",
+      "指针",
+      "数字显示",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/006.jpg": {
+    "category": "手表",
+    "color": "紫",
+    "parts": [
+      "G-SHOCK标识",
+      "双显表盘",
+      "金属表圈",
+      "黑色表带",
+      "手持展示"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/007.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "数字显示",
+      "指针",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/008.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "数字刻度",
+      "小表盘",
+      "织物表带"
+    ],
+    "scene": "白底商品图"
+  },
+  "images/watch/watch_005/009.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针式",
+      "日历窗口",
+      "测速计外圈",
+      "编织表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/010.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗",
+      "表冠",
+      "织物表带"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/011.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "方形表盘",
+      "数字显示",
+      "按钮",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/012.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "橡胶表带",
+      "数字表盘",
+      "按钮",
+      "指针"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_005/013.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "方形表盘",
+      "数字显示",
+      "指针",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_005/014.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针表盘",
+      "旋转表圈",
+      "按钮"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/000.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "表带",
+      "塑料包装"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/001.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "蓝色表圈",
+      "数字与指针表盘",
+      "黑色表带",
+      "侧面按钮",
+      "米奇图案"
+    ],
+    "scene": "带包装盒"
+  },
+  "images/watch/watch_008/002.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "金属表圈",
+      "指针",
+      "数字刻度",
+      "按钮",
+      "表带"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_008/003.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "金属表圈",
+      "橡胶表带",
+      "数字显示",
+      "指针"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/004.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "大表盘",
+      "金属表圈",
+      "指针",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/005.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "罗马数字刻度",
+      "黑色皮质表带",
+      "银色表壳",
+      "指针式"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/006.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "日历窗口",
+      "刻度",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/007.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "指针",
+      "刻度",
+      "表冠",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/008.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "圆形表盘",
+      "金属表带",
+      "三个小表盘",
+      "银色表壳"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/009.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "圆形表盘",
+      "计时小表盘",
+      "日期窗口",
+      "测速刻度"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/010.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "黑色表盘",
+      "计时功能",
+      "日期显示",
+      "测速刻度"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/011.jpg": {
+    "category": "手表",
+    "color": "银",
+    "parts": [
+      "金属表带",
+      "黑色表盘",
+      "三个小表盘",
+      "测速圈",
+      "表冠"
+    ],
+    "scene": "手持展示"
+  },
+  "images/watch/watch_008/012.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "金属表带",
+      "圆形表盘",
+      "计时功能",
+      "日期显示",
+      "测速刻度"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/013.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "按钮",
+      "表带"
+    ],
+    "scene": "实拍场景"
+  },
+  "images/watch/watch_008/014.jpg": {
+    "category": "手表",
+    "color": "黑",
+    "parts": [
+      "数字显示屏",
+      "指针",
+      "表冠",
+      "按钮",
+      "防水标识"
+    ],
+    "scene": "实拍场景"
+  }
+}
