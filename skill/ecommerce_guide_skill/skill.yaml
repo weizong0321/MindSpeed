@@ -1,4 +1,43 @@
 skill_name: ecommerce_guide_skill
-model_type: qwen3_5_vl
-task_type: multimodal_dialogue
-description: 多模态电商智能导购助手，支持图文联合咨询、多条件商品筛选
+version: 2.0.0
+model_type: qwen3_5
+model_size: 0.8B
+task_type: multimodal_attribute_grounded_dialogue
+description: >-
+  多模态电商智能导购助手。读出商品图中客观可判别的结构属性
+  （开合方式、鞋帮高度、背法、表带材质等闭词表属性），
+  文案由确定性模板渲染；不对颜色、材质、尺码等图上无法核实的内容做断言。
+entry: scripts/run_chat.py
+base_model: Qwen3.5-0.8B
+training_framework: MindSpeed-MM (FSDP2)
+hardware: Ascend910B2 x1
+cann: "8.5.0"
+torch_npu: "2.7.1"
+
+capability:
+  grounded_attributes:
+    - shoes: [closure, height, toe, sole]
+    - bags: [carry, closure, side_pocket]
+    - watch: [strap_material, dial_shape]
+    - purse_wallet: [closure, strap]
+    - appliance_large: [type, loading, display]
+    - jewelry: [type, pendant, chain]
+    - cosmetics: [type, package]
+    - apparel: [waist, sleeve]
+  refused_attributes:
+    - color        # 跨标注者一致率仅 0.67-0.73，换更大模型无改善
+    - material / size / price / durability
+  category_coverage: "11 / 21"
+
+metrics:
+  eval_set: 78 stratified images
+  whole_group_all_correct: 0.756      # 95% CI [0.65, 0.84]
+  baseline_blind_majority: 0.513      # 95% CI [0.40, 0.62]
+  swap_test_discrimination: 0.682     # n=22, CI includes 0.5
+  color_assertion_rate: 0.0
+
+limitations:
+  - 约 1/4 的图上至少有一个属性是错的，故属性措辞弱化为"图中看是…"
+  - 5%-10% 的图读不出属性，此时只报品类并免责
+  - appliance_large.type 低于多数类基线（失败项）
+  - 延迟未做生产级并发验证（单卡约 3.7-4.3 s/张）
