@@ -8,6 +8,19 @@
     一致率  两边都给出答案时，答案相同的比例   ← 关键指标
     合法率  答案是否落在允许的选项里（模型有没有乱编）
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import json
 import sys
@@ -22,15 +35,6 @@ for _s in (sys.stdout, sys.stderr):
 
 sys.path.insert(0, str(_Path(__file__).resolve().parent))
 from attr_spec import ATTRS, UNSURE  # noqa: E402
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 U = MM_WORK
 def load(tag):
@@ -45,7 +49,6 @@ def load(tag):
     for r in json.loads(p.read_text("utf-8")):
         out[(r.get("category"), r.get("id"))] = r
     return out
-
 
 def main():
     tags = sys.argv[1:3] if len(sys.argv) >= 3 else ["t4b", "t30b"]
@@ -145,7 +148,6 @@ def main():
         b, g = bycat[c]
         print(f"  {c:22s} {g}/{b} = {g / max(b, 1):.3f}")
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

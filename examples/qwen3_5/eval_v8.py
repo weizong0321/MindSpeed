@@ -13,6 +13,19 @@
 另外做换图测试（和 eval_v7 一致）：喂自己的图 vs 喂同子样式的另一张，
 看解析出的属性更匹配哪一张。这直接回答"有没有看图"。
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import argparse
 import json
@@ -35,23 +48,12 @@ from attr_render import parse_values  # noqa: E402
 import torch
 from PIL import Image
 from transformers import AutoProcessor
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 BASE = str(MM_DATA)
-
 
 def clause_of(answer):
     m = re.search(r"图中为(.*?)。", answer)
     return m.group(1).strip() if m else None
-
 
 def load_model(model_dir, device):
     from transformers import AutoConfig
@@ -74,7 +76,6 @@ def load_model(model_dir, device):
                                 trust_remote_code=True)
     return m.eval().to(device)
 
-
 @torch.no_grad()
 def ask(model, proc, eos, path, question, device, max_new=200):
     img = Image.open(path).convert("RGB")
@@ -94,11 +95,9 @@ def ask(model, proc, eos, path, question, device, max_new=200):
     return proc.decode(out[0][inp["input_ids"].shape[1]:],
                        skip_special_tokens=True).strip()
 
-
 def spec_for(cat, selected_spec):
     """把 attr_selected_855.json 的 {cat: [attr,...]} 转成 parse_values 需要的格式"""
     return [{"key": k, "options": None} for k in (selected_spec.get(cat) or [])]
-
 
 def main() -> int:
     ap = argparse.ArgumentParser()
@@ -247,7 +246,6 @@ def main() -> int:
         encoding="utf-8")
     print(f"→ {a.out}", flush=True)
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

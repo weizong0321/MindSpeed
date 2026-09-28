@@ -166,3 +166,6 @@ data/ecommerce_multimodal/assignments.csv
 data/ecommerce_multimodal/montages/
 data/ecommerce_multimodal/sku_montages/
 data/ecommerce_multimodal/*.bak
+
+# 上游 Ascend/MindSpeed 的独立克隆（118MB），不属于本仓库
+MindSpeed/

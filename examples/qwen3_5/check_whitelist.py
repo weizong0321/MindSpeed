@@ -1,6 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """检查白名单在真实数据上的效果：会砍掉多少部件？会不会把图砍到没法用？"""
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import json
 import re

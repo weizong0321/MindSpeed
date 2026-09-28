@@ -17,6 +17,19 @@
     python compose_v7.py --captions /workspace/user_data/captions_all.jsonl \\
         --data sample5 --out sample7
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import argparse
 import json
@@ -33,15 +46,6 @@ for _s in (sys.stdout, sys.stderr):
 
 sys.path.insert(0, str(_Path(__file__).resolve().parent))
 from part_vocab import filter_parts  # noqa: E402
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 FORBIDDEN_IN_ATTRS = ["品牌", "型号", "价格", "容量", "功率", "尺码", "成分"]
 
@@ -57,7 +61,6 @@ CAT_CN = {
     "shoes_sneaker": "运动鞋", "toy_vehicle": "玩具车", "watch": "手表",
 }
 
-
 def strip_visual_clause(text):
     """把 base 答案里的「图中为…」从句摘掉，返回 (前置, 后置)"""
     i = text.find("图中为")
@@ -69,7 +72,6 @@ def strip_visual_clause(text):
         if k >= 0:
             end = min(end, k)
     return text[:i], text[end + 1:] if end < len(text) else ""
-
 
 def visual_clause(attrs, cat):
     """用该图自己的属性生成「图中为…」从句 —— 不含颜色，只含结构。"""
@@ -88,7 +90,6 @@ def visual_clause(attrs, cat):
     if scene:
         seg += "，" + scene
     return seg.strip("，") if seg else "", parts
-
 
 def main() -> int:
     ap = argparse.ArgumentParser()
@@ -225,7 +226,6 @@ def main() -> int:
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("DONE")
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

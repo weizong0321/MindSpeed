@@ -18,6 +18,19 @@
     python extract_and_render.py --model <HF目录> --data sample8b \
         --images sample5 --limit 20
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import argparse
 import json
@@ -38,23 +51,12 @@ from render_answer import render  # noqa: E402
 import attr_spec  # noqa: E402
 
 import torch  # noqa: E402  （load_model 里要用，必须模块级导入）
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 BASE = str(MM_DATA)
-
 
 def clause_of(a):
     m = re.search(r"图中为(.*?)。", a)
     return m.group(1).strip() if m else None
-
 
 def load_model(model_dir, device):
     from transformers import AutoConfig
@@ -76,7 +78,6 @@ def load_model(model_dir, device):
         m = cls.from_pretrained(model_dir, torch_dtype=torch.bfloat16,
                                 trust_remote_code=True)
     return m.eval().to(device)
-
 
 def main() -> int:
     ap = argparse.ArgumentParser()
@@ -194,7 +195,6 @@ def main() -> int:
                            encoding="utf-8")
     print(f"→ {a.out}")
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

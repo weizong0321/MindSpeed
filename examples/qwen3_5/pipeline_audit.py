@@ -12,6 +12,19 @@
     after ：只保留属性，正文由 render_answer 生成
     逐项数缺陷：品类名词写错 / 逻辑别扭句 / 长度 / 属性准确率
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import json
 import re
@@ -28,15 +41,6 @@ sys.path.insert(0, str(_Path(__file__).resolve().parent))
 from attr_render import parse_values  # noqa: E402
 from render_answer import render, CAT_CN  # noqa: E402
 import attr_spec  # noqa: E402
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 U = MM_WORK
 B = Path(str(_REPO_ROOT / "data/ecommerce_multimodal/sample8b"))
@@ -55,15 +59,12 @@ qmap = {}
 for r in json.loads((B / "eval.json").read_text("utf-8")):
     qmap.setdefault(r["image"], r["conversations"][0]["value"])
 
-
 def clause_of(a):
     m = re.search(r"图中为(.*?)。", a)
     return m.group(1).strip() if m else None
 
-
 def head_of(clause):
     return (clause or "").split("，")[0]
-
 
 # ---- 逐条跑流水线 ----
 out = []
@@ -98,7 +99,6 @@ def audit(key):
         if m and ("看不到" in m.group(1) or "图中没有" in m.group(1)):
             bad_short += 1
     return cat_wrong, bad_short, sum(lens) / n, n
-
 
 print("=" * 96)
 print(f"流水线对比（{len(out)} 张图）")

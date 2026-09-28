@@ -6,6 +6,19 @@
     '厚实中底' -> '中底' 是改名，不是删除，但被算进了"被砍掉的词"。
 这版分开统计，才能真正看出白名单砍掉了什么。
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import json
 import re
@@ -21,16 +34,6 @@ for _s in (sys.stdout, sys.stderr):
 
 sys.path.insert(0, str(_Path(__file__).resolve().parent))
 from part_vocab import BLOCKLIST, WHITELIST, GENERIC, filter_parts  # noqa: E402
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
-
 
 def classify(raw_parts, cat):
     """返回 (kept_normalized, renamed, truly_dropped)"""
@@ -57,7 +60,6 @@ def classify(raw_parts, cat):
         else:
             kept.append(match)
     return kept, renamed, dropped
-
 
 CAP = Path("/workspace/user_data/captions_all.jsonl")
 print("=== 855 条标注：白名单效果 ===")

@@ -8,6 +8,19 @@
 用法
     python probe_attrs.py --model <HF目录> --tag t4b --out attr_t4b.json
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import argparse
 import json
@@ -28,18 +41,8 @@ from attr_spec import prompt_for  # noqa: E402
 import torch
 from PIL import Image
 from transformers import AutoProcessor
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 BASE = str(_REPO_ROOT / "data/ecommerce_multimodal/sample5")
-
 
 def extract_json(text):
     text = text.strip()
@@ -53,7 +56,6 @@ def extract_json(text):
         return json.loads(m.group(0))
     except Exception:                                          # noqa: BLE001
         return None
-
 
 def main() -> int:
     ap = argparse.ArgumentParser()
@@ -168,7 +170,6 @@ def main() -> int:
     print(f"→ {a.out}（{len(allrows)} 条；断点文件 {jl}）", flush=True)
     print("PROBE_ATTRS_DONE", flush=True)
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

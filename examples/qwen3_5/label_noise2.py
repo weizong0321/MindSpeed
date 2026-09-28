@@ -6,6 +6,19 @@
     '网面鞋面' vs '鞋面'  → 判为完全不同，其实是一回事。
 训练目标是**白名单归一化之后**的部件，所以稳定性也必须按归一化后的形式来量。
 """
+# --- path shim (portable paths; auto-generated) ---
+import os as _os
+import sys as _sys
+from pathlib import Path as _Path
+_REPO_ROOT = _Path(__file__).resolve().parents[2]
+MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
+MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
+MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
+_skill_scripts = _REPO_ROOT / "skill" / "ecommerce_guide_skill" / "scripts"
+if str(_skill_scripts) not in _sys.path:
+    _sys.path.insert(0, str(_skill_scripts))
+# --- end shim ---
+
 
 import json
 import re
@@ -20,15 +33,6 @@ for _s in (sys.stdout, sys.stderr):
 
 sys.path.insert(0, str(_Path(__file__).resolve().parent))
 from part_vocab import filter_parts  # noqa: E402
-# --- path shim (auto-added for portability) ---
-import os as _os
-from pathlib import Path as _Path
-_REPO_ROOT = _Path(__file__).resolve().parents[2]
-MM_DATA = _Path(_os.environ.get("MM_DATA", _REPO_ROOT / "data" / "ecommerce_multimodal"))
-MM_WORK = _Path(_os.environ.get("MM_WORK", _REPO_ROOT / "work"))
-MM_EX = _REPO_ROOT / "examples" / "qwen3_5"
-# --- end shim ---
-
 
 U = MM_WORK
 B = Path(str(_REPO_ROOT / "data/ecommerce_multimodal/sample5"))
@@ -37,7 +41,6 @@ gi = json.loads((B / "gate_images.json").read_text("utf-8"))
 sku2cat = {it["sku"]: it["category"] for it in gi}
 id2cat = {f"A{i:02d}": it["category"] for i, it in enumerate(gi, 1)}
 
-
 def jac(a, b):
     a, b = set(a), set(b)
     if not a and not b:
@@ -45,7 +48,6 @@ def jac(a, b):
     if not a or not b:
         return 0.0
     return len(a & b) / len(a | b)
-
 
 def parts_from_raw(raw):
     m = re.search(r"\{.*\}", raw or "", re.S)
@@ -57,7 +59,6 @@ def parts_from_raw(raw):
         return []
     return [p for p in (j.get("parts") or []) if isinstance(p, str)]
 
-
 def load(path, **kw):
     p = U / path
     if not p.exists():
@@ -66,7 +67,6 @@ def load(path, **kw):
     if "rows" in d:
         return {r["id"]: parts_from_raw(r.get("raw", "")) for r in d["rows"]}
     return {}
-
 
 src = {}
 pp = U / "gate_prompt_probe.json"
